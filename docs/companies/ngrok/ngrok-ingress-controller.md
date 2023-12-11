@@ -1,5 +1,9 @@
 # ngrok Ingress Controller for Kubernetes
 
+> The ngrok Ingress Controller for Kubernetes is our official open-source controller for adding public and secure ingress traffic to your k8s services. You can think of the ngrok Ingress Controller as ngrok packaged as an idiomatic k8s controller — deployed via a simple helm chart, configurable via standard k8s Ingress object (using the kind: Ingress construct), and compatible with k8s best practices.
+>
+> &mdash; _[ngrok.com/docs/using-ngrok-with/k8s](https://ngrok.com/docs/using-ngrok-with/k8s/)_
+
 🌐 [docs](https://ngrok.com/docs/using-ngrok-with/k8s/), [code](https://github.com/ngrok/kubernetes-ingress-controller)
 
 ## Installation
