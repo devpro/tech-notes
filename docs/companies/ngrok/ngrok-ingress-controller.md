@@ -6,6 +6,10 @@
 
 🌐 [docs](https://ngrok.com/docs/using-ngrok-with/k8s/), [code](https://github.com/ngrok/kubernetes-ingress-controller)
 
+## Introduction
+
+ngrok Ingress Controller was announced in June of 2023, read the [blog post](https://ngrok.com/blog-post/ngrok-k8s) to know more about it.
+
 ## Installation
 
 We can install ngrok Ingress Controller with the official [Helm chart](https://ngrok.github.io/kubernetes-ingress-controller/) ([code](https://github.com/ngrok/kubernetes-ingress-controller/tree/main/helm/ingress-controller)).
