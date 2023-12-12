@@ -8,10 +8,11 @@
 
 ## CLI cheat sheet
 
-Command                              | Action
--------------------------------------|---------------------------
-`trivy version`                      | Displays version
-`trivy k8s --report=summary cluster` | Scans a Kubernetes cluster
+Command                                              | Action
+-----------------------------------------------------|---------------------------
+`trivy version`                                      | Displays version
+`trivy image --severity HIGH,CRITICAL alpine:3.13.4` | Scans image alpine:3.13.4 and only displays severity HIGH and CRITICAL
+`trivy k8s --report=summary cluster`                 | Scans a Kubernetes cluster
 
 ## Tips
 
