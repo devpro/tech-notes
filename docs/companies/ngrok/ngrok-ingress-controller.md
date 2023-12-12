@@ -25,3 +25,7 @@ helm install ngrok-ingress-controller ngrok/kubernetes-ingress-controller \
   --set credentials.apiKey=$NGROK_API_KEY \
   --set credentials.authtoken=$NGROK_AUTHTOKEN
 ```
+
+## Integrations
+
+* [Rancher](https://ngrok.com/docs/integrations/rancher/k8s/)

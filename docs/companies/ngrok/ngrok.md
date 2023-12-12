@@ -9,3 +9,8 @@
 ## Components
 
 * [Kubernetes Ingress Controller](ngrok-ingress-controller.md)
+
+## Partners
+
+* [SUSE Rancher](https://ngrok.com/partners/suse-rancher)
+  * [SUSE: Overcoming Kubernetes Complexity and Improving Collaboration](https://www.suse.com/c/overcoming-kubernetes-complexity-and-improving-collaboration/) - October 18, 2023
