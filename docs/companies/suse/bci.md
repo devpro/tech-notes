@@ -10,3 +10,7 @@
 
 * [openSUSE Conference 2022](https://www.youtube.com/watch?v=TMHY_eohJNE)
 * [SUSECON digital 2022](https://www.youtube.com/watch?v=bZiOHqadqd0)
+
+## Source code
+
+* [SUSE/bci-docs](https://github.com/SUSE/bci-docs)
