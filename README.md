@@ -8,3 +8,4 @@ Resources to help you learn about Information Technology (IT).
 
 * [Companies](docs/companies/companies.md)
 * [Foundations](docs/foundations/foundations.md)
+* [Training](docs/training/training.md)
