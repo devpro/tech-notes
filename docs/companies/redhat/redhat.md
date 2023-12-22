@@ -12,27 +12,27 @@
 
 Category                  | Name
 --------------------------|-----------------------------------------------------------------
-Cloud Native              | [OpenShift](../openshift.md), [Quay](../quay.md)
-Infrastructure Automation | [Ansible Automation Platform](../ansible-automation-platform.md)
-Linux                     | [RHEL](../rhel.md)
-Management                | [Insights](../insights.md), [Satellite](../satellite.md)
-Storage                   | [Ceph Storage](../ceph-storage.md)
-Virtualization            | [OpenStack Platform](../openstack-platform.md)
+Cloud Native              | [OpenShift](openshift.md), [Quay](quay.md)
+Infrastructure Automation | [Ansible Automation Platform](ansible-automation-platform.md)
+Linux                     | [RHEL](rhel.md)
+Management                | [Insights](insights.md), [Satellite](satellite.md)
+Storage                   | [Ceph Storage](ceph-storage.md)
+Virtualization            | [OpenStack Platform](openstack-platform.md)
 
 # Open source
 
 [redhatofficial.github.io](https://redhatofficial.github.io/)
 [redhat.com/about/our-community-contributions](https://www.redhat.com/en/about/our-community-contributions)
 
-* [Ansible](../ansible.md)
-* [Ceph](../ceph.md)
-* [Project Quay](../project-quay.md)
-* [RDO](../rdo.md)
+* [Ansible](ansible.md)
+* [Ceph](ceph.md)
+* [Project Quay](project-quay.md)
+* [RDO](rdo.md)
 
 ## Learning places
 
 * [Red Hat Communities of Practice](https://github.com/redhat-cop)
-* [Red Hat Developer](../redhat-developer.md)
+* [Red Hat Developer](redhat-developer.md)
 * [Red Hat Scholars](https://github.com/redhat-scholars)
 * [Red Hat Training](https://github.com/RedHatTraining)
 
