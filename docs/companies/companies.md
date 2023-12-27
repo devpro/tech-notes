@@ -2,6 +2,7 @@
 
 * [Aqua](aqua/aqua.md)
 * [Docker](docker/docker.md)
+* [Elastic](elastic/elastic.md)
 * [Gitlab](gitlab/gitlab.md)
 * [Microsoft](microsoft/microsoft.md)
 * [Mongodb](mongodb/mongodb.md)
@@ -9,4 +10,5 @@
 * [Redhat](redhat/redhat.md)
 * [Suse](suse/suse.md)
 * [Sysdig](sysdig/sysdig.md)
+* [Ubuntu](ubuntu/ubuntu.md)
 * [VMware](vmware/vmware.md)
