@@ -49,3 +49,10 @@ wget -O- -q https://raw.githubusercontent.com/devpro/information-technology-guid
 ```
 
 Open the web application ("https://$NGROK_DOMAIN") and enjoy the game!
+
+Clean-up the resources.
+
+```bash
+# deletes with Helm
+helm delete ngrok-ingress-controller --namespace ngrok-ingress-controller
+```
