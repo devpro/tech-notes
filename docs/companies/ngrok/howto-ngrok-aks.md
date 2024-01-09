@@ -20,16 +20,16 @@ Install with Helm.
 # adds repo
 helm repo add ngrok https://ngrok.github.io/kubernetes-ingress-controller
 
-# sets ngrok authentication (see https://dashboard.ngrok.com/get-started/your-authtoken, https://dashboard.ngrok.com/api)
-export NGROK_AUTHTOKEN=[AUTHTOKEN]
-export NGROK_APIKEY=[APIKEY]
+# creates secret (see https://dashboard.ngrok.com/get-started/your-authtoken, https://dashboard.ngrok.com/api)
+kubectl create secret generic --namespace ngrok-ingress-controller ngrok-credentials \
+--from-literal=AUTHTOKEN=[AUTHTOKEN] \
+--from-literal=API_KEY=[APIKEY]
 
 # installs with Helm (see https://github.com/ngrok/kubernetes-ingress-controller/tree/main/helm/ingress-controller)
 helm upgrade --install ngrok-ingress-controller ngrok/kubernetes-ingress-controller \
 --namespace ngrok-ingress-controller \
 --create-namespace \
---set credentials.apiKey=$NGROK_APIKEY \
---set credentials.authtoken=$NGROK_AUTHTOKEN
+--set credentials.secret.name=ngrok-credentials
 ```
 
 Create a demo workload in the cluster

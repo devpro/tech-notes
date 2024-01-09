@@ -27,6 +27,14 @@ helm install ngrok-ingress-controller ngrok/kubernetes-ingress-controller \
 --set credentials.authtoken=$NGROK_AUTHTOKEN
 ```
 
+## Tutorials
+
+* [How to use ngrok with Azure Kubernetes Services (AKS)](howto-ngrok-aks.md)
+
+## Know limitations
+
+* Rolling update will fail for free accounts, see [Issue #266](https://github.com/ngrok/kubernetes-ingress-controller/issues/266)
+
 ## Integrations
 
 * [Rancher](https://ngrok.com/docs/integrations/rancher/k8s/)
