@@ -10,9 +10,22 @@
 
 ## Components
 
+### Cloud Native
+
 * [Kubernetes Ingress Controller](ngrok-ingress-controller.md)
 
+### Infrastructure automation
+
+* [Puppet module](https://forge.puppet.com/modules/gabe/ngrok/readme)
+* [Terraform provider](https://registry.terraform.io/providers/ngrok/ngrok) ([code](https://github.com/ngrok/terraform-provider-ngrok))
+
+### SDK
+
+* [.NET API client](https://www.nuget.org/packages/NgrokApi) ([code](https://github.com/ngrok/ngrok-api-dotnet))
+
 ## Partners
+
+### SUSE
 
 * [SUSE Rancher](https://ngrok.com/partners/suse-rancher)
     * [SUSE: Overcoming Kubernetes Complexity and Improving Collaboration](https://www.suse.com/c/overcoming-kubernetes-complexity-and-improving-collaboration/) - October 18, 2023
