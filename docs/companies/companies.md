@@ -10,7 +10,7 @@
 * [ngrok](ngrok/ngrok.md)
 * [Oracle](oracle/oracle.md)
 * [Redhat](redhat/redhat.md)
-* [Suse](suse/suse.md)
+* [SUSE](suse/suse.md)
 * [Sysdig](sysdig/sysdig.md)
 * [Ubuntu](ubuntu/ubuntu.md)
 * [VMware](vmware/vmware.md)
