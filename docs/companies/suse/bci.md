@@ -13,4 +13,6 @@
 
 ## Source code
 
+* [SUSE/bci](https://github.com/SUSE/bci)
 * [SUSE/bci-docs](https://github.com/SUSE/bci-docs)
+* [SUSE/BCI-dockerfile-generator](https://github.com/SUSE/BCI-dockerfile-generator)
