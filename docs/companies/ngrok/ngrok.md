@@ -8,11 +8,13 @@
 
 🌐 [ngrok.com](https://ngrok.com/), [docs](https://ngrok.com/docs/what-is-ngrok/), [GitHub](https://github.com/ngrok), [Dashboard](https://dashboard.ngrok.com/)
 
-## Components
+## Features
 
 ### Cloud Native
 
 * [Kubernetes Ingress Controller](ngrok-ingress-controller.md)
+
+## Administration
 
 ### Infrastructure automation
 
