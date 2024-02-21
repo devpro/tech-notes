@@ -1,6 +1,7 @@
 # Companies
 
 * [Aqua](aqua/aqua.md)
+* [Civo](https://www.civo.com/)
 * [Docker](docker/docker.md)
 * [Elastic](elastic/elastic.md)
 * [Gitlab](gitlab/gitlab.md)
