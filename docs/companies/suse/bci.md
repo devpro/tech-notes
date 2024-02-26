@@ -11,6 +11,10 @@
 * [openSUSE Conference 2022](https://www.youtube.com/watch?v=TMHY_eohJNE)
 * [SUSECON digital 2022](https://www.youtube.com/watch?v=bZiOHqadqd0)
 
+## Catalog
+
+* [Development builds](https://registry.opensuse.org/cgi-bin/cooverview?srch_term=project%3D%5E%28%3F%21%28open%29%3FSUSE%3A%7Ckubic%3A%7Chome%3A%29)
+
 ## Source code
 
 * [SUSE/bci](https://github.com/SUSE/bci)
