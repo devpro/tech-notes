@@ -10,6 +10,7 @@
 * [openSUSE](opensuse.md)
 * [Rancher](rancher.md)
 * [SLES](sles.md) (SUSE Linux Enterprise Server)
+* [SLE Micro](sle-micro.md)
 
 ### Commercial offer
 
