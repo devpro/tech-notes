@@ -10,3 +10,4 @@ It leverages the enterprise hardened security and compliance components of SUSE 
 ### Combustion
 
 * [Configuring with Combustion](https://documentation.suse.com/sle-micro/5.5/html/SLE-Micro-all/cha-images-combustion.html)
+* [Ignition & Combustion Config Generator](https://opensuse.github.io/fuel-ignition/)
