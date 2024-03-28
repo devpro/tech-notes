@@ -1,1 +1,1 @@
-# SLES
+# SUSE Linux Enterprise Server (SLES)

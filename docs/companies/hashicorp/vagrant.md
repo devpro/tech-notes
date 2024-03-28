@@ -2,4 +2,4 @@
 
 ## Tutorials
 
-* [How to run Vagrant on Ubuntu](howto-vagrant-ubuntu.md)
+* [How to run Vagrant on Ubuntu](vagrant-ubuntu-howto.md)
