@@ -1,3 +1,3 @@
 # SUSE Application Collection
 
-[apps.rancher.io](https://apps.rancher.io/)
+🌐 [apps.rancher.io](https://apps.rancher.io/)
