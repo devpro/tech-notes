@@ -1,6 +1,6 @@
 #  Amazon Web Services (AWS)
 
-🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/)
+🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/), [console](https://console.aws.amazon.com/), [marketplace](https://aws.amazon.com/marketplace/)
 
 ## Learning
 
@@ -10,9 +10,9 @@ Amazon.com Web Service was launched in 2002
 
 ### Key concepts
 
-Service Delivery: Regions and availability zones
+Service Delivery: regions and availability zones
 
-Service Categories: Compute, storage, networking, [databases](https://aws.amazon.com/products/databases/), IAM (Identity & Access Management), containers, developer tools, management & governance, machine learning
+Service Categories: compute, storage, networking, databases, IAM, containers, developer tools, management & governance, machine learning
 
 ### Security & compliance
 
@@ -53,13 +53,3 @@ Service Categories: Compute, storage, networking, [databases](https://aws.amazon
 
 * [AWS Conferences (Youtube)](https://www.youtube.com/@AWSEventsChannel)
 * [AWS Streaming (Twitch)](https://www.twitch.tv/aws)
-
-## Usecases
-
-### Migration & transfer
-
-🌐 [aws.amazon.com/products](https://aws.amazon.com/products/migration-and-transfer/)
-
-* [Migration Hub](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html): Discover, Assess, Migrate
-* [Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/) ([docs](https://docs.aws.amazon.com/m2/latest/userguide/what-is-m2.html))
-* [Database Migration Service](https://docs.aws.amazon.com/dms/latest/userguide/Welcome.html)
