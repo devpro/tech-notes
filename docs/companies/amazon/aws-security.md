@@ -1,5 +1,11 @@
 # Security in AWS
 
+### Readings
+
+* [Compliance](https://aws.amazon.com/compliance/)
+* [Share responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+* [Security](https://aws.amazon.com/security/)
+
 ## Products
 
 ### CloudTrail
@@ -14,7 +20,13 @@
 
 🌐 [docs](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)
 
-Advices: use groups, policies, roles
+Advices: user groups, policies, roles
+
+### KMS
+
+> AWS Key Management Service (AWS KMS) is a managed service that makes it easy for you to create and control the cryptographic keys that are used to protect your data. AWS KMS uses hardware security modules (HSM) to protect and validate your AWS KMS keys under the FIPS 140-2 Cryptographic Module Validation Program.
+
+🌐 [docs](https://docs.aws.amazon.com/kms/latest/developerguide/overview.html)
 
 ### Organizations
 

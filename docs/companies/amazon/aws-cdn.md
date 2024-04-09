@@ -1,4 +1,4 @@
-# Content Delivery Networks in AWS
+# Content Delivery Networks (CDN) in AWS
 
 ## Products
 

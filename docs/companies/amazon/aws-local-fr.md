@@ -2,7 +2,7 @@
 
 ## Evènements
 
-* [AWS](https://aws.amazon.com/fr/events/explore-aws-events/)
+* [Explorez tous les événements AWS](https://aws.amazon.com/fr/events/explore-aws-events/)
 
 ## Podcasts
 

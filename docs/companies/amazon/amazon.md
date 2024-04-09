@@ -2,7 +2,7 @@
 
 ## Commercial offer
 
-* [Amazon Web Services (AWS)](aws.md)
+* [AWS](aws.md)
 
 ## Hiring
 
