@@ -2,6 +2,11 @@
 
 🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/), [console](https://console.aws.amazon.com/), [marketplace](https://aws.amazon.com/marketplace/)
 
+## Content
+
+* [Glossary](aws-glossary.md)
+* [Products](aws-products.md)
+
 ## Learning
 
 ### History
