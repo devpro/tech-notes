@@ -3,8 +3,9 @@
 ### Readings
 
 * [Compliance](https://aws.amazon.com/compliance/)
-* [Share responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 * [Security](https://aws.amazon.com/security/)
+* [Share responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
+* [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
 ## Products
 
@@ -13,6 +14,12 @@
 > AWS CloudTrail is an AWS service that helps you enable operational and risk auditing, governance, and compliance of your AWS account. Actions taken by a user, role, or an AWS service are recorded as events in CloudTrail. Events include actions taken in the AWS Management Console, AWS Command Line Interface, and AWS SDKs and APIs.
 
 🌐 [docs](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html)
+
+### Control Tower
+
+> AWS Control Tower offers a straightforward way to set up and govern an AWS multi-account environment, following prescriptive best practices. AWS Control Tower orchestrates the capabilities of several other AWS services, including AWS Organizations, AWS Service Catalog, and AWS IAM Identity Center, to build a landing zone in less than an hour. Resources are set up and managed on your behalf.
+
+🌐 [docs](https://docs.aws.amazon.com/controltower/latest/userguide/what-is-control-tower.html)
 
 ### IAM
 

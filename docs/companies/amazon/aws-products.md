@@ -3,7 +3,8 @@
 ## Content
 
 Category             | Name
----------------------|----------------------------
+---------------------|--------------------------------------------------------------------------------
+AI                   | [Bedrock](aws-ai.md#bedrock)
 API Management       | [API Gateway](aws-api-management.md#api-gateway)
 Application Platform | [App Runner](aws-application-platform.md#app-runner)
 Application Platform | [Elastic Beanstalk](aws-application-platform.md#elastic-beanstalk)
@@ -25,11 +26,14 @@ Migration            | [Application Discovery Service](aws-migration.md#applicat
 Migration            | [Application Migration Service](aws-migration.md#application-migration-service)
 Migration            | [Database Migration Service](aws-migration.md#database-migration-service)
 Migration            | [DataSync](aws-migration.md#datasync)
+Migration            | [Migration Hub](aws-migration.md#migration-hub)
+Migration            | [Schema Conversion Tool](aws-migration.md#schema-conversion-tool)
 Networking           | [Direct Connect](aws-networking.md#direct-connect)
 Networking           | [PrivateLink](aws-networking.md#privatelink)
 Networking           | [VPC](aws-networking.md#vpc)
 Notification         | [SNS](aws-notification.md#sns)
 Security             | [CloudTrail](aws-security.md#cloudtrail)
+Security             | [Control Tower](aws-security.md#control-tower)
 Security             | [IAM](aws-security.md#iam)
 Security             | [KMS](aws-security.md#kms)
 Security             | [Organizations](aws-security.md#organizations)

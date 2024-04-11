@@ -23,29 +23,37 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 ### Skill centers
 
 * [Architecture Center](https://aws.amazon.com/architecture/)
+  * [Reference Architecture Diagrams](https://aws.amazon.com/architecture/reference-architecture-diagrams/)
 * [Blogs](https://aws.amazon.com/blogs/)
-* [Skill Builder](https://skillbuilder.aws/)
 * [Hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/)
+* [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
+* [Skill Builder](https://skillbuilder.aws/)
 * [Well-Architected](https://aws.amazon.com/architecture/well-architected/)
   * Six Pillars: [Operational Excellence](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html), [Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html), [Reliability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html), [Performance Efficiency](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html), [Cost Optimization](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html), [Sustainability](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
   * [Labs](https://www.wellarchitectedlabs.com/)
   * [Tool](https://aws.amazon.com/well-architected-tool/)
 * [Whitepapers](https://aws.amazon.com/whitepapers/)
+  * [Public Sector Cloud Transformation](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/public-sector-cloud-transformation.html)
 * [Workshops](https://workshops.aws/)
 
 ### Frameworks
 
 * [Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
 
+### Certifications
+
+* [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+  * Courses: [A Cloud Guru](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview)
+
 ### Courses
 
+* [AWS Cloud Institude](https://aws.amazon.com/training/aws-cloud-institute/)
 * [DataCumulus](https://courses.datacumulus.com/)
-* A Cloud Guru: [AWS Certified Solutions Architect - Associate)](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview)
 
 ### Quickstart
 
 * [Overwiew](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
-* [Getting starter](https://aws.amazon.com/getting-started)
+* [Getting started](https://aws.amazon.com/getting-started)
 
 ## Events
 

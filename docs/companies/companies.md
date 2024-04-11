@@ -2,8 +2,8 @@
 
 ## Software vendors & services
 
-* [Amazon](amazon/amazon.md)
 * [Akuity](https://akuity.io/)
+* [Amazon](amazon/amazon.md)
 * [Aqua](aqua/aqua.md)
 * [Civo](https://www.civo.com/)
 * [Docker](docker/docker.md)
