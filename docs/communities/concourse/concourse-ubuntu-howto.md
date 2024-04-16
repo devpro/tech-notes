@@ -40,7 +40,7 @@ This is the fix for the post-installation issue, while getting a git repository 
 > fly -t vmazure check-resource -r aspnetcore/git-repository  
 > id  name            status   check_error  
 > 3   git-repository  errored  resource script '/opt/resource/check []' failed: exit status 128
-
+>
 > stderr:  
 > Cloning into '/tmp/git-resource-repo-cache'...  
 > fatal: unable to access 'xxx': Could not resolve host: github.com

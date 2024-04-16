@@ -30,5 +30,5 @@
 ### SUSE
 
 * [SUSE Rancher](https://ngrok.com/partners/suse-rancher)
-    * [SUSE: Overcoming Kubernetes Complexity and Improving Collaboration](https://www.suse.com/c/overcoming-kubernetes-complexity-and-improving-collaboration/) - October 18, 2023
-    * [Ingress to applications managed by Rancher in Kubernetes](https://ngrok.com/docs/integrations/rancher/k8s/)
+  * [SUSE: Overcoming Kubernetes Complexity and Improving Collaboration](https://www.suse.com/c/overcoming-kubernetes-complexity-and-improving-collaboration/) - October 18, 2023
+  * [Ingress to applications managed by Rancher in Kubernetes](https://ngrok.com/docs/integrations/rancher/k8s/)

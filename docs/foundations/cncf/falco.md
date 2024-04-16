@@ -10,7 +10,7 @@
 
 ## Architecture
 
-![](https://falco.org/docs/getting-started/images/falco-architecture-v2.png)
+![Falco architecture diagram](https://falco.org/docs/getting-started/images/falco-architecture-v2.png)
 
 ## Getting started
 

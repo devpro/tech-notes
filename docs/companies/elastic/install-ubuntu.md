@@ -154,8 +154,8 @@ sudo /usr/share/logstash/bin/logstash -e 'input { stdin { } } output { stdout {}
 
 Type | Path | Content
 ---- | ---- | -------
-Configuration | `/etc/logstash` |
-Log files | `/var/log/logstash` |
+Configuration | `/etc/logstash` | -
+Log files | `/var/log/logstash` | -
 Pipeline Configuration Files | `/etc/logstash/conf.d` | `.conf` files ([elastic.co](https://www.elastic.co/guide/en/logstash/6.2/config-setting-files.html))
 
 - Exemple

@@ -19,7 +19,7 @@ Management                | [Insights](insights.md), [Satellite](satellite.md)
 Storage                   | [Ceph Storage](ceph-storage.md)
 Virtualization            | [OpenStack Platform](openstack-platform.md)
 
-# Open source
+## Open source
 
 [redhatofficial.github.io](https://redhatofficial.github.io/)
 [redhat.com/about/our-community-contributions](https://www.redhat.com/en/about/our-community-contributions)

@@ -4,4 +4,5 @@ default: true
 #   indent: 4   # needed by PyMdown Extensions
 MD013:
   line_length: 320
+MD033: false
 MD046: false

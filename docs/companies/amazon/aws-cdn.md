@@ -3,7 +3,7 @@
 ## Presentation
 
 > A content delivery network (CDN) is a network of interconnected servers that speeds up webpage loading for data-heavy applications.
->  
+>
 > CDNs work by establishing a point of presence (POP) or a group of CDN edge servers at multiple geographical locations.
 > This geographically distributed network works on the principles of caching, dynamic acceleration, and edge logic computations.
 

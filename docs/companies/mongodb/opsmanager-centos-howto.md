@@ -293,7 +293,7 @@ telnet smtp.mycompany.lan 25
 
 ## Appendix
 
-### Follow what's going on!
+### Follow what's going on
 
 You can tail the automataion log file.
 
@@ -381,7 +381,7 @@ If you followed this procedure, you will probably get this warnings.
   > addresses it should serve responses from, or with --bind_ip_all to  
   > bind to all interfaces. If this behavior is desired, start the  
   > server with --bind_ip 127.0.0.1 to disable this warning.
- 
+
 - _/sys/kernel/mm/transparent_hugepage/enabled is 'always'_
 
   > WARNING: /sys/kernel/mm/transparent_hugepage/enabled is 'always'.  
@@ -390,7 +390,7 @@ If you followed this procedure, you will probably get this warnings.
 - _Using the XFS filesystem is strongly recommended with the WiredTiger storage engine_
 
   > WARNING: Using the XFS filesystem is strongly recommended with the WiredTiger storage engine,  
-  > See http://dochub.mongodb.org/core/prodnotes-filesystem,
+  > See [dochub.mongodb.org/core/prodnotes-filesystem](http://dochub.mongodb.org/core/prodnotes-filesystem),
 
   You can review the different mount drives by executing: `sudo df -hT`.
 
