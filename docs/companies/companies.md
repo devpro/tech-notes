@@ -12,6 +12,7 @@
 * [Gitlab](gitlab/gitlab.md)
 * [HashiCorp](hashicorp/hashicorp.md)
 * [Isovalent](https://isovalent.com/)
+* [JetBrains](jetbrains/jetbrains.md)
 * [JFrog](jfrog/jfrog.md)
 * [Microsoft](microsoft/microsoft.md)
 * [Mongodb](mongodb/mongodb.md)

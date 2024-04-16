@@ -3,15 +3,12 @@
 > Red Hat is the leading provider of enterprise open source software solutions.
 > Enterprises around the world trust (Red Hat) broad portfolio of hybrid cloud infrastructure, application services, cloud-native application development, and automation solutions to deliver IT services on any infrastructure quickly and cost effectively.
 
-[redhat.com](https://www.redhat.com/)
-[GitHub organization](https://github.com/RedHatOfficial)
+🌐 [redhat.com](https://www.redhat.com/), [GitHub organization](https://github.com/RedHatOfficial)
 
 ## Products
 
-[redhat.com/technologies/all-products](https://www.redhat.com/en/technologies/all-products)
-
 Category                  | Name
---------------------------|-----------------------------------------------------------------
+--------------------------|--------------------------------------------------------------
 Cloud Native              | [OpenShift](openshift.md), [Quay](quay.md)
 Infrastructure Automation | [Ansible Automation Platform](ansible-automation-platform.md)
 Linux                     | [RHEL](rhel.md)
@@ -19,15 +16,16 @@ Management                | [Insights](insights.md), [Satellite](satellite.md)
 Storage                   | [Ceph Storage](ceph-storage.md)
 Virtualization            | [OpenStack Platform](openstack-platform.md)
 
-## Open source
+🌐 [redhat.com/technologies/all-products](https://www.redhat.com/en/technologies/all-products)
 
-[redhatofficial.github.io](https://redhatofficial.github.io/)
-[redhat.com/about/our-community-contributions](https://www.redhat.com/en/about/our-community-contributions)
+## Open source
 
 * [Ansible](ansible.md)
 * [Ceph](ceph.md)
 * [Project Quay](project-quay.md)
 * [RDO](rdo.md)
+
+🌐 [redhatofficial.github.io](https://redhatofficial.github.io/), [redhat.com/about/our-community-contributions](https://www.redhat.com/en/about/our-community-contributions)
 
 ## Learning places
 
