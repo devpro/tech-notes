@@ -6,6 +6,7 @@
 * [Amazon](amazon/amazon.md)
 * [Aqua](aqua/aqua.md)
 * [Civo](https://www.civo.com/)
+* [Confluent](confluent/confluent.md)
 * [Docker](docker/docker.md)
 * [Elastic](elastic/elastic.md)
 * [Elastisys](https://elastisys.com)
