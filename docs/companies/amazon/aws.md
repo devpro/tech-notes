@@ -1,4 +1,4 @@
-#  Amazon Web Services (AWS)
+# Amazon Web Services (AWS)
 
 🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/), [console](https://console.aws.amazon.com/), [marketplace](https://aws.amazon.com/marketplace/)
 
@@ -29,7 +29,12 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 * [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
 * [Skill Builder](https://skillbuilder.aws/)
 * [Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-  * Six Pillars: [Operational Excellence](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html), [Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html), [Reliability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html), [Performance Efficiency](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html), [Cost Optimization](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html), [Sustainability](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
+  * Six Pillars: [Operational Excellence](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html),
+  [Security](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html),
+  [Reliability](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html),
+  [Performance Efficiency](https://docs.aws.amazon.com/wellarchitected/latest/performance-efficiency-pillar/welcome.html),
+  [Cost Optimization](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/welcome.html),
+  [Sustainability](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sustainability-pillar.html)
   * [Labs](https://www.wellarchitectedlabs.com/)
   * [Tool](https://aws.amazon.com/well-architected-tool/)
 * [Whitepapers](https://aws.amazon.com/whitepapers/)

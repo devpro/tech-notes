@@ -13,36 +13,18 @@ Make sure all your workstation public keys are in `~/.ssh/authorized_keys` (one 
 #### Activate the firewall
 
 ```bash
+# lists available applications (OpenSSH here)
 sudo ufw app list
-```
 
-> Available applications:  
-> OpenSSH  
-
-```bash
+# updates rules to allow OpenSSH
 sudo ufw allow OpenSSH
-```
 
-> Rules updated  
-> Rules updated (v6)  
-
-```bash
+# activates the firewall and enables it on system startup
 sudo ufw enable
-```
 
-> Command may disrupt existing ssh connections. Proceed with operation (y|n)? y  
-> Firewall is active and enabled on system startup  
-
-```bash
+# checks status
 sudo ufw status
 ```
-
-> Status: active  
->  
-> To                         Action      From  
-> --                         ------      ----  
-> OpenSSH                    ALLOW       Anywhere  
-> OpenSSH (v6)               ALLOW       Anywhere (v6)  
 
 #### Ubuntu 18.04 patch
 
@@ -57,11 +39,11 @@ This is the fix for the post-installation issue, while getting a git repository 
 
 > fly -t vmazure check-resource -r aspnetcore/git-repository  
 > id  name            status   check_error  
-> 3   git-repository  errored  resource script '/opt/resource/check []' failed: exit status 128  
->  
+> 3   git-repository  errored  resource script '/opt/resource/check []' failed: exit status 128
+
 > stderr:  
 > Cloning into '/tmp/git-resource-repo-cache'...  
-> fatal: unable to access 'https://github.com/devpro/cf-dotnet-samples.git/': Could not resolve host: github.com  
+> fatal: unable to access 'xxx': Could not resolve host: github.com
 
 #### DNS registry
 

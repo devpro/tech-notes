@@ -9,7 +9,7 @@
 ### STAR interview format
 
 This is a method for behavioral-based interview questions (ref. [Interview](https://www.amazon.jobs/en/landing_pages/in-person-interview)).
- 
+
 Subject   | What to describe
 ----------|-----------------
 SITUATION | The situation or task to do, with enough details for the interviewer to understand the complexities of the situation
