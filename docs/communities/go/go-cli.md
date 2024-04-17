@@ -11,9 +11,3 @@ Command                      | Action
 `go install <domain>/<pkg>`  | Builds and installs the program with the go tool (in $HOME/go/bin/hello or %USERPROFILE%\go\bin\hello.exe)
 
 [docs](https://golang.org/doc/cmd)
-
-## Additional commands
-
-* [gofmt](https://pkg.go.dev/cmd/gofmt)
-* [golint](https://pkg.go.dev/golang.org/x/lint/golint)
-* [govulncheck](https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck) ([The Go Blog - Vulnerability Management for Go](https://go.dev/blog/vuln))

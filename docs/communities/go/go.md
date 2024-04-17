@@ -9,6 +9,10 @@
 - [CLI](go-cli.md)
 - [Installation](go-installation.md)
 
+## History
+
+Go was created at Google in 2007 and first released to the public in 2009.
+
 ## Quick start
 
 ### Multipe Go versions
@@ -50,9 +54,10 @@ Installed at C:\Users\<username>\go\bin in module mode:
 
 ### Getting started
 
-- [A Tour of Go](https://tour.golang.org/welcome/1)
+- [A tour of Go](https://go.dev/tour/list)
 - [The Go Playground](https://play.golang.org/)
 - [How to Write Go Code](https://golang.org/doc/code.html)
+- [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started)
 
 ### Additional readings
 
@@ -82,10 +87,30 @@ Installed at C:\Users\<username>\go\bin in module mode:
 - Fiber: [gofiber.io](https://gofiber.io/) ([gofiber/fiber](https://github.com/gofiber/fiber))
   - [Building a Basic REST API in Go using Fiber](https://tutorialedge.net/golang/basic-rest-api-go-fiber/)
 
-## Tools
+### Other resources
 
-### Gofmt
+- [baijum/essential-go](https://github.com/baijum/essential-go)
 
-[Gofmt](https://golang.org/cmd/gofmt/)
+- [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
+- [CodeCrafters](https://app.codecrafters.io/tracks/go)
+- [Go by Example](https://gobyexample.com/)
+- [gophercises](https://gophercises.com/)
+- [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Go Programming (Golang): The Complete Developer's Guide](https://zerotomastery.io/courses/learn-golang/)
+- Pluralsight
+  - [Go Core Language](https://app.pluralsight.com/paths/skill/go-core-language)
+  - [Go Fundamentals](https://www.pluralsight.com/courses/go-fundamentals)
+- CodeCademy
+  - [Learn Go](https://www.codecademy.com/learn/learn-go)
+- Coursera
+  - [Programming with Google Go Specialization](https://www.coursera.org/specializations/google-golang)
+- Udemy
+  - [Go: The Complete Developer's Guide (Golang)](https://www.udemy.com/course/go-the-complete-developers-guide/)
+- Youtube
+  - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) by freeCodeCamp.org
 
-Formats Go programs. It uses tabs for indentation and blanks for alignment. Alignment assumes that an editor is using a fixed-width font.
+- [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
+- [temporalio/samples-go](https://github.com/temporalio/samples-go)
+- [apache/dubbo-go-samples](https://github.com/apache/dubbo-go-samples)
+- [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat)
+- [betty200744/ultimate-go](https://github.com/betty200744/ultimate-go)
