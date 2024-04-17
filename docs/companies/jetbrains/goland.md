@@ -1,5 +1,7 @@
 # GoLand
 
+[jetbrains.com/go](https://www.jetbrains.com/go/)
+
 ## Configuration
 
 Key mapping & behavior can be changed from `Settings` | `Keymap`.
@@ -9,8 +11,9 @@ Key mapping & behavior can be changed from `Settings` | `Keymap`.
 Key combination          | Action
 -------------------------|-----------------------------------------------------------------------
 `Ctrl` `Shift` `F10`     | Runs the project
-`Alt` `5`                | Closes the **Debug** tool window
+`Alt` `5`                | Opens/closes the **Debug** tool window
 `Ctrl` `Space`           | Shows completion items
+`Ctrl` `Space` `Space`   | Searches for methods
 `Ctrl` `Shift` `Space`   | Shows only completion items that are applicable in the current context
 `Alt` `Enter`            | Previews the warnings and applies a quick-fix
 `Shift` `Shift`          | Opens the **Search Everywhere** dialog
@@ -26,6 +29,16 @@ Key combination          | Action
 `Shift` `F6`             | Renames
 `Ctrl` `Alt` `V`         | Extracts a variable
 `Ctrl` `Alt` `Shift` `T` | Refactors
+`Ctrl` + `Shift` + `F`   | Finds in Files
+`Ctrl` + `Q`             | Invokes the Quick Documentation action
+`Ctrl` + `W`             | Extends the selection to the next code block
+`Ctrl` + `Shift` + `W`   | Shrinks the selection
+`Ctrl` + `/`             | Comments/uncomments out the line
+`Ctrl` + `Shift` + `/`   | Comments/uncomments out a block of code
+
+## Visual Studio Code (free & open source)
+
+⟶ [code.visualstudio.com](https://code.visualstudio.com/)
 
 ## Internationalization
 
