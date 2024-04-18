@@ -2,7 +2,7 @@
 
 > The Lightning-Smart PHP IDE
 
-→ [jetbrains.com/phpstorm](https://www.jetbrains.com/phpstorm/)
+🌐 [jetbrains.com/phpstorm](https://www.jetbrains.com/phpstorm/)
 
 ## Shortcuts
 

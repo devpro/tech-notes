@@ -2,7 +2,7 @@
 
 ## Formatters
 
-### Gofmt
+### gofmt
 
 [Gofmt](https://pkg.go.dev/cmd/gofmt)
 
@@ -12,7 +12,7 @@ Formats Go programs. It uses tabs for indentation and blanks for alignment. Alig
 
 ### golangci-lint
 
-[golangci-lint.run](https://golangci-lint.run/) ([GitHub](https://github.com/golangci/golangci-lint))
+[golangci-lint](https://golangci-lint.run/) ([GitHub](https://github.com/golangci/golangci-lint))
 
 ### golint
 

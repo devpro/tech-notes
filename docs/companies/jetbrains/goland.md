@@ -1,6 +1,6 @@
 # GoLand
 
-[jetbrains.com/go](https://www.jetbrains.com/go/)
+🌐 [jetbrains.com/go](https://www.jetbrains.com/go/)
 
 ## Configuration
 

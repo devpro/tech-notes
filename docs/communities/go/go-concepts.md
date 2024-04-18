@@ -22,7 +22,7 @@
 * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff) by Inanc Gumus - November 23, 2017
 * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01) by Inanc Gumus - December 7, 2017
 
-## Go variable lifetime / semantics
+## Variable lifetime / semantics
 
 * [GitHub #56010 Redefining for loop variable semantics](https://github.com/golang/go/discussions/56010)
 * [Stackoverflow #32751537 Why do I get a "cannot assign" error when setting value to a struct as a value in a map?](https://stackoverflow.com/questions/32751537/why-do-i-get-a-cannot-assign-error-when-setting-value-to-a-struct-as-a-value-i)

@@ -2,12 +2,19 @@
 
 > Build simple, secure, scalable systems
 
-🌐 [go.dev](https://go.dev/), [docs](https://go.dev/doc/), [code](https://github.com/golang/go), [packages](https://pkg.go.dev/)
+🌐 [go.dev](https://go.dev/), [docs](https://go.dev/doc/), [code](https://github.com/golang/go), [wiki](https://go.dev/wiki/)
 
 ## Content
 
+- [Automation](go-automation.md)
 - [CLI](go-cli.md)
+- [Concepts](go-concepts.md)
+- [File organization](go-file-organization.md)
 - [Installation](go-installation.md)
+- [Modules](go-modules.md)
+- [Naming convention](go-naming-convention.md)
+- [Packages](go-packages.md)
+- [Quality](go-quality.md)
 
 ## History
 
@@ -15,59 +22,34 @@ Go was created at Google in 2007 and first released to the public in 2009.
 
 ## Quick start
 
-### Multipe Go versions
-
-- Once Go has been installed, you can install other versions with for example `go get golang.org/dl/go1.10.7` and specify it afterwards `go1.10.7 version`
-
-### Visual Studio Code
-
-As soon as a Go file is opened, Visual Studio Code will suggest to install Go extension.
-
-On a Go file save, Visual Studio code will suggest installing additional tools.
-
-### Additional tools installed by Visual Studio Code
-
-Installed at C:\Users\<username>\go\bin in module mode:
-
-- gocode
-- gopkgs
-- go-outline
-- go-symbols
-- guru
-- gorename
-- gotests
-- gomodifytags
-- impl
-- fillstruct
-- goplay
-- godoctor
-- dlv
-- gocode-gomod
-- godef
-- goreturns
-- golint
-- goimports
-  
-## Learn
-
-[Learn](https://learn.go.dev/)
-
-### Getting started
+### Tutorials
 
 - [A tour of Go](https://go.dev/tour/list)
-- [The Go Playground](https://play.golang.org/)
-- [How to Write Go Code](https://golang.org/doc/code.html)
-- [Tutorial: Get started with Go](https://go.dev/doc/tutorial/getting-started)
+- [Get started with Go](https://go.dev/doc/tutorial/getting-started)
+- [Create a Go module](https://go.dev/doc/tutorial/create-module)
 
-### Additional readings
+### Recommendations
 
-- [The Go Programming Language Specification](https://golang.org/ref/spec)
-- [Effective Go](https://golang.org/doc/effective_go.html)
-- [Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [How to Write Go Code](https://go.dev/doc/code)
+- [The Go Programming Language Specification](https://go.dev/ref/spec)
+- [Effective Go](https://go.dev/doc/effective_go)
+- [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
+
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 - [Codewalk: First-Class Functions in Go](https://golang.org/doc/codewalk/functions/)
 - [Codewalk: Share Memory By Communicating](https://golang.org/doc/codewalk/sharemem/)
 - [A Tour of Go](https://research.swtch.com/gotour)
+
+### IDE
+
+- [GoLang](../../companies/jetbrains/goland.md)
+- [Visual Studio Code](../../companies/microsoft/vscode-go.md)
+
+### Examples
+
+- [Go by Example](https://gobyexample.com/)
+- [Go Web Examples](https://gowebexamples.com/)
+- [The Go Playground](https://go.dev/play/)
 
 ### Presentations
 
@@ -93,7 +75,6 @@ Installed at C:\Users\<username>\go\bin in module mode:
 
 - [An Introduction to Programming in Go](https://www.golang-book.com/books/intro)
 - [CodeCrafters](https://app.codecrafters.io/tracks/go)
-- [Go by Example](https://gobyexample.com/)
 - [gophercises](https://gophercises.com/)
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Go Programming (Golang): The Complete Developer's Guide](https://zerotomastery.io/courses/learn-golang/)

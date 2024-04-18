@@ -2,7 +2,7 @@
 
 > Powerful continuous integration for DevOps-centric teams
 
-→ [jetbrains.com/teamcity](https://www.jetbrains.com/teamcity/)
+🌐 [jetbrains.com/teamcity](https://www.jetbrains.com/teamcity/)
 
 ## Offering
 
