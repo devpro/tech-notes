@@ -99,6 +99,17 @@ sudo vi /etc/systemd/logind.conf
 systemctl restart systemd-logind.service
 ```
 
+* Update hostname
+
+```bash
+hostnamectl set-hostname 'new-hostname'
+```
+
+* Setup file sharing with Samba: [linuxconfig.org](https://linuxconfig.org/how-to-configure-samba-server-share-on-ubuntu-22-04-jammy-jellyfish-linux), [makeuseof.com](https://www.makeuseof.com/set-up-network-shared-folder-ubuntu-with-samba/),
+[techrepublic.com](https://www.techrepublic.com/article/how-to-create-a-samba-share-on-ubuntu-server-20-04/)
+
+* Remote access: [linuxconfig.org](https://linuxconfig.org/ubuntu-22-04-remote-desktop-access-from-windows-10)
+
 ### Enable remote access through SSH from the remote computer
 
 * Copy the SSH public key from the remote computer to be able to login without password

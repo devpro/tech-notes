@@ -21,6 +21,7 @@
 * [ngrok](ngrok/ngrok.md)
 * [Oracle](oracle/oracle.md)
 * [Redhat](redhat/redhat.md)
+* [SensioLabs](sensiolabs/sensiolabs.md)
 * [Splunk](https://www.splunk.com/)
 * [SUSE](suse/suse.md)
 * [Sysdig](sysdig/sysdig.md)
