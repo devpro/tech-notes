@@ -9,4 +9,4 @@
 
 🌐 [aws.amazon.com/cloud-map](https://aws.amazon.com/cloud-map/), [docs](https://docs.aws.amazon.com/cloud-map/latest/dg/what-is-cloud-map.html)
 
-🏫 [LinkedIn](https://www.linkedin.com/learning/getting-started-with-aws-cloud-map/introducing-aws-cloud-map)
+🏫 [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-aws-cloud-map/introducing-aws-cloud-map)
