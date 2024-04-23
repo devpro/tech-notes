@@ -11,6 +11,7 @@
 * [Elastic](elastic/elastic.md)
 * [Elastisys](https://elastisys.com)
 * [Gitlab](gitlab/gitlab.md)
+* [Harness](harness/harness.md)
 * [HashiCorp](hashicorp/hashicorp.md)
 * [Isovalent](https://isovalent.com/)
 * [JetBrains](jetbrains/jetbrains.md)
