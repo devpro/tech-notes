@@ -9,13 +9,13 @@ CCNA | Cisco Certified Network Associate
 ## Models
 
 Name | Meaning
------|----------------------------
+-----|-----------------------------
 OSI  | Open Systems Interconnection
 
 ## Protocols
 
 Name     | Meaning
----------|-------
+---------|-------------------------------------------
 802.1Q   | -
 BGP      | Border Gateway Protocol
 DHCP     | Dynamic Host Configuration Protocol
