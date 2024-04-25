@@ -49,3 +49,9 @@ Advices: user groups, policies, roles
 > As an administrator of an organization, you can create accounts in your organization and invite existing accounts to join the organization.
 
 🌐 [docs](https://docs.aws.amazon.com/organizations/latest/userguide/orgs_introduction.html)
+
+### RAM
+
+> AWS Resource Access Manager (AWS RAM) helps you securely share your resources across AWS accounts, within your organization or organizational units (OUs), and with AWS Identity and Access Management (IAM) roles and users for supported resource types.
+
+🌐 [aws.amazon.com/ram](https://aws.amazon.com/ram/), [docs](https://docs.aws.amazon.com/ram/latest/userguide/what-is.html)

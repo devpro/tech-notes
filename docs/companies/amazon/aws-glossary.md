@@ -28,6 +28,7 @@ EKS  | Elastic Kubernetes Service
 IAM  | Identity and Access Management
 KMS  | Key Management Service
 MGN  | Application Migration Service
+RAM  | Resource Access Manager
 RDS  | Relational Database Service
 S3   | Simple Storage Service
 SAM  | Serverless Application Model
@@ -35,3 +36,9 @@ SCT  | Schema Conversion Tool
 SNS  | Simple Notification Service
 SQS  | Simple Queue Service
 VPC  | Virtual Private Cloud
+
+## Technologies
+
+Name | Meaning
+-----|-----------------
+TGW  | Transit gateways

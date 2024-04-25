@@ -27,4 +27,24 @@
 
 🌐 [docs](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
-See also [VPC Connectivity Options](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/welcome.html) (such as VPC peering, PrivateLink)
+### VPC Connectivity Options
+
+> Amazon VPC provides multiple network connectivity options for you to use, depending on your current network designs and requirements.
+> These connectivity options include using either the internet or an AWS Direct Connect connection as the network backbone and terminating the connection into AWS or user-managed network endpoints.
+> Additionally, with AWS, you can choose how network routing is delivered between Amazon VPC and your networks, leveraging either AWS services or user-managed network equipment and routes.
+
+🌐 [whitepapers](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/welcome.html) (such as VPC peering, PrivateLink)
+
+### Transit gateways
+
+> A transit gateway enables you to attach VPCs and VPN connections and route traffic between them.
+> A transit gateway works across AWS accounts, and you can use AWS RAM to share your transit gateway with other accounts.
+> After you share a transit gateway with another AWS account, the account owner can attach their VPCs to your transit gateway.
+
+🌐 [docs](https://docs.aws.amazon.com/vpc/latest/tgw/tgw-transit-gateways.html)
+
+### VPC Lattice
+
+> Amazon VPC Lattice is a fully managed application networking service that you use to connect, secure, and monitor all of your services across multiple accounts and virtual private clouds (VPCs).
+
+🌐 [docs](https://docs.aws.amazon.com/vpc-lattice/latest/ug/what-is-vpc-lattice.html), [aws.amazon.com/vpc/lattice](https://aws.amazon.com/vpc/lattice/)

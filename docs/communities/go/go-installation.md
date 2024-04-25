@@ -9,6 +9,7 @@ Download and extract the latest version.
 ```bash
 curl -OL https://golang.org/dl/go1.22.2.linux-amd64.tar.gz
 sudo tar -C /usr/local -xvf go1.22.2.linux-amd64.tar.gz
+rm go1.22.2.linux-amd64.tar.gz
 ```
 
 Edit `~/.profile` to add the following line at the end.
@@ -27,6 +28,12 @@ Verify the installation
 
 ```bash
 go version
+```
+
+If needed, uninstall:
+
+```bash
+sudo rm -rf /usr/local/go/
 ```
 
 ## Installation on Windows 10

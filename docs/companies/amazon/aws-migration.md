@@ -1,6 +1,6 @@
 # Migration & transfer
 
-## Readings
+## Guidance
 
 * [Migrate and Modernize on AWS](https://aws.amazon.com/products/migration-and-transfer/)
 * [Mainframe Modernization](https://aws.amazon.com/mainframe-modernization/) ([docs](https://docs.aws.amazon.com/m2/latest/userguide/what-is-m2.html))
