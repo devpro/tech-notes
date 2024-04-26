@@ -1,5 +1,7 @@
 # Amazon Web Services (AWS)
 
+> Providing world-leading cloud technologies that help any organization and any individual build solutions to transform industries, communities, and lives for the better.
+
 🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/), [console](https://console.aws.amazon.com/), [marketplace](https://aws.amazon.com/marketplace/)
 
 ## Sections
@@ -13,16 +15,17 @@
 
 ## About
 
-> Since launching in 2006, Amazon Web Services has been providing world-leading cloud technologies that help any organization and any individual build solutions to transform industries, communities, and lives for the better.
-> As part of Amazon, we strive to be Earth’s most customer-centric company. We work backwards from our customers’ problems to provide them with cloud infrastructure that meets their needs, so they can reinvent continuously and push through barriers of what people thought was possible.
-> Whether they are entrepreneurs launching new businesses, established companies reinventing themselves, non-profits working to advance their missions, or governments and cities seeking to serve their citizens more effectively—our customers trust AWS with their livelihoods, their goals, their ideas, and their data.
+> As part of Amazon, we strive to be Earth’s most customer-centric company.
+> We work backwards from our customers’ problems to provide them with cloud infrastructure that meets their needs, so they can reinvent continuously and push through barriers of what people thought was possible.
 
 🌐 [aws.amazon.com/about-aws](https://aws.amazon.com/about-aws/)
 
 ### Origins
 
 > In the early days of operating Amazon.com we experienced first-hand how hard and expensive it was to provision and manage IT infrastructure, and how this distracted talented teams from actually innovating.
+>
 > That’s why we launched Amazon Web Services in the spring of 2006, to rethink IT infrastructure completely, so that anyone—even a kid in a college dorm room— could access the same powerful technology as the world’s largest and most sophisticated companies.
+>
 > Since those early days, we’ve never stopped inventing on behalf of our customers—from storage to networking, to serverless, to machine learning, to custom silicon and hardware, and generative AI.
 
 🌐 [aws.amazon.com/about-aws/our-origins](https://aws.amazon.com/about-aws/our-origins/)
@@ -37,19 +40,47 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 
 ### Quickstart
 
-* [Overwiew](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
-* [Getting started](https://aws.amazon.com/getting-started)
+* [Getting Started Resource Center](https://aws.amazon.com/getting-started)
 
-### Hands-on
+### Hands-on exercises
 
+* [Developer Center](https://aws.amazon.com/developer/)
 * [Tutorials](https://aws.amazon.com/getting-started/hands-on/)
 * [Workshops](https://workshops.aws/)
+  * [Workshop Studio](https://catalog.workshops.aws/)
 
 ### Publications
 
 * [Blogs](https://aws.amazon.com/blogs/)
-  * [News blog](https://aws.amazon.com/blogs/aws/)
+  * [News Blog](https://aws.amazon.com/blogs/aws/)
+  * [Developer Tools Blog](https://aws.amazon.com/blogs/developer/)
+* [Builders' Library](https://aws.amazon.com/builders-library/)
 * [Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
 * [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
+  * [Performance engineering](https://docs.aws.amazon.com/prescriptive-guidance/latest/performance-engineering-aws/introduction.html)
+  * [Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
+* [Solutions Library](https://aws.amazon.com/solutions/)
+  * [Guidance for Sustainability Insights Framework](https://aws.amazon.com/solutions/guidance/sustainability-insights-framework-on-aws/?did=fs_card&trk=fs_card)
 * [Whitepapers](https://aws.amazon.com/whitepapers/)
+  * [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
   * [Public Sector Cloud Transformation](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/public-sector-cloud-transformation.html)
+
+### Community
+
+* [re:Post](https://repost.aws/)
+* [User Groups](https://aws.amazon.com/developer/community/usergroups/)
+
+### Video content
+
+* [Conferences (Youtube)](https://www.youtube.com/@AWSEventsChannel)
+* [Streaming (Twitch)](https://www.twitch.tv/aws)
+
+## Programs
+
+### Partners
+
+* [Managed Service Provider (MSP) Program](https://aws.amazon.com/partners/programs/msp/)
+
+### Startups
+
+* [Activate Startup Program](https://aws.amazon.com/activate/activate-landing/)

@@ -2,9 +2,10 @@
 
 ## AWS Experience
 
-* [DACH & CEE](https://aws-experience.com/emea/dach-cee/events)
+Region     | Links
+-----------|------------------------------------------------------------------------------------
+DACH & CEE | [aws-experience.com/emea/dach-cee](https://aws-experience.com/emea/dach-cee/events)
 
-## Video content
+## AWS Game Day
 
-* [AWS Conferences (Youtube)](https://www.youtube.com/@AWSEventsChannel)
-* [AWS Streaming (Twitch)](https://www.twitch.tv/aws)
+🌐 [aws.amazon.com/gameday](https://aws.amazon.com/gameday/)

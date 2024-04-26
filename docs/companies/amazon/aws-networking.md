@@ -20,6 +20,14 @@
 
 🌐 [aws.amazon.com/privatelink](https://aws.amazon.com/privatelink/), [docs](https://docs.aws.amazon.com/vpc/latest/privatelink/what-is-privatelink.html)
 
+### Route 53
+
+> Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service.
+>
+> You can use Route 53 to perform three main functions in any combination: domain registration, DNS routing, and health checking.
+
+🌐 [docs](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/Welcome.html)
+
 ### VPC
 
 > With Amazon Virtual Private Cloud (Amazon VPC), you can launch AWS resources in a logically isolated virtual network that you've defined.
@@ -27,21 +35,22 @@
 
 🌐 [docs](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
 
-### VPC Connectivity Options
+#### Transit gateways
+
+> A transit gateway enables you to attach VPCs and VPN connections and route traffic between them.
+>
+> A transit gateway works across AWS accounts, and you can use AWS RAM to share your transit gateway with other accounts.
+> After you share a transit gateway with another AWS account, the account owner can attach their VPCs to your transit gateway.
+
+🌐 [docs](https://docs.aws.amazon.com/vpc/latest/tgw/tgw-transit-gateways.html)
+
+#### VPC Connectivity Options
 
 > Amazon VPC provides multiple network connectivity options for you to use, depending on your current network designs and requirements.
 > These connectivity options include using either the internet or an AWS Direct Connect connection as the network backbone and terminating the connection into AWS or user-managed network endpoints.
 > Additionally, with AWS, you can choose how network routing is delivered between Amazon VPC and your networks, leveraging either AWS services or user-managed network equipment and routes.
 
 🌐 [whitepapers](https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/welcome.html) (such as VPC peering, PrivateLink)
-
-### Transit gateways
-
-> A transit gateway enables you to attach VPCs and VPN connections and route traffic between them.
-> A transit gateway works across AWS accounts, and you can use AWS RAM to share your transit gateway with other accounts.
-> After you share a transit gateway with another AWS account, the account owner can attach their VPCs to your transit gateway.
-
-🌐 [docs](https://docs.aws.amazon.com/vpc/latest/tgw/tgw-transit-gateways.html)
 
 ### VPC Lattice
 

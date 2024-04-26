@@ -14,6 +14,14 @@
 
 🌐 [docs](https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html)
 
+### Fargate
+
+> AWS Fargate is a serverless, pay-as-you-go compute engine that lets you focus on building applications without managing servers.
+>
+> Moving tasks such as server management, resource allocation, and scaling to AWS does not only improve your operational posture, but also accelerates the process of going from idea to production on the cloud, and lowers the total cost of ownership.
+
+🌐 [aws.amazon.com/fargate](https://aws.amazon.com/fargate/)
+
 ### Glue
 
 > AWS Glue is a serverless data integration service that makes it easy for analytics users to discover, prepare, move, and integrate data from multiple sources.

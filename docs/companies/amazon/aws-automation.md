@@ -15,3 +15,9 @@
 > You don't need to individually create and configure AWS resources and figure out what's dependent on what; CloudFormation handles that.
 
 🌐 [docs](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+
+## Third party tooling
+
+### Terraform
+
+🌐 [docs](https://docs.aws.amazon.com/prescriptive-guidance/latest/getting-started-terraform/introduction.html)

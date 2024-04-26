@@ -19,6 +19,7 @@ SRA  | Security Reference Architecture | [docs.aws.amazon.com/prescriptive-guida
 Name | Meaning
 -----|-------------------------------
 AWS  | Amazon Web Services
+CDK  | Cloud Development Kit
 EBS  | Elastic Block Store
 EC2  | Elastic Compute Cloud
 ECR  | Elastic Container Registry
@@ -28,6 +29,7 @@ EKS  | Elastic Kubernetes Service
 IAM  | Identity and Access Management
 KMS  | Key Management Service
 MGN  | Application Migration Service
+MQ   | Message Broker
 RAM  | Resource Access Manager
 RDS  | Relational Database Service
 S3   | Simple Storage Service
@@ -36,6 +38,12 @@ SCT  | Schema Conversion Tool
 SNS  | Simple Notification Service
 SQS  | Simple Queue Service
 VPC  | Virtual Private Cloud
+
+## Programs
+
+Name | Meaning
+-----|-------------------------
+MSP  | Managed Service Provider
 
 ## Technologies
 

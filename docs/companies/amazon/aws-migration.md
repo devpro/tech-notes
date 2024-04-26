@@ -8,9 +8,11 @@
   * 7 R's: Retire, Retain, Rehost (lift and shift), Relocate, Repurchase (drop and shop), Replatform (lift, tinker, and shift), Refactor
 * [How to migrate](https://aws.amazon.com/cloud-migration/how-to-migrate/)
 * [Migration Acceleration Program (MAP)](https://aws.amazon.com/migration-acceleration-program/)
-  * Steps: Assess > Mobilize > Migrate and modernize
 * [Migration Lens](https://docs.aws.amazon.com/wellarchitected/latest/migration-lens/migration-lens.html)
 * [Level up your Cloud Transformation with Experience-Based Acceleration (EBA)](https://aws.amazon.com/blogs/mt/level-up-your-cloud-transformation-with-experience-based-acceleration-eba/)
+* [Secure Migrations Framework](https://docs.aws.amazon.com/prescriptive-guidance/latest/secure-migrations-framework/introduction.html)
+
+![Phases](https://docs.aws.amazon.com/images/prescriptive-guidance/latest/secure-migrations-framework/images/phases.png)
 
 ## Products
 
