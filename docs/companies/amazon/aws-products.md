@@ -5,7 +5,7 @@
 Category             | Name
 ---------------------|--------------------------------------------------------------------------------
 AI                   | [Bedrock](aws-ai.md#bedrock)
-API Management       | [API Gateway](aws-api-management.md#api-gateway)
+Application Platform | [API Gateway](aws-application-platform.md#api-gateway)
 Application Platform | [App Runner](aws-application-platform.md#app-runner)
 Application Platform | [Elastic Beanstalk](aws-application-platform.md#elastic-beanstalk)
 Automation           | [CLI](aws-automation.md#cli)
@@ -15,6 +15,7 @@ Compute              | [EC2](aws-compute.md#ec2)
 Container            | [ECR](aws-container.md#ecr)
 Container            | [ECS](aws-container.md#ecs)
 Container            | [EKS](aws-container.md#eks)
+Data analytics       | [Redshift](aws-data-analytics.md#redshift)
 Databases            | [DocumentDB](aws-databases.md#documentdb)
 Databases            | [DynamoDB](aws-databases.md#dynamodb)
 Databases            | [RDS](aws-databases.md#rds)

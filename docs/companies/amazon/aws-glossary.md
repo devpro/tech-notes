@@ -2,6 +2,18 @@
 
 🌐 [docs](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
 
+## General
+
+Name | Meaning
+-----|-------------------------------
+APN  | AWS Partner Network
+GSI  | Global System Integrator
+GTM  | Go-To-Market
+MSP  | Managed Service Provider
+PDM  | Partner Development Manager
+PSA  | Partner Solutions Architect
+TAM  | Technical Account Manager
+
 ## Practices
 
 Name | Meaning                         | Links
@@ -14,12 +26,13 @@ MRP  | Migration Readiness & Planning  | -
 ORR  | Operational Readiness Reviews   | [docs.aws.amazon.com/wellarchitected](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
 SRA  | Security Reference Architecture | [docs.aws.amazon.com/prescriptive-guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
-## Products
+## Technologies
 
 Name | Meaning
 -----|-------------------------------
 AWS  | Amazon Web Services
 CDK  | Cloud Development Kit
+CLI  | Command Line Interface
 EBS  | Elastic Block Store
 EC2  | Elastic Compute Cloud
 ECR  | Elastic Container Registry
@@ -37,16 +50,5 @@ SAM  | Serverless Application Model
 SCT  | Schema Conversion Tool
 SNS  | Simple Notification Service
 SQS  | Simple Queue Service
-VPC  | Virtual Private Cloud
-
-## Programs
-
-Name | Meaning
------|-------------------------
-MSP  | Managed Service Provider
-
-## Technologies
-
-Name | Meaning
------|-----------------
 TGW  | Transit gateways
+VPC  | Virtual Private Cloud

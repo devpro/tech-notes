@@ -84,3 +84,8 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 ### Startups
 
 * [Activate Startup Program](https://aws.amazon.com/activate/activate-landing/)
+* [Global Startup Program](https://aws.amazon.com/partners/programs/global-startup/)
+
+### Individuals
+
+* [AWS re/Start](https://aws.amazon.com/training/restart/)
