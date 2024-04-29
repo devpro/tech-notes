@@ -17,3 +17,4 @@
 
 * [Certifications](https://www.suse.com/support/security/certifications/)
 * [Product Support Lifecycle](https://www.suse.com/lifecycle/)
+* [Rancher Prime](rancher-prime.md)

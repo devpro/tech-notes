@@ -7,6 +7,7 @@
 ## Sections
 
 * [Architecture](aws-architecture.md)
+* [Customers](aws-customers.md)
 * [Events](aws-events.md)
 * [Glossary](aws-glossary.md)
 * Localization: [FR](aws-local-fr.md)

@@ -5,6 +5,7 @@
 Category             | Name
 ---------------------|--------------------------------------------------------------------------------
 AI                   | [Bedrock](aws-ai.md#bedrock)
+AI                   | [SageMaker](aws-ai.md#sagemaker)
 Application Platform | [API Gateway](aws-application-platform.md#api-gateway)
 Application Platform | [App Runner](aws-application-platform.md#app-runner)
 Application Platform | [Elastic Beanstalk](aws-application-platform.md#elastic-beanstalk)

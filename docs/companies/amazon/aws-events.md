@@ -24,6 +24,10 @@
 
 > AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
 
+Event      | Videos
+-----------|-------------------------------------------------------
+Paris 2024 | [Keynote](https://www.youtube.com/watch?v=nHMlfbel79o)
+
 ### AWSome Day
 
 > AWSome Day Online Conference is a free, online training event that will provide a step-by-step introduction to the core AWS services for compute, storage, databases, and networking.

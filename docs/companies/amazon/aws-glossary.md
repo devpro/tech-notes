@@ -5,7 +5,7 @@
 ## General
 
 Name | Meaning
------|-------------------------------
+-----|----------------------------
 APN  | AWS Partner Network
 GSI  | Global System Integrator
 GTM  | Go-To-Market
@@ -39,9 +39,11 @@ ECR  | Elastic Container Registry
 ECS  | Elastic Container Service
 EFS  | Elastic File System
 EKS  | Elastic Kubernetes Service
+FM   | Foundation model
 IAM  | Identity and Access Management
 KMS  | Key Management Service
 MGN  | Application Migration Service
+ML   | Machine Learning
 MQ   | Message Broker
 RAM  | Resource Access Manager
 RDS  | Relational Database Service
