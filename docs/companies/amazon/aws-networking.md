@@ -12,6 +12,14 @@
 
 🌐 [docs](https://docs.aws.amazon.com/directconnect/latest/UserGuide/Welcome.html)
 
+#### Direct Connect gateways
+
+> Use AWS Direct Connect gateway to connect your VPCs.
+>
+> You associate an AWS Direct Connect gateway with either of the following gateways: a transit gateway when you have multiple VPCs in the same Region, a virtual private gateway.
+
+🌐 [docs](https://docs.aws.amazon.com/directconnect/latest/UserGuide/direct-connect-gateways-intro.html)
+
 ### PrivateLink
 
 > WS PrivateLink is a highly available, scalable technology that you can use to privately connect your VPC to services as if they were in your VPC.
@@ -31,9 +39,28 @@
 ### VPC
 
 > With Amazon Virtual Private Cloud (Amazon VPC), you can launch AWS resources in a logically isolated virtual network that you've defined.
+>
 > This virtual network closely resembles a traditional network that you'd operate in your own data center, with the benefits of using the scalable infrastructure of AWS.
 
 🌐 [docs](https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html)
+
+#### Internet gateways
+
+> An internet gateway is a horizontally scaled, redundant, and highly available VPC component that allows communication between your VPC and the internet.
+>
+> An internet gateway enables resources in your public subnets (such as EC2 instances) to connect to the internet if the resource has a public IPv4 address or an IPv6 address.
+>
+> Similarly, resources on the internet can initiate a connection to resources in your subnet using the public IPv4 address or IPv6 address.
+
+🌐 [docs](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Internet_Gateway.html)
+
+#### NAT gateways
+
+> A NAT gateway is a Network Address Translation (NAT) service.
+>
+> You can use a NAT gateway so that instances in a private subnet can connect to services outside your VPC but external services cannot initiate a connection with those instances.
+
+🌐 [docs](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html)
 
 #### Transit gateways
 
@@ -56,4 +83,12 @@
 
 > Amazon VPC Lattice is a fully managed application networking service that you use to connect, secure, and monitor all of your services across multiple accounts and virtual private clouds (VPCs).
 
-🌐 [docs](https://docs.aws.amazon.com/vpc-lattice/latest/ug/what-is-vpc-lattice.html), [aws.amazon.com/vpc/lattice](https://aws.amazon.com/vpc/lattice/)
+🌐 [aws.amazon.com/vpc/lattice](https://aws.amazon.com/vpc/lattice/), [docs](https://docs.aws.amazon.com/vpc-lattice/latest/ug/what-is-vpc-lattice.html)
+
+See also: [Xebia - Can VPC Lattice replace AWS Transit Gateway?](https://xebia.com/blog/can-vpc-lattice-replace-aws-transit-gateway/)
+
+### WAF
+
+> AWS WAF is a web application firewall that lets you monitor the HTTP(S) requests that are forwarded to your protected web application resources.
+
+🌐 [aws.amazon.com/waf](https://aws.amazon.com/waf/)

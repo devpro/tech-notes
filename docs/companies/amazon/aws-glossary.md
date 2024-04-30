@@ -5,13 +5,19 @@
 ## General
 
 Name | Meaning
------|----------------------------
+-----|------------------------------------
+ACE  | APN Customer Engagements
 APN  | AWS Partner Network
 GSI  | Global System Integrator
+GSP  | Global Startup Program
 GTM  | Go-To-Market
+ISV  | Independent Software Vendor
 MSP  | Managed Service Provider
 PDM  | Partner Development Manager
 PSA  | Partner Solutions Architect
+RME  | Reliability Maintenance Engineering
+SA   | Solutions Architect
+SBI  | Situation, Behavior, Impact
 TAM  | Technical Account Manager
 
 ## Practices
@@ -45,6 +51,7 @@ KMS  | Key Management Service
 MGN  | Application Migration Service
 ML   | Machine Learning
 MQ   | Message Broker
+NAT  | Network Address Translation
 RAM  | Resource Access Manager
 RDS  | Relational Database Service
 S3   | Simple Storage Service
@@ -53,4 +60,6 @@ SCT  | Schema Conversion Tool
 SNS  | Simple Notification Service
 SQS  | Simple Queue Service
 TGW  | Transit gateways
+VIF  | Virtual interface
 VPC  | Virtual Private Cloud
+WAF  | Web Application Firewall

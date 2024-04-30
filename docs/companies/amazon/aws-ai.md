@@ -14,6 +14,13 @@
 
 🌐 [docs](https://docs.aws.amazon.com/bedrock/latest/userguide/what-is-bedrock.html)
 
+### Q
+
+> Amazon Q generates code, tests, debugs, and has multi-step planning and reasoning capabilities that can transform and implement new code generated from developer requests.
+
+🌐 [aws.amazon.com/q](https://aws.amazon.com/q/),
+[blog](https://aws.amazon.com/blogs/machine-learning/accelerate-software-development-and-leverage-your-business-data-with-generative-ai-assistance-from-amazon-q/)
+
 ### SageMaker
 
 > Amazon SageMaker is a fully managed machine learning (ML) service.

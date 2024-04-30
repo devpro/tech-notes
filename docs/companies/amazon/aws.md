@@ -10,7 +10,8 @@
 * [Customers](aws-customers.md)
 * [Events](aws-events.md)
 * [Glossary](aws-glossary.md)
-* Localization: [FR](aws-local-fr.md)
+* Localization: [EN](aws-local-en.md), [FR](aws-local-fr.md)
+* [Partners](aws-partners.md)
 * [Products](aws-products.md)
 * [Training](aws-training.md)
 
@@ -36,6 +37,10 @@
 Service Delivery: regions and availability zones
 
 Service Categories: compute, storage, networking, databases, IAM, containers, developer tools, management & governance, machine learning
+
+### Organizations
+
+* [Professional Services (ProServe)](https://aws.amazon.com/professional-services/)
 
 ## Learning
 
@@ -80,12 +85,12 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 
 ### Partners
 
-* [Managed Service Provider (MSP) Program](https://aws.amazon.com/partners/programs/msp/)
+* [Managed Service Provider (MSP)](https://aws.amazon.com/partners/programs/msp/)
 
 ### Startups
 
 * [Activate Startup Program](https://aws.amazon.com/activate/activate-landing/)
-* [Global Startup Program](https://aws.amazon.com/partners/programs/global-startup/)
+* [Global Startup Program (GSP)](https://aws.amazon.com/partners/programs/global-startup/) ([blog](https://aws.amazon.com/blogs/apn/how-to-build-a-startup-go-to-market-motion-with-the-aws-global-startup-program/))
 
 ### Individuals
 
