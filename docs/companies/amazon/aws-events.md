@@ -25,8 +25,8 @@
 > AWS Global Summits are free events that bring the cloud computing community together to connect, collaborate, and learn about AWS.
 
 Event      | Videos
------------|-------------------------------------------------------
-Paris 2024 | [Keynote](https://www.youtube.com/watch?v=nHMlfbel79o)
+-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Paris 2024 | [Keynote](https://www.youtube.com/watch?v=nHMlfbel79o), [on-demand](https://aws.amazon.com/fr/events/summits/emea/on-demand/2024-summit-emea-hub-confirmation/)
 
 ### AWSome Day
 
