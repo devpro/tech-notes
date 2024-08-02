@@ -11,6 +11,7 @@
 * [Elastic](elastic/elastic.md)
 * [Elastisys](https://elastisys.com)
 * [Gitlab](gitlab/gitlab.md)
+* [Google](google/google.md)
 * [Harness](harness/harness.md)
 * [HashiCorp](hashicorp/hashicorp.md)
 * [Isovalent](https://isovalent.com/)
@@ -32,10 +33,16 @@
 
 ## Cloud providers
 
-### European infrastructure providers
+### American Cloud providers
+
+* [AWS](amazon/aws.md)
+* [Azure](microsoft/azure.md)
+* [Google Cloud](google/google-cloud.md)
+
+### European Cloud providers
 
 Name                                      | Country
-------------------------------------------|-------
+------------------------------------------|------------
 [Exoscale](http://www.exoscale.com)       | Switzerland
 [Hidora](https://hidora.io/)              | Switzerland
 [Infomaniak](https://www.infomaniak.com/) | Switzerland
