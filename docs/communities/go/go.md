@@ -24,21 +24,21 @@ Go was created at Google in 2007 and first released to the public in 2009.
 
 ### Tutorials
 
-- [A tour of Go](https://go.dev/tour/list)
+- [A tour of Go](https://go.dev/tour/list) ([video](https://www.youtube.com/watch?v=ytEkHepK08c))
 - [Get started with Go](https://go.dev/doc/tutorial/getting-started)
 - [Create a Go module](https://go.dev/doc/tutorial/create-module)
 
-### Recommendations
+### Guides
 
 - [How to Write Go Code](https://go.dev/doc/code)
 - [The Go Programming Language Specification](https://go.dev/ref/spec)
 - [Effective Go](https://go.dev/doc/effective_go)
 - [Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)
 
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
-- [Codewalk: First-Class Functions in Go](https://golang.org/doc/codewalk/functions/)
-- [Codewalk: Share Memory By Communicating](https://golang.org/doc/codewalk/sharemem/)
-- [A Tour of Go](https://research.swtch.com/gotour)
+### Codewalks
+
+- [First-Class Functions in Go](https://go.dev/doc/codewalk/functions/)
+- [Share Memory By Communicating](https://go.dev/doc/codewalk/sharemem/)
 
 ### IDE
 
@@ -50,6 +50,9 @@ Go was created at Google in 2007 and first released to the public in 2009.
 - [Go by Example](https://gobyexample.com/)
 - [Go Web Examples](https://gowebexamples.com/)
 - [The Go Playground](https://go.dev/play/)
+- Git repositories:
+  - [golang/example](https://github.com/golang/example)
+  - [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
 
 ### Presentations
 
@@ -90,7 +93,6 @@ Go was created at Google in 2007 and first released to the public in 2009.
 - Youtube
   - [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU) by freeCodeCamp.org
 
-- [GoogleCloudPlatform/golang-samples](https://github.com/GoogleCloudPlatform/golang-samples)
 - [temporalio/samples-go](https://github.com/temporalio/samples-go)
 - [apache/dubbo-go-samples](https://github.com/apache/dubbo-go-samples)
 - [minghsu0107/go-random-chat](https://github.com/minghsu0107/go-random-chat)
