@@ -18,3 +18,7 @@
 * [Certifications](https://www.suse.com/support/security/certifications/)
 * [Product Support Lifecycle](https://www.suse.com/lifecycle/)
 * [Rancher Prime](rancher-prime.md)
+
+## Public resources
+
+* [PINT - The Public Cloud Information Tracker](https://pint.suse.com/)
