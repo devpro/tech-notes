@@ -1,6 +1,6 @@
 # Tailwind Labs
 
-[GitHub](https://github.com/tailwindlabs)
+🌐 [GitHub](https://github.com/tailwindlabs)
 
 ## Open-source components
 
