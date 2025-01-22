@@ -1,6 +1,6 @@
 # GitLab
 
-🌐 [about.gitlab.com](https://about.gitlab.com/), [gitlab.com](https://gitlab.com/)
+🌐 [about](https://about.gitlab.com/), [console](https://gitlab.com/), [docs](https://docs.gitlab.com/)
 
 ## The company
 
