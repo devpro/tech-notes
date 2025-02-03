@@ -2,7 +2,7 @@
 
 ## Installation on Linux
 
-[Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux)
+🌐 [Visual Studio Code on Linux](https://code.visualstudio.com/docs/setup/linux)
 
 - Download the package from the [Download](https://code.visualstudio.com/Download) page
 - Open a command prompt and enter the subsystem: `wsl`

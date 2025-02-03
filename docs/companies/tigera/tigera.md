@@ -1,6 +1,6 @@
 # Tigera
 
-[tigera.io](https://www.tigera.io/)
+🌐 [tigera.io](https://www.tigera.io/)
 
 ## Open-source projects
 

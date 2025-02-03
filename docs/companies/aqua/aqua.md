@@ -1,3 +1,3 @@
 # Aqua
 
-[aquasec.com](https://www.aquasec.com/)
+🌐 [aquasec.com](https://www.aquasec.com/)

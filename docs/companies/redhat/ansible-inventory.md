@@ -2,7 +2,7 @@
 
 > Ansible works against multiple managed nodes or “hosts” in your infrastructure at the same time, using a list or group of lists known as inventory. Once your inventory is defined, you use patterns to select the hosts or groups you want Ansible to run against.
 
-→ [docs.ansible.com](https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html)
+🌐 [docs.ansible.com](https://docs.ansible.com/ansible/latest/user_guide/intro_inventory.html)
 
 ## Inventory types
 
@@ -12,7 +12,7 @@ Inventory can be static or [dynamic]((https://docs.ansible.com/ansible/latest/us
 
 > Inventory plugins allow users to point at data sources to compile the inventory of hosts that Ansible uses to target tasks, either using the -i /path/to/file and/or -i 'host1, host2' command line parameters or from other configuration sources.
 
-→ [docs.ansible.com](https://docs.ansible.com/ansible/latest/plugins/inventory.html)
+🌐 [docs.ansible.com](https://docs.ansible.com/ansible/latest/plugins/inventory.html)
 
 ### Examples of inventory plugins
 

@@ -1,3 +1,3 @@
 # Confluent
 
-[confluent.io](https://www.confluent.io/)
+🌐 [confluent.io](https://www.confluent.io/)

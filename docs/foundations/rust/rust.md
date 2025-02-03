@@ -1,6 +1,6 @@
 # Rust
 
-[rust-lang.org](https://www.rust-lang.org/)
+🌐 [rust-lang.org](https://www.rust-lang.org/)
 
 ## Courses
 

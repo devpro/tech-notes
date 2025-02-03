@@ -2,7 +2,7 @@
 
 > By integrating the database, search engine, and sync mechanism into a single, unified, and fully managed platform, Atlas Search is the fastest and easiest way to build relevance-based search capabilities directly into applications.
 
-→ [product](https://www.mongodb.com/atlas/search), [docs](https://www.mongodb.com/docs/atlas/atlas-search/)
+🌐 [product](https://www.mongodb.com/atlas/search), [docs](https://www.mongodb.com/docs/atlas/atlas-search/)
 
 ## Presentations
 

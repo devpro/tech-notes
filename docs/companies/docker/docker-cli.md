@@ -2,7 +2,7 @@
 
 ## Commands
 
-→ [docs.docker.com](https://docs.docker.com/engine/reference/commandline/docker/)
+🌐 [docs.docker.com](https://docs.docker.com/engine/reference/commandline/docker/)
 
 ### Main commands
 

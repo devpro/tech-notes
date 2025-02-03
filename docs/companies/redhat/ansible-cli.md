@@ -1,6 +1,6 @@
 # Ansible command line tools
 
-→ [docs.ansible.com/user_guide/command_line_tools](https://docs.ansible.com/ansible/latest/user_guide/command_line_tools.html)
+🌐 [docs.ansible.com/user_guide/command_line_tools](https://docs.ansible.com/ansible/latest/user_guide/command_line_tools.html)
 
 ## Ansible utilities
 

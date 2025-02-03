@@ -1,3 +1,3 @@
 # Argo CD
 
-[argoproj.github.io/cd](https://argoproj.github.io/cd/)
+🌐 [argoproj.github.io/cd](https://argoproj.github.io/cd/)

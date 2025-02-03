@@ -1,3 +1,3 @@
 # Elastic
 
-[elastic.co](https://www.elastic.co/)
+🌐 [elastic.co](https://www.elastic.co/)

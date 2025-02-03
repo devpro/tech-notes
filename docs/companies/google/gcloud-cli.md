@@ -6,7 +6,7 @@
 
 ## Installation
 
-Ref. [Install the gcloud CLI](https://cloud.google.com/sdk/docs/install)
+🌐 [Install the gcloud CLI](https://cloud.google.com/sdk/docs/install)
 
 ## Commands
 

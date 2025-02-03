@@ -1,6 +1,6 @@
 # Rust Foundation
 
-[foundation.rust-lang.org](https://foundation.rust-lang.org/)
+🌐 [foundation.rust-lang.org](https://foundation.rust-lang.org/)
 
 ## Content
 

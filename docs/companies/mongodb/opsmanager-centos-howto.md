@@ -1,6 +1,6 @@
 # HOWTO Install MongoDB Ops Manager on CentOS
 
-→ [MongoDB Ops Manager - Cheat sheet](https://everyday-cheatsheets.docs.devpro.fr/build/databases/mongodb/mongodb-opsmanager)
+🌐 [MongoDB Ops Manager - Cheat sheet](https://everyday-cheatsheets.docs.devpro.fr/build/databases/mongodb/mongodb-opsmanager)
 
 ## Installation
 

@@ -1,3 +1,3 @@
 # Ubuntu
 
-[ubuntu.com](https://ubuntu.com/)
+🌐 [ubuntu.com](https://ubuntu.com/)

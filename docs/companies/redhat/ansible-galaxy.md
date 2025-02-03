@@ -2,7 +2,7 @@
 
 > Galaxy is a hub for finding and sharing Ansible content.
 
-→ [galaxy.ansible.com](https://galaxy.ansible.com/docs/)
+🌐 [galaxy.ansible.com](https://galaxy.ansible.com/docs/)
 
 ## Related content
 

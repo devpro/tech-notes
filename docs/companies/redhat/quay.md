@@ -4,4 +4,4 @@
 > It provides a single and resilient content repository for delivering containerized software to development and production across Red Hat OpenShift and Kubernetes clusters.
 > Red Hat Quay is a distributed and highly available container image registry for your enterprise.
 
-[redhat.com/technologies/cloud-computing/quay](https://www.redhat.com/en/technologies/cloud-computing/quay)
+🌐 [redhat.com/technologies/cloud-computing/quay](https://www.redhat.com/en/technologies/cloud-computing/quay)

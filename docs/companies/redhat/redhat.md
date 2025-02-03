@@ -3,7 +3,7 @@
 > Red Hat is the leading provider of enterprise open source software solutions.
 > Enterprises around the world trust (Red Hat) broad portfolio of hybrid cloud infrastructure, application services, cloud-native application development, and automation solutions to deliver IT services on any infrastructure quickly and cost effectively.
 
-🌐 [redhat.com](https://www.redhat.com/), [GitHub organization](https://github.com/RedHatOfficial)
+🌐 [redhat.com](https://www.redhat.com/), [code](https://github.com/RedHatOfficial)
 
 ## Products
 

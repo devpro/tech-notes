@@ -1,6 +1,6 @@
 # Symfony
 
-[docs](https://symfony.com/doc/current/index.html)
+🌐 [docs](https://symfony.com/doc/current/index.html)
 
 ## Content
 
