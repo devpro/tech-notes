@@ -4,7 +4,7 @@
 
 Resources to help you learn about Information Technology (IT).
 
-🚧 This website has been started in December 2023 and is under active construction
+🚧 This website is under active construction (last update February 2025)
 
 ## Content
 

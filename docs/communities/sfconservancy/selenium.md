@@ -1,3 +1,3 @@
 # Selenium
 
-[selenium.dev](https://www.selenium.dev/)
+🌐 [selenium.dev](https://www.selenium.dev/)
