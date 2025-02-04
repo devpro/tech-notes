@@ -1,6 +1,6 @@
 # Installation of Go
 
-[Download and install](https://go.dev/doc/install)
+🌐 [Download and install](https://go.dev/doc/install)
 
 ## Installation on Ubuntu 20.04
 

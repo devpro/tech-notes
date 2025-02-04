@@ -1,6 +1,6 @@
 # Go CLI (Command Line Interface)
 
-[pkg.go.dev/cmd/go](https://pkg.go.dev/cmd/go), [docs](https://go.dev/doc/cmd)
+🌐 [pkg.go.dev/cmd/go](https://pkg.go.dev/cmd/go), [docs](https://go.dev/doc/cmd)
 
 ## Usual commands
 
