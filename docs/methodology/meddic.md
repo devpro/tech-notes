@@ -8,4 +8,15 @@
 
 ## Learn
 
-Professional qualitification: value, stakeholders and process.
+Qualitification is about: value, stakeholders and process. It is not BANT (Budget, Authority, Need, Timing). There are three levels of qualification: Discovery, Delivery & Consensus.
+
+MEDDPPICC stands for:
+
+- Metrics
+- Economic Byuer
+- Decision Criteria
+- Decision Process
+- Paper Process
+- Implicate Pain
+- Champion
+- Competition
