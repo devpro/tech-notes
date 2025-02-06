@@ -1,5 +1,11 @@
 # Longhorn
 
+> Cloud native distributed block storage for Kubernetes
+
+→ [longhorn.io](https://longhorn.io/), [code](https://github.com/longhorn/longhorn)
+
+## Learning
+
 * [Longhorn Deployment and Operations](https://www.suse.com/training/course/lhn201/)
 
 ## Versions
