@@ -1,6 +1,8 @@
 # Information Technology Guide
 
-[![CI](https://github.com/devpro/information-technology-guide/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/devpro/information-technology-guide/actions/workflows/ci.yml)
+[![GitHub Action CI status](https://github.com/devpro/information-technology-guide/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/devpro/information-technology-guide/actions/workflows/ci.yml)
+[![GitLab Pipeline Status](https://gitlab.com/devpro-labs/docs/information-technology-guide/badges/main/pipeline.svg)](https://gitlab.com/devpro-labs/docs/information-technology-guide/-/pipelines)
+<!-- [![GitLab Pipeline Status](https://img.shields.io/gitlab/pipeline/devpro-labs/docs/information-technology-guide/main?label=Pipeline&logo=gitlab)](https://gitlab.com/devpro-labs/docs/information-technology-guide/-/pipelines) -->
 
 Resources to help you learn about Information Technology (IT).
 

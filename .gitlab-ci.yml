@@ -1,0 +1,16 @@
+stages:
+  - build
+
+lint-markdown:
+  stage: build
+  image: node:lts
+  script:
+    - npm install -g markdownlint-cli
+    - markdownlint "**/*.md"
+
+lint-yaml:
+  stage: build
+  image: python:3.13
+  script:
+    - pip install yamllint
+    - yamllint .
