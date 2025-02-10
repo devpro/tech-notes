@@ -42,6 +42,10 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 
 * [Professional Services (ProServe)](https://aws.amazon.com/professional-services/)
 
+## Open-source projects
+
+* [Karpenter](karpenter.md)
+
 ## Learning
 
 ### Quickstart

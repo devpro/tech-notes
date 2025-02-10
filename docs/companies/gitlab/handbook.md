@@ -1,8 +1,25 @@
 # GitLab Handbook
 
-[handbook.gitlab.com](https://handbook.gitlab.com/), [code](https://gitlab.com/gitlab-com/content-sites/handbook)
+🌐 [handbook.gitlab.com](https://handbook.gitlab.com/) ([gitlab-com/content-sites/handbook](https://gitlab.com/gitlab-com/content-sites/handbook))
 
-Here is what we can learn from GitLab from the Handbook!
+Here is what we can learn about GitLab from the Handbook!
+
+## Culture
+
+### Values
+
+GitLab’s six core values CREDIT are:
+
+* 🤝 Collaboration
+* 📈 Results for Customers
+* ⏱️ Efficiency
+* 🌐 Diversity, Inclusion & Belonging
+* 👣 Iteration
+* 👁️ Transparency
+
+### All Remote
+
+* [Asynchronous communication](https://handbook.gitlab.com/handbook/company/culture/all-remote/asynchronous/)
 
 ## Methodologies & Pratices
 

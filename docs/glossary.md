@@ -5,6 +5,7 @@
 Accronym | Meaning
 ---------|-----------------------------
 SRE      | Site Reliability Engineering
+SOC      | Security Operations Center
 
 ## Programming
 
