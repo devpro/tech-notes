@@ -28,6 +28,7 @@
 * [Red Hat](redhat/redhat.md)
 * [SensioLabs](sensiolabs/sensiolabs.md)
 * [Splunk](splunk/splunk.md)
+* [Spotify](spotify/spotify.md)
 * [SUSE](suse/suse.md)
 * [Sysdig](sysdig/sysdig.md)
 * [Tailwind Labs](tailwind-labs/tailwind-labs.md)
