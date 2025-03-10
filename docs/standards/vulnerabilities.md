@@ -1,4 +1,4 @@
-# Security vulnerabilities
+# Vulnerabilities
 
 ## xz compression library
 

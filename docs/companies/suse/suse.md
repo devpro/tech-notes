@@ -1,6 +1,6 @@
 # SUSE
 
-[suse.com](https://www.suse.com/)
+🌐 [suse.com](https://www.suse.com/)
 
 ## Company
 
@@ -17,7 +17,9 @@
 * **2004**: openSUSE is launched
 * **2020**: SUSE acquires Rancher Labs
 
-→ [suse.com/company/history](https://www.suse.com/company/history/)
+🌐 [suse.com/company/history](https://www.suse.com/company/history/)
+
+📝 [The History of S.u.S.E. - The other enterprise Linux company](https://www.abortretry.fail/p/the-history-of-suse) - January 13, 2025
 
 ## Offering
 

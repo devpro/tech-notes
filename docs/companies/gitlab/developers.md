@@ -6,37 +6,62 @@
 
 📝 [Extend with GitLab](https://docs.gitlab.com/ee/api/), [Contribute to development](https://docs.gitlab.com/ee/development/), [Contribute to GitLab](https://about.gitlab.com/community/contribute/)
 
-## IDE
+## Technologies
 
-### GitLab Workflow extension for Visual Studio Code
+### IDE
 
-🌐 [marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow](https://marketplace.visualstudio.com/items?itemName=GitLab.gitlab-workflow) ([gitlab-org/gitlab-vscode-extension](https://gitlab.com/gitlab-org/gitlab-vscode-extension))
+* [GitLab Workflow extension for Visual Studio Code](https://docs.gitlab.com/ee/editor_extensions/visual_studio_code/) ([gitlab-org/gitlab-vscode-extension](https://gitlab.com/gitlab-org/gitlab-vscode-extension))
 
-📝 [docs/editor_extensions/visual_studio_code](https://docs.gitlab.com/ee/editor_extensions/visual_studio_code/)
+### SDK
 
-## SDK
+* [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)
 
-### GitLab Development Kit (GDK)
-
-🌐 [gitlab-org/gitlab-development-kit](https://gitlab.com/gitlab-org/gitlab-development-kit)
-
-## Integrations
-
-### API
-
-#### Rest API
+### Rest API
 
 🌐 [docs/api/rest](https://docs.gitlab.com/ee/api/rest/)
 
-#### GraphQL API
+### GraphQL API
 
-🌐 [docs/api/graphql](https://docs.gitlab.com/ee/api/graphql/),
-[docs/development/graphql_guide](https://docs.gitlab.com/ee/development/graphql_guide/)
+🌐 [docs/api/graphql](https://docs.gitlab.com/ee/api/graphql/)
+
+📝 [docs/development/graphql_guide](https://docs.gitlab.com/ee/development/graphql_guide/)
+
+### Webhooks
+
+🌐 [docs/user/project/integrations/webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html)
 
 ### Project integrations
 
 🌐 [docs/user/project/integrations](https://docs.gitlab.com/ee/user/project/integrations/)
 
-### Webhooks
+### Remote development
 
-🌐 [docs/user/project/integrations/webhooks](https://docs.gitlab.com/ee/user/project/integrations/webhooks.html)
+* [Web IDE](https://docs.gitlab.com/ee/user/project/web_ide/)
+* [Workspaces](https://docs.gitlab.com/ee/user/workspace/)
+
+### Data Seeder
+
+🌐 [gitlab-org.gitlab.io/quality/data-seeder](https://data-seeder-6ea8f7.gitlab.io/) ([gitlab-org/quality/data-seeder](https://gitlab.com/gitlab-org/quality/data-seeder))
+
+📝 [docs/development/data_seeder](https://docs.gitlab.com/ee/development/data_seeder.html)
+
+🎥 [GitLab Tech Talk: Planting the seeds of data using the Data Seeder](https://www.youtube.com/watch?v=-ArqiYpW_eQ) ([docs.google.com](https://docs.google.com/presentation/d/1JhovzOWSI5SICPb0e-7sZirZ3Q6iDTIyW0QILnLe4kg/edit#slide=id.g12b319f6181_0_0))
+
+⚗️ [gitlab-org/gitlab/ee/db/seeds/data_seeder](https://gitlab.com/gitlab-org/gitlab/-/tree/master/ee/db/seeds/data_seeder)
+
+## Methodology
+
+### Software programming principles
+
+Acronym | Meaning
+--------|-----------------------------------------------------------------------------------------------------
+DRY     | Don't repeat yourself
+KISS    | Keep it simple stupid
+SOLID   | Single responsibility, open–closed, Liskov substitution, interface segregation, dependency inversion
+YAGNI   | You aren't gonna need it
+
+## Tests
+
+🌐 [Testing standards and style guidelines](https://docs.gitlab.com/ee/development/testing_guide/)
+
+📝 [Five Factor Testing](https://madeintandem.com/blog/five-factor-testing/)

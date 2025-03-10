@@ -32,3 +32,9 @@ kubectl get nodes
 
 * [Rancher Manager 2.8 for Rancher Prime Operations](https://www.suse.com/training/course/ran201v2.8)
 * [Rancher Manager 2.7 for Rancher Prime Deployment](https://www.suse.com/training/course/ran211v2.7)
+
+## Tips
+
+Q. Is it possible to change the rancher/shell to another image?
+
+A. Yes, it’s a setting in global settings. It can also be set with the environment variable on rancher CATTLE_SHELL_IMAGE=my/customshell:tag

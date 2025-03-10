@@ -7,33 +7,23 @@
 ## Content
 
 * [Git CLI](git-cli.md)
+* [Git Recipes](git-recipes.md)
 
-## Learn
+## Education
 
-* [GitHub Guides > GitFlow](https://guides.github.com/introduction/flow/)
 * [GitKraken > Learn Git](https://www.gitkraken.com/learn/git)
 
-## Recipes
+## Branch management
 
-* Rename your `master` branch to `main` (original idea from [hanselman.com](https://www.hanselman.com/blog/EasilyRenameYourGitDefaultBranchFromMasterToMain.aspx))
+* [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy) by GitKraken
 
-```bash
-git branch -m master main
-git push -u origin main
-```
+### GitHub flow
 
-* SVN (Subversion) to git migration
-
-  * [GitKraken - Migrating to Git from SVN](https://www.gitkraken.com/blog/migrating-git-svn)
-  * [Azure DevOps - Learn how to migrate from Subversion (SVN) to Git, including history](https://docs.microsoft.com/en-us/azure/devops/repos/git/perform-migration-from-svn-to-git)
-
-* Self-update git on Windows
-
-```msdos
-git update-git-for-windows
-```
+🌐 [guides.github.com/introduction/flow](https://guides.github.com/introduction/flow/)
 
 ## Tools
 
-* [GitKraken](https://www.gitkraken.com/): legendary Git GUI client for Windows, Mac & Linux
-* [pre-commit](https://pre-commit.com/): a framework for managing and maintaining multi-language pre-commit hooks
+Name                                    | Description
+----------------------------------------|-------------------------------------------------------------------------
+[GitKraken](https://www.gitkraken.com/) | Legendary Git GUI client for Windows, Mac & Linux
+[pre-commit](https://pre-commit.com/)   | A framework for managing and maintaining multi-language pre-commit hooks

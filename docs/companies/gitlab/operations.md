@@ -1,4 +1,4 @@
-# GitLab Operations
+# GitLab operations
 
 ## Backup & restore
 

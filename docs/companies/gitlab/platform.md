@@ -1,4 +1,4 @@
-# GitLab Platform
+# GitLab platform
 
 🌐 [gitlab.com](https://gitlab.com/) ([gitlab-org/gitlab](https://gitlab.com/gitlab-org/gitlab))
 
@@ -9,10 +9,10 @@
 ### Hosting solutions
 
 1. GitLab.com
-2. Self Managed
+2. Self-Managed
 3. Dedicated
 
-### Subscription tier
+### Subscription tiers
 
 1. Free
 2. Premium
@@ -23,13 +23,20 @@
 ## Administration
 
 * [Architecture](platform-architecture.md)
-* [Self Managed](self-managed.md)
+* [Installation](installation.md)
+* [Management](management.md)
+* [Migration](migration.md)
+* [Operations](operations.md)
 * [Runner](runner.md)
 
 ## User experience
 
-* [Best practices](best-practices.md)
 * [CLI](cli.md)
 * [Developers](developers.md)
 * [Migration](migration.md)
+* [Observability](observability.md)
+* [Org](org.md)
+* [Pages](pages.md)
+* [Pipelines](pipelines.md)
+* [Security](security.md)
 * [Testing](testing.md)

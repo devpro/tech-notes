@@ -1,6 +1,6 @@
-# GitLab features
+# Application Lifecycle Management solution
 
-## Overview
+## Features
 
 Category                      | Features
 ------------------------------|-----------------------------------------------------

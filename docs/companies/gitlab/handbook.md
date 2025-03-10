@@ -28,5 +28,6 @@ GitLab’s six core values CREDIT are:
 
 ## Tools
 
+* [Highspot](https://gitlab.highspot.com/)
 * Salesforce
-* [Slack](https://gitlab.enterprise.slack.com/)
+* [Slack](https://gitlab.enterprise.slack.com/) ([handbook/sales/field-communications](https://handbook.gitlab.com/handbook/sales/field-communications/gitlab-highspot/))

@@ -8,6 +8,8 @@
 
 ### Detection
 
+📝 [gitlab-org/gitlab/templates/Jobs](https://gitlab.com/gitlab-org/gitlab/-/tree/master/lib/gitlab/ci/templates/Jobs)
+
 #### GitLab Advisory Database
 
 > The GitLab Advisory Database serves as a repository for security advisories related to software dependencies.
@@ -26,6 +28,8 @@
 #### Secret detection
 
 🌐 [docs/user/application_security/secret_detection](https://docs.gitlab.com/ee/user/application_security/secret_detection/)
+
+📝 [How to implement secret management best practices with GitLab](https://about.gitlab.com/the-source/security/how-to-implement-secret-management-best-practices-with-gitlab/)
 
 #### Static Application Security Testing (SAST)
 
@@ -90,11 +94,19 @@ Vulnerability management policy                                                 
 
 🌐 [docs/user/application_security/vulnerabilities](https://docs.gitlab.com/ee/user/application_security/vulnerabilities/)
 
+### Generation
+
+- [SBOM](sbom.md)
+
 ## Learning
 
 ### Getting started
 
 🌐 [docs/user/application_security/get-started-security](https://docs.gitlab.com/ee/user/application_security/get-started-security.html)
+
+### Delivery Kits
+
+- [gitlab-org/professional-services-automation/security-delivery-kits](https://gitlab.com/gitlab-org/professional-services-automation/delivery-kits/security-delivery-kits/security-delivery-kit)
 
 ### Tutorials
 
