@@ -6,7 +6,7 @@ Acronym  | Meaning
 ---------|-------------------------------------------
 **ARR**  | Annual Recurring Revenue
 **CD**   | Continuous Delivery
-**CI**   | Continuous Integration/Continuous Delivery
+**CI**   | Continuous Integration
 **DAST** | Dynamic Application Security Testing
 **OKR**  | Objectives and Key Results
 **RPS**  | Request Per Second
@@ -29,6 +29,8 @@ Acronym  | Meaning
 **GKMS** | Google Cloud Platform Key Management Service ([GitLab Secrets Manager ADR 002](https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/secret_manager/decisions/002_gcp_kms/))
 **GLFM** | GitLab Flavored Markdown ([docs/user/markdown](https://docs.gitlab.com/ee/user/markdown.html))
 **MR**   | Merge Request
+**PS**   | Professional Services
+**PSE**  | Professional Services Engineer
 
 ## GitLab glossaries
 

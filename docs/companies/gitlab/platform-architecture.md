@@ -1,6 +1,4 @@
-# GitLab Platform Architecture
-
-## Overview
+# GitLab platform architecture
 
 🌐 [docs/development/architecture](https://docs.gitlab.com/ee/development/architecture.html)
 

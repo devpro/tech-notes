@@ -1,6 +1,11 @@
-# GitLab Self Managed
+# GitLab installation
+
+> You can install GitLab on most GNU/Linux distributions, on several cloud providers, and in Kubernetes clusters.
+> To get the best experience, you should balance performance, reliability, ease of administration (backups, upgrades, and troubleshooting) with the cost of hosting.
 
 🌐 [Install GitLab](https://docs.gitlab.com/ee/install/)
+
+📝 [GitLab Self-Managed subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/)
 
 ## Design
 
@@ -35,6 +40,14 @@ Images (on Docker Hub):
 🌐 [docs/operator](https://docs.gitlab.com/operator/)
 
 ## Infrastruction automation
+
+### GitLab Environment Toolkit
+
+> The GitLab Environment Toolkit (GET) is a set of opinionated Terraform and Ansible scripts to assist with deploying scaled self-managed GitLab environments following the Reference Architectures
+
+🌐 [gitlab-org/gitlab-environment-toolkit](https://gitlab.com/gitlab-org/gitlab-environment-toolkit)
+
+📝 [GET Deployment Workshop](https://gitlab.com/gitlab-org/professional-services-automation/tools/implementation/get-deployment-workshop), [GitLab Deployment Workshop](https://gitlab.com/gitlab-org/professional-services-automation/tools/implementation/gitlab-deployment-workshop/)
 
 ### Chef Cookbooks
 

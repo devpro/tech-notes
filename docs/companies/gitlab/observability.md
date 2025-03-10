@@ -1,4 +1,4 @@
-# GitLab Observability
+# Observability with GitLab
 
 ## Three pillars
 

@@ -1,12 +1,11 @@
 # Falco
 
-> **Falco** is a cloud-native security tool designed for Linux systems. It employs custom rules on kernel events, which are enriched with container and Kubernetes metadata, to provide real-time alerts.  
->
-> **Falco** helps you gain visibility into abnormal behavior, potential security threats, and compliance violations, contributing to comprehensive runtime security.  
->
-> &mdash; _[falco.org](https://falco.org/)_
+> Falco is a cloud-native security tool designed for Linux systems.\
+> It employs custom rules on kernel events, which are enriched with container and Kubernetes metadata, to provide real-time alerts.
 
-🌐 [docs](https://falco.org/docs/), [code](https://github.com/falcosecurity/falco), [sysdig.com/opensource/falco](https://sysdig.com/opensource/falco/)
+🌐 [falco.org](https://falco.org/) ([falcosecurity/falco](https://github.com/falcosecurity/falco))
+
+📝 [falco.org/docs](https://falco.org/docs/), [sysdig.com/opensource/falco](https://sysdig.com/opensource/falco/)
 
 ## Architecture
 
@@ -14,7 +13,7 @@
 
 ## Getting started
 
-* [Self-paced online resources](https://falco.org/training/)
+* [Training courses](https://falco.org/enterprise/)
 
 ## Presentation
 
