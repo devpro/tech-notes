@@ -4,7 +4,7 @@
 
 ## Plans
 
-🌐 [docs/subscriptions/choosing_subscription](https://docs.gitlab.com/ee/subscriptions/choosing_subscription.html)
+🌐 [docs/subscriptions/choosing_subscription](https://docs.gitlab.com/subscriptions/choosing_subscription/)
 
 ### Hosting solutions
 

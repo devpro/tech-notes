@@ -8,7 +8,7 @@
 
 [cyclonedx.org](https://cyclonedx.org/)
 
-[GitLab CycloneDX property taxonomy](https://docs.gitlab.com/ee/development/sec/cyclonedx_property_taxonomy.html)
+[GitLab CycloneDX property taxonomy](https://docs.gitlab.com/development/sec/cyclonedx_property_taxonomy/)
 
 ## Components
 
@@ -18,4 +18,4 @@
 
 ## Tuorials
 
-* [Export dependency list in SBOM format](https://docs.gitlab.com/ee/tutorials/export_sbom.html)
+* [Export dependency list in SBOM format](https://docs.gitlab.com/tutorials/export_sbom/)

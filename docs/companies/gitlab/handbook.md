@@ -28,6 +28,15 @@ GitLab’s six core values CREDIT are:
 
 ## Tools
 
+* Google Workspace
 * [Highspot](https://gitlab.highspot.com/)
+* [Mihi](https://2.mihi.info/Account/Login?ReturnUrl=%2F) for time management
 * Salesforce
+* Okta
 * [Slack](https://gitlab.enterprise.slack.com/) ([handbook/sales/field-communications](https://handbook.gitlab.com/handbook/sales/field-communications/gitlab-highspot/))
+* Workday
+
+## Total Rewards
+
+* [Benefits](https://handbook.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/)
+* [Incentives](https://handbook.gitlab.com/handbook/total-rewards/incentives/)

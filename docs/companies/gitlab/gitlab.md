@@ -27,6 +27,7 @@ GitLab is a company that provides an [Application Lifecycle Management (ALM)](al
 * 🌟 [GitLab Handbook](handbook.md)
 * [GitLab Resources](resources.md)
 * [GitLab University](university.md)
+* [GitLab Webinars](https://university.gitlab.com/pages/gitlab-user-webinars)
 
 ## Community
 

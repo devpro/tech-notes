@@ -3,14 +3,14 @@
 > You can install GitLab on most GNU/Linux distributions, on several cloud providers, and in Kubernetes clusters.
 > To get the best experience, you should balance performance, reliability, ease of administration (backups, upgrades, and troubleshooting) with the cost of hosting.
 
-🌐 [Install GitLab](https://docs.gitlab.com/ee/install/)
+🌐 [Install GitLab](https://docs.gitlab.com/install/)
 
-📝 [GitLab Self-Managed subscription](https://docs.gitlab.com/ee/subscriptions/self_managed/)
+📝 [GitLab Self-Managed subscription](https://docs.gitlab.com/subscriptions/self_managed/)
 
 ## Design
 
-* [Reference architectures](https://docs.gitlab.com/ee/administration/reference_architectures/)
-* [Installation requirements](https://docs.gitlab.com/ee/install/requirements.html)
+* [Reference architectures](https://docs.gitlab.com/administration/reference_architectures/)
+* [Installation requirements](https://docs.gitlab.com/install/requirements/)
 
 ## Install
 
@@ -22,7 +22,7 @@ Omnibus GitLab is a customized fork of the Omnibus project from Chef.
 
 ### Container
 
-🌐 [docs/install/docker](https://docs.gitlab.com/ee/install/docker/index.html)
+🌐 [docs/install/docker](https://docs.gitlab.com/install/docker/index/)
 
 Images (on Docker Hub):
 
@@ -55,19 +55,19 @@ Images (on Docker Hub):
 
 ## Configure
 
-🌐 [docs/administration/configure](https://docs.gitlab.com/ee/administration/configure.html)
+🌐 [docs/administration/configure](https://docs.gitlab.com/administration/configure/)
 
 ## Maintain
 
-🌐 [docs/administration/operations](https://docs.gitlab.com/ee/administration/operations/)
+🌐 [docs/administration/operations](https://docs.gitlab.com/administration/operations/)
 
-📝 [Upgrading GitLab](https://docs.gitlab.com/ee/update/)
+📝 [Upgrading GitLab](https://docs.gitlab.com/update/)
 
 ### Backup & restore
 
-🌐 [docs/administration/backup_restore](https://docs.gitlab.com/ee/administration/backup_restore/index.html)
+🌐 [docs/administration/backup_restore](https://docs.gitlab.com/administration/backup_restore/index/)
 
-📝 [docs/development/backup_and_restore](https://docs.gitlab.com/ee/development/backup_and_restore/backup_gitlab.html)
+📝 [docs/development/backup_and_restore](https://docs.gitlab.com/development/backup_and_restore/backup_gitlab/)
 
 Tools:
 
@@ -76,10 +76,10 @@ Tools:
 
 ## Monitor
 
-🌐 [docs/administration/monitoring](https://docs.gitlab.com/ee/administration/monitoring/)
+🌐 [docs/administration/monitoring](https://docs.gitlab.com/administration/monitoring/)
 
-📝 [Performance bar](https://docs.gitlab.com/ee/administration/monitoring/performance/performance_bar.html)
+📝 [Performance bar](https://docs.gitlab.com/administration/monitoring/performance/performance_bar/)
 
 ## Secure
 
-🌐 [docs/security](https://docs.gitlab.com/ee/security/)
+🌐 [docs/security](https://docs.gitlab.com/security/)
