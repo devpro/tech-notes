@@ -2,7 +2,7 @@
 
 ## Strategy
 
-* [Plan a migration from another tool to GitLab CI/CD](https://docs.gitlab.com/ee/ci/migration/plan_a_migration.html)
+* [Plan a migration from another tool to GitLab CI/CD](https://docs.gitlab.com/ci/migration/plan_a_migration/)
 
 ## Delivery kits
 

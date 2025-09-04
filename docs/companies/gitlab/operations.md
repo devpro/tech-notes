@@ -2,7 +2,7 @@
 
 ## Backup & restore
 
-🌐 [docs/development/backup_and_restore](https://docs.gitlab.com/ee/development/backup_and_restore/backup_gitlab.html)
+🌐 [docs/development/backup_and_restore](https://docs.gitlab.com/development/backup_and_restore/backup_gitlab/)
 
 Tools:
 

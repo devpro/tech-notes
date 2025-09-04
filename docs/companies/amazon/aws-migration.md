@@ -47,7 +47,7 @@
 
 > AWS DataSync is an online data movement and discovery service that simplifies data migration and helps you quickly, easily, and securely transfer your file or object data to, from, and between AWS storage services.
 
-🌐 [aws.amazon.com/datasync](https://aws.amazon.com/datasync/), [docs](https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html)
+🌐 [Product](https://aws.amazon.com/datasync/), [User Guide](https://docs.aws.amazon.com/datasync/latest/userguide/what-is-datasync.html)
 
 ### Migration Hub
 
@@ -55,7 +55,7 @@
 > The Migration Hub provides visibility into your application portfolio and streamlines planning and tracking.
 > You can visualize the connections and the status of the servers and databases that make up each of the applications you are migrating, regardless of which migration tool you are using.
 
-🌐 [docs](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html)
+🌐 [User Guide](https://docs.aws.amazon.com/migrationhub/latest/ug/whatishub.html)
 
 ### Schema Conversion Tool
 
@@ -64,4 +64,4 @@
 > Your converted schema is suitable for an Amazon Relational Database Service (Amazon RDS) MySQL, MariaDB, Oracle, SQL Server, PostgreSQL DB, an Amazon Aurora DB cluster, or an Amazon Redshift cluster.
 > The converted schema can also be used with a database on an Amazon EC2 instance or stored as data on an Amazon S3 bucket.
 
-🌐 [docs](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html)
+🌐 [User Guide](https://docs.aws.amazon.com/SchemaConversionTool/latest/userguide/CHAP_Welcome.html)

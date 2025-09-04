@@ -1,6 +1,6 @@
 # GitLab platform architecture
 
-🌐 [docs/development/architecture](https://docs.gitlab.com/ee/development/architecture.html)
+🌐 [docs/development/architecture](https://docs.gitlab.com/development/architecture/)
 
 📝 [handbook/engineering/infrastructure/production/architecture](https://handbook.gitlab.com/handbook/engineering/infrastructure/production/architecture/)
 
@@ -26,8 +26,8 @@ Name                 | Role
 
 🌐 [gitlab-org/gitaly](https://gitlab.com/gitlab-org/gitaly)
 
-📝 [docs/development/gitaly](https://docs.gitlab.com/ee/development/gitaly.html),
-[docs/administration/gitaly](https://docs.gitlab.com/ee/administration/gitaly/)
+📝 [docs/development/gitaly](https://docs.gitlab.com/development/gitaly/),
+[docs/administration/gitaly](https://docs.gitlab.com/administration/gitaly/)
 
 ### Praefect
 
@@ -44,15 +44,15 @@ Name                 | Role
 
 🌐 [sidekiq/sidekiq](https://github.com/sidekiq/sidekiq)
 
-📝 [docs/development/sidekiq](https://docs.gitlab.com/ee/development/sidekiq/)
+📝 [docs/development/sidekiq](https://docs.gitlab.com/development/sidekiq/)
 
 ### GitLab Geo
 
 > Geo connects GitLab instances together.
 > One GitLab instance is designated as a primary site and can be run with multiple secondary sites.
 
-📝 [docs/development/geo](https://docs.gitlab.com/ee/development/geo.html)
-[docs/administration/geo](https://docs.gitlab.com/ee/administration/geo/index.html),
+📝 [docs/development/geo](https://docs.gitlab.com/development/geo/)
+[docs/administration/geo](https://docs.gitlab.com/administration/geo/index/),
 [blog/2018/09/14/how-we-built-gitlab-geo](https://about.gitlab.com/blog/2018/09/14/how-we-built-gitlab-geo/)
 
 ### GitLab Shell
@@ -62,7 +62,7 @@ Name                 | Role
 
 🌐 [gitlab-org/gitlab-shell](https://gitlab.com/gitlab-org/gitlab-shell/)
 
-📝 [docs/development/gitlab_shell](https://docs.gitlab.com/ee/development/gitlab_shell/)
+📝 [docs/development/gitlab_shell](https://docs.gitlab.com/development/gitlab_shell/)
 
 ### GitLab Workhorse
 
@@ -72,7 +72,7 @@ Name                 | Role
 
 🌐 [gitlab-org/gitlab/workhorse](https://gitlab.com/gitlab-org/gitlab/tree/master/workhorse)
 
-📝 [docs/development/workhorse](https://docs.gitlab.com/ee/development/workhorse/)
+📝 [docs/development/workhorse](https://docs.gitlab.com/development/workhorse/)
 
 ### Registry
 
@@ -87,7 +87,7 @@ Name                 | Role
 
 🌐 [puma/puma](https://github.com/puma/puma/)
 
-📝 [docs/administration/operations/puma](https://docs.gitlab.com/ee/administration/operations/puma.html)
+📝 [docs/administration/operations/puma](https://docs.gitlab.com/administration/operations/puma/)
 
 ### PostgreSQL
 
@@ -96,7 +96,7 @@ Name                 | Role
 
 🌐 [postgresql.org](https://www.postgresql.org/)
 
-📝 [docs/install/requirements](https://docs.gitlab.com/ee/install/requirements.html#postgresql)
+📝 [docs/install/requirements](https://docs.gitlab.com/install/requirements/#postgresql)
 
 ### Redis
 
@@ -112,8 +112,8 @@ Name                 | Role
 
 🌐 [redis/redis](https://github.com/redis/redis)
 
-📝 [docs/development/redis](https://docs.gitlab.com/ee/development/redis.html),
-[docs/administration/redis](https://docs.gitlab.com/ee/administration/redis/)
+📝 [docs/development/redis](https://docs.gitlab.com/development/redis/),
+[docs/administration/redis](https://docs.gitlab.com/administration/redis/)
 
 ### Prometheus
 

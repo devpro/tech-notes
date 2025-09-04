@@ -13,4 +13,5 @@ Resources to help you learn about Information Technology (IT).
 * [Communities](docs/communities/communities.md)
 * [Companies](docs/companies/companies.md)
 * [Foundations](docs/foundations/foundations.md)
+* [Institutions](docs/institutions/institutions.md)
 * [Standards](docs/standards/standards.md)

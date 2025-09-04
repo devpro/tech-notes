@@ -3,7 +3,7 @@
 > A CI/CD component is a reusable single pipeline configuration unit.
 > Use components to create a small part of a larger pipeline, or even to compose a complete pipeline configuration.
 
-🌐 [docs/ci/components](https://docs.gitlab.com/ee/ci/components/)
+🌐 [docs/ci/components](https://docs.gitlab.com/ci/components/)
 
 ## Catalog
 
@@ -12,7 +12,7 @@
 
 🌐 [CI/CD Catalog](https://gitlab.com/explore/catalog)
 
-📝 [docs/ci/components/#cicd-catalog](https://docs.gitlab.com/ee/ci/components/#cicd-catalog)
+📝 [docs/ci/components/#cicd-catalog](https://docs.gitlab.com/ci/components/#cicd-catalog)
 
 ### GitLab components
 
