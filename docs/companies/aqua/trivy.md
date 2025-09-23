@@ -1,8 +1,6 @@
 # Trivy
 
 > **Trivy** is (...) open source security scanner, reliable, fast, and easy to use. Use **Trivy** to find vulnerabilities & IaC misconfigurations, SBOM discovery, Cloud scanning, Kubernetes security risks, and more.
->
-> &mdash; _[trivy.dev](https://trivy.dev/)_
 
 🌐 [trivy.dev](https://trivy.dev/), [docs](https://aquasecurity.github.io/trivy), [code](https://github.com/aquasecurity/trivy)
 

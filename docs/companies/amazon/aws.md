@@ -66,6 +66,7 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
   * [Developer Tools Blog](https://aws.amazon.com/blogs/developer/)
 * [Builders' Library](https://aws.amazon.com/builders-library/)
 * [Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
+* [Cloud Financial Management](https://aws.amazon.com/aws-cost-management/)
 * [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
   * [Performance engineering](https://docs.aws.amazon.com/prescriptive-guidance/latest/performance-engineering-aws/introduction.html)
   * [Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
