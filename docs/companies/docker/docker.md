@@ -2,15 +2,15 @@
 
 > Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 
-🌐 [docker.com](https://www.docker.com/), [docs](https://docs.docker.com/), [hub](https://hub.docker.com/), [Youtube](https://www.youtube.com/playlist?list=PLkA60AVN3hh-t0VTESCYCfa4ddGmmXZZt)
+🌐 [docker.com](https://www.docker.com/), [docs](https://docs.docker.com/)
 
 ## Getting to know
 
 ### Components
 
-* [Docker CLI](docker-cli.md)
-* [Docker Desktop](docker-desktop.md)
-* Docker Hub
+* [CLI](docker-cli.md)
+* [Desktop](docker-desktop.md)
+* [Hub](https://hub.docker.com/)
 
 ### Getting started
 

@@ -14,6 +14,7 @@
 
 ## Content
 
+* [API](api.md)
 * [CLI](cli.md)
 * [Collectors](collectors.md)
 * [Glossary](glossary.md)
@@ -22,7 +23,7 @@
 
 ## Learning material
 
-* [Blog](https://blog.gitguardian.com/)
+* [Blog](https://blog.gitguardian.com/) (best practices, tutorials, white papers)
 * [Documentation](https://docs.gitguardian.com/)
 * [Events](https://www.gitguardian.com/events)
 * [Labs](https://labs.gitguardian.com/)

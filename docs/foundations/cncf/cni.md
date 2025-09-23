@@ -1,3 +1,6 @@
-# CNI (Container Network Interface)
+# Container Network Interface (CNI)
 
-[Comparing Kubernetes CNI providers](https://kubevious.io/blog/post/comparing-kubernetes-container-network-interface-cni-providers) by Kubevious - April 02, 2021
+> A specification and libraries for writing plugins to configure network interfaces in Linux and Windows containers, along with a number of supported plugins.
+> CNI concerns itself only with network connectivity of containers and removing allocated resources when the container is deleted.
+
+[cni.dev](https://www.cni.dev/)

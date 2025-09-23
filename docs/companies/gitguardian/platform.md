@@ -1,16 +1,24 @@
 # GitGuardian Platform
 
+🌐 [docs](https://docs.gitguardian.com/platform/home)
+
 ## Deployment
 
-- [SaaS](https://dashboard.gitguardian.com/)
-- [Self-Hosted](https://docs.gitguardian.com/self-hosting/home)
+### SaaS
+
+- [Dashboard](https://dashboard.gitguardian.com/)
+
+### Self-Hosted
+
+- [Docs](https://docs.gitguardian.com/self-hosting/home)
+- [Release notes](https://docs.gitguardian.com/releases/self-hosted)
 
 ## Products
 
-- Secrets Detection
-- Public Monitoring
-- Honeytoken
-- NHI Governance
+- [Secrets Detection](https://docs.gitguardian.com/secrets-detection/home)
+- [Public Monitoring](https://docs.gitguardian.com/public-monitoring/home)
+- [Honeytoken](https://docs.gitguardian.com/honeytoken/home)
+- [NHI Governance](https://docs.gitguardian.com/nhi-governance/home)
 
 ## Features
 
@@ -20,6 +28,8 @@
 - Large repository scan (up to 12 Gb)
 - Developers collaboration tools scan
 - Custom detectors
+- [Internal monitoring](https://docs.gitguardian.com/internal-monitoring/home)
+- [Alerting](https://docs.gitguardian.com/platform/configure-alerting/alerting-and-notifications)
 
 ## Capabilities
 
