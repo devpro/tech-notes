@@ -20,3 +20,10 @@ lint-yaml:
   script:
     - pip install yamllint
     - yamllint .
+
+build-website:
+  stage: build
+  image: node:lts
+  script:
+    - npm install
+    - npm run build

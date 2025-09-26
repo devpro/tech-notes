@@ -1,14 +1,9 @@
 name: CI
 
 on:
-  # push:
-  #   branches:
-  #     - main
-  pull_request:
+  push:
     branches:
       - main
-  # schedule:
-  #   - cron: "0 2 * * 1-5"
   workflow_dispatch: {}
 
 env:
@@ -35,3 +30,7 @@ jobs:
       - name: Lint YAML files
         run: |
           yamllint .
+      - name: Install JavaScript dependencies
+        run: npm install
+      - name: Build website
+        run: npm run build
