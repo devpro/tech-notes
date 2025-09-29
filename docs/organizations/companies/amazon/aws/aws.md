@@ -1,18 +1,18 @@
-# Amazon Web Services (AWS)
+# AWS
 
-> Providing world-leading cloud technologies that help any organization and any individual build solutions to transform industries, communities, and lives for the better.
+> Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine
 
 🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/), [console](https://console.aws.amazon.com/), [marketplace](https://aws.amazon.com/marketplace/)
 
 ## Sections
 
-* [Architecture](aws-architecture.md)
-* [Events](aws-events.md)
-* [Glossary](aws-glossary.md)
-* Localization: [EN](aws-local-en.md), [FR](aws-local-fr.md)
-* [Partners](aws-partners.md)
-* [Products](aws-products.md)
-* [Training](aws-training.md)
+* [Architecture](architecture.md)
+* [Events](events.md)
+* [Glossary](glossary.md)
+* Localization: [EN](local-en.md), [FR](local-fr.md)
+* [Partners](partners.md)
+* [Products](products.md)
+* [Training](training.md)
 
 ## About
 

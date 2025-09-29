@@ -1,6 +1,4 @@
-# Odroid
-
-[Wikipedia](https://en.wikipedia.org/wiki/ODROID)
+# ODROID
 
 ## Quick start
 

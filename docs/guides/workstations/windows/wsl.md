@@ -36,7 +36,9 @@ For old kernels, one can enable compatibility with iptables:
 sudo update-alternatives --config iptables
 ```
 
-[Install Docker](../ubuntu/containerization.md#docker).
+Install [GitKraken Desktop](../../../organizations/companies/gitkraken/gitkraken-desktop.md#wsl)
+
+Install [Docker](../ubuntu/containerization.md#docker).
 
 Docker can be ran from Windows command prompt by adding wsl before:
 

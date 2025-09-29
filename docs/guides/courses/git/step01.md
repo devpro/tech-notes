@@ -2,38 +2,57 @@
 
 In this step, we are going to look at the environment and see how to view & update the configuration.
 
-* Display the git client version:
+Display the git client version:
 
-`git version`
+```bash
+git version
+```
 
-* Look at the available git commands:
+Look at the available git commands:
 
-`git help`
+```bash
+git help
+```
 
-* List all configuration:
+List all configuration:
 
-`git config -l`
+```bash
+git config -l
+```
 
-* Set your identity (you can update it):
+Set your identity (you can update it)
 
-`git config --global user.name "John Doe"`
+```bash
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+```
 
-`git config --global user.email johndoe@example.com`
+Set default branch name:
 
-* Set default branch name:
+```bash
+git config --global init.defaultBranch main
+```
 
-`git config --global init.defaultBranch main`
+List at the updated configuration:
 
-* List at the updated configuration:
+```bash
+git config -l
+```
 
-`git config -l`
+You can also look at one configuration in particular:
 
-* You can also look at one configuration in particular:
+```bash
+git config user.name
+```
 
-`git config user.name`
+Finally look at where it is stored
 
-* Finally look at where it is stored
+```bash
+more $HOME/.gitconfig
+```
 
-`more $HOME/.gitconfig`
+References:
 
-References: [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git), [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup), [Getting Help](https://git-scm.com/book/en/v2/Getting-Started-Getting-Help)
+- [Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+- [First-Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup)
+- [Getting Help](https://git-scm.com/book/en/v2/Getting-Started-Getting-Help)

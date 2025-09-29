@@ -1,4 +1,8 @@
-# Selection of Static Site Generator for Publishing Tech Notes on GitLab Pages
+# Static Site Generators (2025)
+
+ADR Started in September 2025.
+
+Selection of Static Site Generator (SSG) for publishing technical notes.
 
 ## General information
 

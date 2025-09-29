@@ -2,4 +2,4 @@
 
 ## Services
 
-* [Google Cloud](google-cloud.md)
+* [Google Cloud](google-cloud/google-cloud.md)

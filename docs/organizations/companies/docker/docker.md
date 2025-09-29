@@ -1,6 +1,9 @@
 # Docker
 
-> Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
+> Docker helps developers bring their ideas to life by conquering the complexity of app development.
+> Actively used by millions of developers around the world, Docker Desktop and Docker Hub provide unmatched simplicity, agility and choice
+>
+> &mdash; _[docker.com/company](https://www.docker.com/company/)_
 
 🌐 [docker.com](https://www.docker.com/), [docs](https://docs.docker.com/)
 

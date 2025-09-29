@@ -1,4 +1,6 @@
-# Automated web testing ADR - February, 2023
+# Automated web testing (2023)
+
+ADR started in February 2023.
 
 ## Context and problem statement
 

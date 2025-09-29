@@ -1,7 +1,7 @@
 # Ubuntu
 
 The following instructions target **Ubuntu 24.04**.
-For previous instructions: [Ubuntu 20.04](ubuntu-20_04.md).
+For previous instructions: [Ubuntu 20.04](archive/ubuntu-20_04.md).
 
 ## System updates
 

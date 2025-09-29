@@ -11,33 +11,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Your own pace',
+    title: 'At your Own Pace',
     Svg: require('@site/static/img/husky_moutain.svg').default,
-
     description: (
       <>
-        This knowledge base is accessible to everyone for use at their own speed.
+       This knowledge base is accessible to everyone, allowing users to learn at their preferred speed and style.
       </>
-    ),
+    )
   },
   {
     title: 'Only the essentials',
     Svg: require('@site/static/img/husky_laptop.svg').default,
     description: (
       <>
-        No lengthy text or paragraphs, just the key elements.
+        No lengthy text or paragraphs - instead a concise, ordered structure with key points and links to official resources.
       </>
-    ),
+    )
   },
   {
-    title: 'Instructions that work',
+    title: 'Proven Solutions',
     Svg: require('@site/static/img/husky_desk.svg').default,
     description: (
       <>
-        Every practice, action, command, and code has been validated as working before being added to this repository.
+        Every instruction and recommendation come, and has been validated, in real-world work environments.
       </>
-    ),
-  },
+    )
+  }
 ];
 
 function Feature({title, Svg, description}: FeatureItem) {

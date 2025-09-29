@@ -1,4 +1,6 @@
-# Markdown code execution ADR - September, 2024
+# Markdown code execution (2024)
+
+ADR started in September 2024.
 
 ## Context and problem statement
 

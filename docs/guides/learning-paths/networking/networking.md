@@ -1,6 +1,6 @@
-# Learning paths
+# Networking
 
-## Networking basics
+## Basics
 
 - Introduction videos
   - [ ] [What is a Network?](https://www.youtube.com/watch?v=S7MNX_UD7vY) by NetworkChuck

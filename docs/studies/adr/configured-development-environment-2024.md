@@ -1,6 +1,6 @@
-# Configured development environment ADR - September, 2024
+# Cloud Development Environments (2024)
 
-This study is strongly related to the subject of Cloud Development Environment (CDE).
+This study is strongly related to the subject of Cloud Development Environment (CDE), started in September 2024.
 
 ## Context and problem statement
 

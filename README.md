@@ -1,23 +1,17 @@
-# DevPro Tech Notes
+# DevPro Technical Notes
 
-<!-- [![GitHub Action CI status](https://github.com/devpro/information-technology-guide/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/devpro/information-technology-guide/actions/workflows/ci.yml) -->
 [![GitLab Pipeline Status](https://gitlab.com/devpro-labs/enablement/tech-notes/badges/main/pipeline.svg)](https://gitlab.com/devpro-labs/enablement/tech-notes/-/pipelines)
-<!-- [![GitLab Pipeline Status](https://img.shields.io/gitlab/pipeline/devpro-labs/docs/information-technology-guide/main?label=Pipeline&logo=gitlab)](https://gitlab.com/devpro-labs/docs/information-technology-guide/-/pipelines) -->
+[![GitHub Action CI status](https://github.com/devpro/tech-notes/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/devpro/tech-notes/actions/workflows/ci.yml)
+[![GitHub Action Deploy status](https://github.com/devpro/tech-notes/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/devpro/tech-notes/actions/workflows/deploy.yml)
 
-Technical notes about Information Technology (IT).
+Source for [tech.devpro.fr](https://tech.devpro.fr).
+Feel free to [contribute](CONTRIBUTING.md)!
 
 ## Sections
 
-* [Architecture Decision Records](docs/adr/adr.md)
-* [Communities](docs/communities/communities.md)
-* [Companies](docs/companies/companies.md)
-* [Foundations](docs/foundations/foundations.md)
-* [Infrastructure](docs/infrastructure/infrastructure.md)
-* [Institutions](docs/institutions/institutions.md)
-* [Practices](docs/practices/practices.md)
-* [Scripts](docs/scripts/scripts.md)
-* [Independent projects](docs/independent-projects/independent-projects.md)
-* [Standards](docs/standards/standards.md)
-* [Workstations](docs/workstations/workstations.md)
+* [Fundamentals](docs/fundamentals/fundamentals.md)
+* [Guides](docs/guides/guides.md)
+* [Organizations](docs/organizations/organizations.md)
+* [Studies](docs/studies/adr/adr.md)
 
 <!-- https://wiki-tech.io/ -->

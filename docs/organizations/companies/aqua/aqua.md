@@ -2,7 +2,7 @@
 
 🌐 [aquasec.com](https://www.aquasec.com/)
 
-## Tools
+## Open source
 
 * [kube-bench](kube-bench.md)
 * [Tracee](tracee.md)
