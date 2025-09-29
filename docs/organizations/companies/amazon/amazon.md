@@ -11,7 +11,7 @@
 * Amazon Store
 * Delivery and Logistics
 * Devices and Services
-* [Amazon Web Services (AWS)](aws.md)
+* [Amazon Web Services (AWS)](aws/aws.md)
 * Entertainment
 
 ## Culture

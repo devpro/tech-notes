@@ -1,3 +1,7 @@
+---
+displayed_sidebar: guideSidebar
+---
+
 # Ubuntu 20.04
 
 ## Common packages

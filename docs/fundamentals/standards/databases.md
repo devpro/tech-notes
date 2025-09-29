@@ -1,6 +1,56 @@
 # Databases
 
-## Properties
+## Families
+
+### Relational Databases (RDBMS)
+
+These use structured tables with fixed schemas, rows, and columns, queried via SQL.
+They excel in applications requiring complex joins and strong consistency.
+
+* MySQL / MariaDB
+* PostgreSQL
+* Oracle
+* Microsoft SQL Server
+
+### NoSQL Databases
+
+These provide schema-less or flexible data models for handling large volumes of unstructured or semi-structured data, often distributed across clusters.
+
+They are subdivided into several types / subcategories.
+
+#### Document Model (Document-Oriented)
+
+Stores data as semi-structured documents (e.g., JSON, BSON), ideal for hierarchical data in content management or real-time apps.
+
+* MongoDB
+* CouchDB
+* RavenDB
+
+#### Key-Value Stores
+
+Simple databases mapping keys to values, optimized for high-speed lookups like caching or session storage.
+
+* Redis
+* Amazon DynamoDB
+* Riak
+
+#### Wide-Column Stores (Column-Family)
+
+Organize data in flexible columns within rows, optimized for read/write on massive datasets, suited for large-scale analytics.
+
+* Apache Cassandra
+* HBase
+* ScyllaDB
+
+#### Graph Databases
+
+Model data as nodes and edges for relationship-heavy use cases like social networks or fraud detection.
+
+* Neo4j
+* ArangoDB
+* JanusGraph
+
+## Design principles
 
 ### ACID
 

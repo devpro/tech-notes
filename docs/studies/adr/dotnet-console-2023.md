@@ -1,4 +1,6 @@
-# .NET Console design ADR - August, 2023
+# .NET Console design (2023)
+
+ADR started in August 2023.
 
 ## Context and Problem Statement
 

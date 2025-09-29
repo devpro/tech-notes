@@ -2,7 +2,7 @@
 
 ## Content
 
-* [Apache Software Foundation](apache/apache.md)
+* [Apache Software Foundation (ASF)](asf/asf.md)
 * [Continuous Delivery (CD) Foundation](cd-foundation/cd-foundation.md)
 * [Cloud Foundry Foundation](cf-foundation/cf-foundation.md)
 * [Cloud Native Computing Foundation (CNCF)](cncf/cncf.md)

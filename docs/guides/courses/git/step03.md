@@ -14,16 +14,24 @@ Let's assume we created a new repository whose git URL is `https://github.com/my
 
 You can now push your local repository to a central place (called `remote`):
 
-`git remote add origin https://github.com/myusername/my-repo.git`
+```bash
+git remote add origin https://github.com/myusername/my-repo.git
+```
 
 You can look at the remotes:
 
-`git remote -v`
+```bash
+git remote -v
+```
 
 Now we can push the local branches:
 
-`git push -u origin main`
+```bash
+git push -u origin main
+```
 
 You can also pull even if there shouldn't be any changes:
 
-`git pull`
+```bash
+git pull
+```

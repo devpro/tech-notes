@@ -1,6 +1,6 @@
-# Azure CLI (Command-Line Interface) Cheat Sheet
+# Azure CLI
 
-[Documentation](https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+[docs](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
 
 ## Installation
 

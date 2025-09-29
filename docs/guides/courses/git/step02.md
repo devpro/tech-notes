@@ -2,46 +2,70 @@
 
 Now that git is configured, let's create a first repository!
 
-* It can be done anywhere:
+It can be done anywhere:
 
-`mkdir dojo-git; cd dojo-git; git init`
+```bash
+mkdir dojo-git
+cd dojo-git
+git init
+```
 
-* Let's add some content:
+Let's add some content:
 
-`echo "Dojo git" > README.md; touch dummy.txt
+```bash
+echo "Dojo git" > README.md
+touch dummy.txt
+```
 
-* Look at the git status:
+Look at the git status:
 
-`git status
+```bash
+git status
+```
 
-* Stage the local changes:
+Stage the local changes:
 
-`git add README.md`
+```bash
+git add README.md
+```
 
-* Commit this new version:
+Commit this new version:
 
-`git commit -m "First commit with README file"`
+```bash
+git commit -m "First commit with README file"
+```
 
-* Look at the new status:
+Look at the new status:
 
-`git status`
+```bash
+git status
+```
 
-* Display the log history:
+Display the log history:
 
-`GIT_PAGER=cat git log`
+```bash
+GIT_PAGER=cat git log
+```
 
-We need to have this `dummy.txt` file but we don't want to commit it
+We need to have this `dummy.txt` file but we don't want to commit it.
 
-* Add a line in the gitignore file
+Add a line in the gitignore file:
 
-`echo "dummy.txt" >> .gitignore`
+```bash
+echo "dummy.txt" >> .gitignore
+```
 
-* Stage and commit the change
+Stage and commit the change:
 
-`git add .; git commit -m "Initiate gitignore with dummy file"`
+```bash
+git add .
+git commit -m "Initiate gitignore with dummy file"
+```
 
-* You status is now clean!
+You status is now clean!
 
 You can now play as you want (except for push & pull as there is no remote defined).
 
-References: [Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+References:
+
+- [Getting a Git Repository](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)

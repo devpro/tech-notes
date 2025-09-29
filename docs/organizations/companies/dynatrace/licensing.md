@@ -2,7 +2,7 @@
 
 ## Dynatrace Platform Subscription (DPS)
 
-🌐 [Documentation](https://docs.dynatrace.com/docs/manage/dynatrace-platform-subscription)
+🌐 [docs](https://docs.dynatrace.com/docs/manage/dynatrace-platform-subscription)
 
 ## Pricing categories
 

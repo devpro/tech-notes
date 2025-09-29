@@ -1,4 +1,6 @@
-# Virtual lab platform ADR - June, 2024
+# Virtual lab platforms (2024)
+
+ADR started in June 2024.
 
 ## Context and problem statement
 

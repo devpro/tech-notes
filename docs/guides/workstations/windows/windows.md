@@ -1,7 +1,7 @@
 # Windows
 
 The following instructions target **Windows 11**.
-For previous versions: [Windows 10](windows-10.md).
+For previous versions: [Windows 10](archive/windows-10.md).
 
 ## Configuration
 

@@ -2,5 +2,5 @@
 
 ## Content
 
-* [git](git/git.md)
-* [MongoDB](mongodb/mongodb.md)
+* [git](git/intro.md)
+* [MongoDB](mongodb/intro.md)

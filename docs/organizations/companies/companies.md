@@ -29,6 +29,7 @@
 * [GitBook](gitbook/gitbook.md)
 * [GitGuardian](gitguardian/gitguardian.md)
 * [GitLab](gitlab/gitlab.md)
+* [GitKraken](gitkraken/gitkraken.md)
 * [Google](google/google.md)
 * [Grafana Labs](grafana-labs/grafana-labs.md)
 * [HAProxy](haproxy/haproxy.md)
@@ -76,29 +77,22 @@
 
 ## Cloud providers
 
-### American Cloud providers
-
-* [AWS](amazon/aws.md)
-* [Azure](microsoft/azure.md)
-* [Google Cloud](google/google-cloud.md)
-
-### European Cloud providers
-
-Name                                      | Country
-------------------------------------------|------------
-[Exoscale](http://www.exoscale.com)       | Switzerland
-[Hidora](https://hidora.io/)              | Switzerland
-[Infomaniak](https://www.infomaniak.com/) | Switzerland
-[NumSpot](https://numspot.com/)           | France
-[OVHcloud](https://www.ovhcloud.com/fr/)  | France
-[Scaleway](https://www.scaleway.com/)     | France
-[UpCloud](https://upcloud.com/)           | Finland
+Name                                                | Country
+----------------------------------------------------|------------
+[Alibaba Cloud](https://www.alibabacloud.com/)      | China
+[AWS](amazon/aws/aws.md)                            | USA
+[Azure](microsoft/azure/azure.md)                   | USA
+[Exoscale](http://www.exoscale.com)                 | Switzerland
+[Google Cloud](google/google-cloud/google-cloud.md) | USA
+[Hidora](https://hidora.io/)                        | Switzerland
+[Infomaniak](https://www.infomaniak.com/)           | Switzerland
+[Koyeb](https://www.koyeb.com/)                     | France
+[NumSpot](https://numspot.com/)                     | France
+[OVHcloud](https://www.ovhcloud.com/fr/)            | France
+[Scaleway](https://www.scaleway.com/)               | France
+[UpCloud](https://upcloud.com/)                     | Finland
 
 <!-- [eucloud.tech](https://www.eucloud.tech/eu-providers/cloud) -->
-
-### Serverless
-
-* [Koyeb](https://www.koyeb.com/)
 
 ## Gaming industry
 

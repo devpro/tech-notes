@@ -1,3 +1,7 @@
+---
+displayed_sidebar: guideSidebar
+---
+
 # Windows 10 workstation setup
 
 ## Drivers
@@ -121,7 +125,7 @@
 * `Raw Image Extension`
   * Can be downloaded from [apps.microsoft.com](https://apps.microsoft.com/detail/9NCTDW2W1BH8)
 * `Ubuntu on Windows`
-  * Once installed, look at [Ubuntu setup](../ubuntu/ubuntu-20_04.md)
+  * Once installed, look at [Ubuntu setup](../../ubuntu/archive/ubuntu-20_04.md)
   * Open a shell in Ubuntu and create or update `/etc/wsl.conf` file to enable chmod (required for SSH) and avoid issues with npm commands (see [Advanced settings configuration in WSL](https://docs.microsoft.com/en-us/windows/wsl/wsl-config))
 
   ```ini

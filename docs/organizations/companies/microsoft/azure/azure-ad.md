@@ -1,4 +1,6 @@
-# Azure Active Directory (AD)
+# Azure AD
+
+Azure Active Directory (AD)
 
 ## How-to
 

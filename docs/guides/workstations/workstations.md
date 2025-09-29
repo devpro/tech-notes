@@ -1,6 +1,7 @@
 # Workstations
 
-## Systems
+## Operating systems
 
-* [Ubuntu](ubuntu/ubuntu.md)
+* Linux
+  * [Ubuntu](ubuntu/ubuntu.md)
 * [Windows](windows/windows.md)

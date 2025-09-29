@@ -1,6 +1,8 @@
-# Azure Kubernetes Service (AKS)
+# AKS
 
-[docs.microsoft.com/azure/aks](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
+Azure Kubernetes Service (AKS)
+
+[docs](https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes)
 
 ## Concepts
 
