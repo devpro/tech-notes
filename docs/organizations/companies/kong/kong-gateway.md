@@ -1,6 +1,6 @@
 # Kong Gateway
 
-[konghq.com/products/kong-gateway](https://konghq.com/products/kong-gateway)
+🌐 [konghq.com/products/kong-gateway](https://konghq.com/products/kong-gateway)
 
 ## Learn
 

@@ -1,10 +1,7 @@
 # GitBook
 
-[gitbook.com](https://www.gitbook.com/)
-
-## Dashboard
-
-[app.gitbook.com](https://app.gitbook.com/)
+🌐 [gitbook.com](https://www.gitbook.com/),
+[dashboard](https://app.gitbook.com/)
 
 ## Example
 

@@ -27,6 +27,28 @@ npm run build
 npm run serve
 ```
 
+## Customization
+
+> [!IMPORTANT]
+> Make sure to review this customizations when doing upgrades
+
+### Table of contents width
+
+Idea found on [discussion #8799](https://github.com/facebook/docusaurus/discussions/8799):
+
+```bash
+npm run swizzle @docusaurus/theme-classic -- DocItem/Layout
+```
+
+Files are in `src/theme/DocItem/Layout`.
+
+> [!TIP]
+> Run the command to see what is possible to swizzle:
+>
+> ```bash
+> npm run swizzle @docusaurus/theme-classic -- --list
+> ```
+
 ## Lint before committing
 
 Reproduce locally GitLab jobs:

@@ -2,7 +2,7 @@
 
 > Cloud Foundry is an Open Source Cloud Application Platform.
 
-→ [cloudfoundry.org](https://www.cloudfoundry.org/), [GitHub](https://github.com/cloudfoundry), [Incubator](https://github.com/cloudfoundry-incubator)
+🌐 [cloudfoundry.org](https://www.cloudfoundry.org/), [GitHub](https://github.com/cloudfoundry), [Incubator](https://github.com/cloudfoundry-incubator)
 
 ## Learn
 

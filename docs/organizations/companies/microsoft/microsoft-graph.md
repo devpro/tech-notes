@@ -2,7 +2,7 @@
 
 > The gateway to data and intelligence in Microsoft 365
 
-→ [docs.microsoft.com/graph](https://docs.microsoft.com/en-us/graph/), [github.com/microsoftgraph](https://github.com/microsoftgraph)
+🌐 [docs.microsoft.com/graph](https://docs.microsoft.com/en-us/graph/), [github.com/microsoftgraph](https://github.com/microsoftgraph)
 
 ## Learn
 

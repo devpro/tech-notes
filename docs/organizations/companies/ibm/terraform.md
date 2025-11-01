@@ -1,8 +1,9 @@
 # Terraform
 
-> Write, Plan, Apply. Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. Terraform codifies cloud APIs into declarative configuration files.
+> Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services.
+> Terraform codifies cloud APIs into declarative configuration files
 
-→ [terraform.io](https://www.terraform.io/), [docs](https://www.terraform.io/docs/index.html), [source](https://github.com/hashicorp/terraform), [product](https://www.hashicorp.com/products/terraform/)
+🌐 [terraform.io](https://www.terraform.io/), [docs](https://www.terraform.io/docs/index.html), [source](https://github.com/hashicorp/terraform), [product](https://www.hashicorp.com/products/terraform/)
 
 ## Learn
 

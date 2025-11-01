@@ -2,7 +2,7 @@
 
 > The .NET command-line interface (CLI) is a cross-platform toolchain for developing, building, running, and publishing .NET applications. The .NET CLI is included with the .NET SDK.
 
-→ [docs](https://learn.microsoft.com/en-us/dotnet/core/tools/), [code](https://github.com/dotnet/sdk)
+🌐 [docs](https://learn.microsoft.com/en-us/dotnet/core/tools/), [code](https://github.com/dotnet/sdk)
 
 ## Content
 

@@ -1,6 +1,6 @@
 # HAProxy
 
-[haproxy.com](https://www.haproxy.com/)
+🌐 [haproxy.com](https://www.haproxy.com/)
 
 ## Quickstart
 

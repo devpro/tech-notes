@@ -1,4 +1,6 @@
-# Internet of Things (IoT)
+# IoT
+
+Internet of Things (IoT)
 
 ## Learn
 

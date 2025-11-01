@@ -2,7 +2,7 @@
 
 > The Open Service Broker Api connects developers to a global ecosystem of services
 
-→ [openservicebrokerapi.org](https://www.openservicebrokerapi.org/)
+🌐 [openservicebrokerapi.org](https://www.openservicebrokerapi.org/)
 
 ## Introduction
 

@@ -1,6 +1,9 @@
-# Nutanix Cloud Infrastructure (NCI)
+# Nutanix Cloud Infrastructure
 
-🌐 [Product](https://www.nutanix.com/products/nutanix-cloud-infrastructure), [Datasheet](https://www.nutanix.com/library/datasheets/nci)
+> Nutanix Cloud Infrastructure (NCI) delivers hyperconverged infrastructure in new ways, with the power of simplicity, and allows IT to manage applications, data, and security across your entire datacenter and multicloud environments
+
+🌐 [nutanix.com/products/nutanix-cloud-infrastructure](https://www.nutanix.com/products/nutanix-cloud-infrastructure),
+[datasheet](https://www.nutanix.com/library/datasheets/nci)
 
 <!--
 AOS Storage

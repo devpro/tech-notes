@@ -1,6 +1,6 @@
 # Sonar
 
-[sonarsource.com](https://www.sonarsource.com/)
+🌐 [sonarsource.com](https://www.sonarsource.com/)
 
 ## Usecases
 

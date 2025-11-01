@@ -1,4 +1,4 @@
-# Go development with Visual Studio Code
+# Visual Studio Code for Go
 
 ## Installation
 

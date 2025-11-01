@@ -2,7 +2,7 @@
 
 > An industry-standard container runtime with an emphasis on simplicity, robustness and portability
 
-[containerd.io](https://containerd.io/)
+🌐 [containerd.io](https://containerd.io/)
 
 ## Recipes
 

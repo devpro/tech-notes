@@ -2,8 +2,8 @@
 
 > COSMOS is designing and developing novel DevOps methodologies, techniques, and tools that will enable effective, continuous development and evolution of [cyber-physical systems](cps.md).
 
-[cosmos-devops.org](https://www.cosmos-devops.org/)
-[EU Research & Development project 957254](https://cordis.europa.eu/project/id/957254)
+🌐 [cosmos-devops.org](https://www.cosmos-devops.org/),
+[EU Research & Development project 957254](https://cordis.europa.eu/project/id/957254),
 [Twitter](https://x.com/cosmos_devops)
 
 ## Presentations

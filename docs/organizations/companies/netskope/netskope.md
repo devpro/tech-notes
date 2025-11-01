@@ -1,3 +1,3 @@
 # Netskope
 
-[netskope.com](https://www.netskope.com)
+🌐 [netskope.com](https://www.netskope.com)

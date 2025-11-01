@@ -1,3 +1,3 @@
 # Civo
 
-[civo.com](https://www.civo.com/)
+🌐 [civo.com](https://www.civo.com/)

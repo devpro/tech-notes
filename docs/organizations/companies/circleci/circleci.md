@@ -1,3 +1,3 @@
 # CircleCI
 
-[circleci.com](https://circleci.com/)
+🌐 [circleci.com](https://circleci.com/)

@@ -1,6 +1,6 @@
 # Azure CLI
 
-[docs](https://learn.microsoft.com/en-us/cli/azure/?view=azure-cli-latest)
+🌐 [docs](https://learn.microsoft.com/en-us/cli/azure/)
 
 ## Installation
 

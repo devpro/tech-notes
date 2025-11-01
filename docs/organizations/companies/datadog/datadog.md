@@ -2,4 +2,4 @@
 
 > Observability and security platform for cloud applications
 
-[datadoghq.com](https://www.datadoghq.com/)
+🌐 [datadoghq.com](https://www.datadoghq.com/)

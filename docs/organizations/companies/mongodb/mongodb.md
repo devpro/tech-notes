@@ -2,18 +2,16 @@
 
 > MongoDB is a general purpose, document-based, distributed database built for modern application developers and for the cloud era.
 
-→ [mongodb.com](https://www.mongodb.com/), [Github](https://github.com/mongodb), [developer.mongodb.com](https://developer.mongodb.com)
+[mongodb.com](https://www.mongodb.com/), [Github](https://github.com/mongodb), [docs](https://www.mongodb.com/docs/)
 
 ## Learn
 
 ### Official resources
 
-* [Documentation](https://docs.mongodb.com/)
 * [Resources](https://www.mongodb.com/resources): presentations, webinars, white papers
-* [MongoDB University](https://university.mongodb.com/)
-* [Engineering Journal](https://engineering.mongodb.com/)
+* [MongoDB University](https://learn.mongodb.com/)
+* [Engineering Blog](https://www.mongodb.com/company/blog/channel/engineering-blog)
 * [SlideShare](https://www.slideshare.net/MongoDB)
-* [Videos](https://www.mongodb.com/presentations)
 
 ### Key features
 
@@ -125,20 +123,23 @@ Internals:
   * [wikipedia Raft](https://en.wikipedia.org/wiki/Raft_(computer_science))
   * [Raft - The Understandable Distributed Protocol](https://www.infoq.com/presentations/raft/)
 
+* [The Six Principles For Resilient Evolvability](https://speakerdeck.com/pdone/the-six-principles-for-resilient-evolvability) - November, 2020
+
 #### Data types
 
 [Quick Start: BSON Data Types - ObjectId](https://www.mongodb.com/blog/post/quick-start-bson-data-types--objectid)
 
 ### Products
 
-* [Atlas](./atlas.md)
-* [Compass](./compass.md)
-* [Ops Manager](./mongodb-opsmanager.md)
+* [Atlas](atlas.md)
+* [Compass](compass.md)
+* [Ops Manager](opsmanager.md)
 
 ### Getting further
 
-* [Events](./mongodb-events.md)
-* [News](./mongodb-news.md)
+* [Events](events.md)
+* [News](news.md)
+* [Partners](partners.md)
 
 ### Recipes
 
@@ -148,11 +149,11 @@ Internals:
 
 ## Releases
 
-Version                  | Date            | More
--------------------------|-----------------|-----
-[`5.0`](./mongodb-50.md) |                 | -
-`4.4`                    | _June 09, 2020_ | [Annoucement](https://www.mongodb.com/blog/post/announcing-mongodb-44--mongodb-cloud), [Paper](https://webassets.mongodb.com/MongoDB_Whats_New_4.4.pdf)
-[`4.2`](./mongodb-42.md) |                 | -
+Version                | Date
+-----------------------|------------
+[`4.2`](mongodb-42.md) | August 2019
+[`4.4`](mongodb-44.md) | June 2020
+[`5.0`](mongodb-50.md) | July 2021
 
 ## First steps
 
@@ -294,24 +295,3 @@ mongosh <connection_string>
 #### dbKoda samples
 
 * dbKoda holds a collection of sample data: [github.com/SouthbankSoftware/dbkoda-data](https://github.com/SouthbankSoftware/dbkoda-data).
-
-### Open source tools
-
-#### mtools
-
-> mtools is a collection of helper scripts to parse, filter, and visualize MongoDB log files (mongod, mongos). mtools also includes mlaunch, a utility to quickly set up complex MongoDB test environments on a local machine.
-
-More information on [github.com/rueckstiess/mtools](https://github.com/rueckstiess/mtools), [mongodb.com/blog/post/introducing-mtools](https://www.mongodb.com/blog/post/introducing-mtools).
-
-You'll need Python (2 or 3) to install and use it.
-
-```bash
-# install with pip (Python)
-pip install mtools
-```
-
-## Deployment typologies
-
-### MongoDB & OVH
-
-* [FR - OVHcloud et MongoDB s’allient pour proposer une solution facilitant l’innovation des données dans le cloud](https://www.developpez.net/forums/d2109067/logiciels/solutions-d-entreprise/cloud-computing/ovhcloud-mongodb-s-allient-proposer-solution-facilitant-l-innovation-donnees-cloud/) - May 28, 2021

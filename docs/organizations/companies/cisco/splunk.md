@@ -2,7 +2,7 @@
 
 > The Data-to-Everything Platform, Powering Security, IT and DevOps
 
-[splunk.com](https://www.splunk.com/)
+🌐 [splunk.com](https://www.splunk.com/)
 
 ## Learn
 

@@ -2,7 +2,7 @@
 
 > Linkerd is an ultralight service mesh for Kubernetes. It gives you observability, reliability, and security without requiring any code changes.
 
-[linkerd.io](https://linkerd.io/), [GitHub](https://github.com/linkerd/)
+🌐 [linkerd.io](https://linkerd.io/), [GitHub](https://github.com/linkerd/)
 
 ## Announcements
 

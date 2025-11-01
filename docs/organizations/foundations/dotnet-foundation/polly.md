@@ -1,6 +1,6 @@
 # Polly
 
-→ [pollydocs.org](https://www.pollydocs.org/), [GitHub](https://github.com/App-vNext/Polly)
+🌐 [pollydocs.org](https://www.pollydocs.org/), [GitHub](https://github.com/App-vNext/Polly)
 
 ## Recipes
 

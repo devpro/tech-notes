@@ -1,6 +1,6 @@
 # Azure
 
-[Azure Portal](https://portal.azure.com/)
+🌐 [portal](https://portal.azure.com/)
 
 ## Pricing
 

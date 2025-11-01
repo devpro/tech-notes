@@ -2,7 +2,7 @@
 
 > TypeScript is a strongly typed programming language which builds on JavaScript giving you better tooling at any scale.
 
-[typescriptlang.org](https://www.typescriptlang.org/), [GitHub](https://github.com/microsoft/TypeScript)
+🌐 [typescriptlang.org](https://www.typescriptlang.org/), [code](https://github.com/microsoft/TypeScript)
 
 ## Learn
 

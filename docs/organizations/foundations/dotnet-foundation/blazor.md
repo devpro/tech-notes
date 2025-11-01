@@ -2,7 +2,7 @@
 
 > Use the power of .NET and C# to build full stack web apps without writing a line of JavaScript.
 
-→ [dotnet.microsoft.com/apps/aspnet/web-apps/blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
+🌐 [dotnet.microsoft.com/apps/aspnet/web-apps/blazor](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
 
 ## Learn
 

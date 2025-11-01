@@ -2,7 +2,7 @@
 
 > A Predictable State Container for JS Apps
 
-→ [redux.js.org](https://redux.js.org/)
+🌐 [redux.js.org](https://redux.js.org/)
 
 ## Learn
 

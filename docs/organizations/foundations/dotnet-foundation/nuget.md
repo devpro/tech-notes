@@ -2,7 +2,7 @@
 
 > NuGet is the package manager for .NET
 
-→ [nuget.org](https://www.nuget.org/), [learn.microsoft.com](https://learn.microsoft.com/en-us/nuget/)
+🌐 [nuget.org](https://www.nuget.org/), [docs](https://learn.microsoft.com/en-us/nuget/)
 
 ## Presentation
 
@@ -10,7 +10,7 @@
 >
 > For .NET, the Microsoft-supported mechanism for sharing code is NuGet, which defines how packages for .NET are created, hosted, and consumed, and provides the tools for each of those roles.
 
-→ [docs.microsoft.com/what-is-nuget](https://docs.microsoft.com/en-us/nuget/what-is-nuget)
+🌐 [docs](https://docs.microsoft.com/en-us/nuget/what-is-nuget)
 
 ## Common packages
 

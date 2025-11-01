@@ -1,4 +1,6 @@
-# Site Reliability Engineering (SRE)
+# SRE
+
+Site Reliability Engineering (SRE)
 
 ## Definitions
 

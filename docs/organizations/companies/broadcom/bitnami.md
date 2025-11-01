@@ -1,3 +1,3 @@
 # Bitnami
 
-[bitnami.com](https://bitnami.com/)
+🌐 [bitnami.com](https://bitnami.com/)

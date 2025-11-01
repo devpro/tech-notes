@@ -1,4 +1,4 @@
-# Glossary for Nutanix
+# Glossary
 
 ## General
 

@@ -1,12 +1,12 @@
 # ECMAScript
 
-[ecma-international.org/technical-committees/tc39](https://ecma-international.org/technical-committees/tc39/), [github.com/tc39](https://github.com/tc39)
+🌐 [ecma-international.org/technical-committees/tc39](https://ecma-international.org/technical-committees/tc39/), [github.com/tc39](https://github.com/tc39)
 
 ## Introductions
 
-> ECMAScript is the scripting language that forms the basis of JavaScript.
+> ECMAScript is the scripting language that forms the basis of JavaScript
 
-→ [developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
+[developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources)
 
 ## Versions
 

@@ -1,4 +1,6 @@
-# Infrastructure-as-Code (IaC)
+# IaC
+
+Infrastructure-as-Code (IaC)
 
 ## Definitions
 

@@ -1,3 +1,3 @@
 # Elastisys
 
-[elastisys.com](https://elastisys.com)
+🌐 [elastisys.com](https://elastisys.com)

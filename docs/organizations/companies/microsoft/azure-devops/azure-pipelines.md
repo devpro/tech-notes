@@ -1,6 +1,6 @@
 # Azure Pipelines
 
-→ [azure.microsoft.com/services/devops/pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
+🌐 [azure.microsoft.com/services/devops/pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 
 ## Quick links
 

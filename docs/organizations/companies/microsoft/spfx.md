@@ -2,7 +2,7 @@
 
 > Page and web part model that provides full support for client-side SharePoint development, easy integration with SharePoint data, and extending Microsoft Teams.
 
-→ [docs.microsoft.com/spfx](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
+🌐 [docs](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/sharepoint-framework-overview)
 
 ## Learn
 

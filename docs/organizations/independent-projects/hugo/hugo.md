@@ -1,6 +1,6 @@
 # Hugo
 
-[gohugo.io](https://gohugo.io/), [code](https://github.com/gohugoio/hugo)
+🌐 [gohugo.io](https://gohugo.io/), [code](https://github.com/gohugoio/hugo)
 
 ## Getting started
 

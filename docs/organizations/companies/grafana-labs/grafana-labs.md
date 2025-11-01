@@ -1,6 +1,6 @@
 # Grafana Labs
 
-→ [grafana.com](https://grafana.com/)
+🌐 [grafana.com](https://grafana.com/)
 
 ## Components
 

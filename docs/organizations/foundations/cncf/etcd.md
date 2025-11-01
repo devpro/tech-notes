@@ -2,7 +2,7 @@
 
 > A distributed, reliable key-value store for the most critical data of a distributed system
 
-[etcd.io](https://etcd.io/), [code](https://github.com/etcd-io/etcd), [docs](https://etcd.io/docs/v3.6/)
+🌐 [etcd.io](https://etcd.io/), [code](https://github.com/etcd-io/etcd), [docs](https://etcd.io/docs/)
 
 ## Quick start
 

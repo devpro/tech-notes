@@ -2,7 +2,7 @@
 
 > MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols
 
-[metallb.org](https://metallb.org/), [code](https://github.com/metallb/metallb)
+🌐 [metallb.org](https://metallb.org/), [code](https://github.com/metallb/metallb)
 
 ## Examples
 

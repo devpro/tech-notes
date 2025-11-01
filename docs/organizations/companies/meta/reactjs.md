@@ -2,7 +2,7 @@
 
 > A JavaScript library for building user interfaces
 
-→ [reactjs.org](https://reactjs.org/), [GitHub](https://github.com/facebook/react)
+🌐 [reactjs.org](https://reactjs.org/), [code](https://github.com/facebook/react)
 
 ## Learn
 
@@ -50,15 +50,3 @@ npm run eject
 - [Testing Overview](https://reactjs.org/docs/testing.html)
 - [Testing Recipes](https://reactjs.org/docs/testing-recipes.html)
 - [Test Utilities](https://reactjs.org/docs/test-utils.html)
-
-#### Jest
-
-> Jest is a delightful JavaScript Testing Framework with a focus on simplicity.
-
-→ [jestjs.io](https://jestjs.io/en/) ([Testing React Apps](https://jestjs.io/docs/en/tutorial-react))
-
-Install dev dependancies: [testing-library/react](https://github.com/testing-library/react-testing-library), [testing-library/jest-dom](https://github.com/testing-library/jest-dom/)
-
-```bash
-npm install --save-dev @testing-library/react @testing-library/jest-dom
-```

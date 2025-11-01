@@ -1,6 +1,9 @@
-# Nutanix Kubernetes Platform (NKP)
+# Nutanix Kubernetes Platform
 
-🌐 [Product](https://www.nutanix.com/products/kubernetes-management-platform), [Datasheet](https://www.nutanix.com/library/datasheets/nkp)
+> Nutanix Kubernetes Platform (NKP) simplifies platform engineering by reducing operational complexity and establishing consistency across any environment
+
+🌐 [nutanix.com/products/kubernetes-management-platform](https://www.nutanix.com/products/kubernetes-management-platform),
+[datasheet](https://www.nutanix.com/library/datasheets/nkp)
 
 <!-- 
 Nutanix Data Services for Kubernetes

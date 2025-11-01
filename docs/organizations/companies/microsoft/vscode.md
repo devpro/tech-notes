@@ -5,26 +5,28 @@
 
 🌐 [code.visualstudio.com](https://code.visualstudio.com/), [docs](https://code.visualstudio.com/docs), [code](https://github.com/microsoft/vscode)
 
-Web version: [vscode.dev](https://vscode.dev/)
-
 ## Content
 
 * [Installation](vscode-installation.md)
-* Languages (development): [Go](vscode-go.md)
+* Languages: [Go](vscode-go.md)
 
 ## Extensions
 
-* [GitHub Repositories](https://marketplace.visualstudio.com/items?itemName=github.remotehub) by Microsoft
-* [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) by Microsoft
-
-Know more about [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
+* [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+* [Markdown Table Pretifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
+* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+* [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) by unified
+* [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) by Microsoft
+* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
 ## Shortcuts
 
 Key(s)          | Action
 ----------------|------------------------------------------------------------------------------------------
-`.`             | Open the repository in [github.dev](https://github.dev/), VS Code as web interface (OMG!)
-`t`             | Open file finder
-`Shift` + `Tab` | Indent left
 `Ctrl` + `:`    | Toggle line comment
-`Ctrl` + `P`    | Search files by name`
+`Ctrl` + `P`    | Search files by name
+`Shift` + `Tab` | Indent left
+
+## Web IDE
+
+🌐 [vscode.dev](https://vscode.dev/)

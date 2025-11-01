@@ -2,7 +2,7 @@
 
 > Dapr helps developers build event-driven, resilient distributed applications. Whether on-premises, in the cloud, or on an edge device, Dapr helps you tackle the challenges that come with building microservices and keeps your code platform agnostic.
 
-→ [dapr.io](https://dapr.io/)
+🌐 [dapr.io](https://dapr.io/)
 
 ## Annoucements
 

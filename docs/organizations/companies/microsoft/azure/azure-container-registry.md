@@ -2,7 +2,7 @@
 
 > A registry of Docker and Open Container Initiative (OCI) images, with support for all OCI artifacts.
 
-→ [azure.microsoft.com/products](https://azure.microsoft.com/en-us/products/container-registry/)
+🌐 [azure.microsoft.com/products](https://azure.microsoft.com/en-us/products/container-registry/)
 
 ## Tips
 

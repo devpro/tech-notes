@@ -7,35 +7,25 @@ For previous versions: [Windows 10](archive/windows-10.md).
 
 ### Power options
 
-Open `Control Panel` > `Hardware and Sound` >  `Power Options` to enable `Hibernate` and change the action when closing the lid.
+- `Control Panel` > `Hardware and Sound` >  `Power Options`
+  - `Choose what the closing the lid does` > `Change settings that are currently unavailable`
+    - Enable `Hibernate`
 
 ### Display
 
-Review and update:
-
-Parameter                               | Path
-----------------------------------------|----------------------------------------------------------------------------------------------------
-HDR                                     | `Settings` (Windows) > `System` > `Display` > `HDR` (in Brightness & Colour)
-Windows refresh rate (for every screen) | `Settings` (Windows) > `System` > `Display` > `Advanced display` (Related settings) > `Choose a refresh rate`
-NVIDIA G-SYNC                           | `NVIDIA Control Panel` > `Display` > `Set up G-SYNC` > `Enable G-SYNC`
-NVIDIA 3D program settings              | `NVIDIA Control Panel` > `3D Settings` > `Manage 3D settings` > `Program settings`
-NVIDIA application settings             | `Settings` (Windows) > `System` > `Display` > `Graphics` > `Customised settings for applications`
+- `Settings` > `System` > `Display`
+  - `HDR`
+  - `Advanced display` > `Choose a refresh rate`
+  - `Graphics` > `Customised settings for applications`
+- `NVIDIA Control Panel`
+  - `Display` > `Set up G-SYNC` > `Enable G-SYNC`
+  - `3D Settings` > `Manage 3D settings` > `Program settings`
 
 ## Features
 
 - [Windows Subsystem for Linux (WSL)](wsl.md)
 
 ## Applications
-
-### Software development
-
-- [Visual Studio Code](software-development.md#visual-studio-code)
-
-### Office
-
-- [draw.io Diagrams](https://apps.microsoft.com/detail/9mvvszk43qqw)
-- [PDF24 Creator](https://apps.microsoft.com/detail/xpfd51h3vqzfm0)
-- [Inkscape](https://inkscape.org/)
 
 ### Utilities
 
@@ -46,3 +36,19 @@ NVIDIA application settings             | `Settings` (Windows) > `System` > `Dis
     ```batch
     winget install WinDirStat.WinDirStat
     ```
+
+- Windows Terminal
+
+### Software development
+
+- [Visual Studio Code](../../../organizations/companies/microsoft/vscode.md)
+- Git
+- [Visual Studio 2022](../../../organizations/companies/microsoft/vs2022.md)
+- [MongoDB Compass](https://www.mongodb.com/try/download/compass)
+- Notepad++
+
+### Office
+
+- [draw.io Diagrams](https://apps.microsoft.com/detail/9mvvszk43qqw)
+- [PDF24 Creator](https://apps.microsoft.com/detail/xpfd51h3vqzfm0)
+- [Inkscape](https://inkscape.org/)

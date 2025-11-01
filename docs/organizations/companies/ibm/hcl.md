@@ -1,6 +1,6 @@
 # HashiCorp Configuration Language (HCL)
 
-→ [github](https://github.com/hashicorp/hcl)
+🌐 [code](https://github.com/hashicorp/hcl)
 
 ## Learn
 

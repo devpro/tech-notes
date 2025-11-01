@@ -2,11 +2,11 @@
 
 > Node Package Manager
 
-→ [npmjs.com](https://www.npmjs.com/)
+🌐 [npmjs.com](https://www.npmjs.com/)
 
 ## Installation
 
-→ [nodejs.org](https://nodejs.org/)
+🌐 [nodejs.org](https://nodejs.org/)
 
 ## CLI
 

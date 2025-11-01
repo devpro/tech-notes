@@ -1,6 +1,6 @@
 # Terraform CLI (Command Line Interface)
 
-→ [docs](https://www.terraform.io/docs/cli/index.html)
+🌐 [docs](https://www.terraform.io/docs/cli/index.html)
 
 ## Setup
 

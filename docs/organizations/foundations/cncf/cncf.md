@@ -27,6 +27,7 @@
 * [Konveyor](konveyor.md)
 * [Kubernetes](https://github.com/devpro/learn-kubernetes)
 * [Linkerd](linkerd.md)
+* [Longhorn](../../companies/suse/longhorn.md)
 * [MetalLB](metallb.md)
 * [OpenTelemetry](opentelemetry.md)
 * [Prometheus](prometheus.md)

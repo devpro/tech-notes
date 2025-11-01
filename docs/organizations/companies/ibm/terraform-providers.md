@@ -1,6 +1,6 @@
 # Providers for Terraform
 
-→ [registry](https://registry.terraform.io/browse/providers), [docs](https://www.terraform.io/docs/language/providers/index.html)
+🌐 [registry](https://registry.terraform.io/browse/providers), [docs](https://www.terraform.io/docs/language/providers/index.html)
 
 ## List
 

@@ -1,3 +1,3 @@
 # Kong
 
-[konghq.com](https://konghq.com/)
+🌐 [konghq.com](https://konghq.com/)

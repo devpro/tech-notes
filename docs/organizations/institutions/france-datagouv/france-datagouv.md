@@ -1,6 +1,6 @@
 # France Datagouv
 
-[data.gouv.fr](https://www.data.gouv.fr/)
+🌐 [data.gouv.fr](https://www.data.gouv.fr/)
 
 ## Databases
 

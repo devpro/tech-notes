@@ -1,8 +1,17 @@
 # WSL
 
-Windows Subsystem for Linux (WSL) is a Windows feature that is not enabled by default.
+📝 [organizations/companies/microsoft/wsl](../../../organizations/companies/microsoft/wsl.md)
 
-## Ubuntu 24.04
+## Windows features
+
+The following features must be enabled:
+
+- `Containers`
+- `Windows Subsystem for Linux`
+
+## Linux distributions
+
+### Ubuntu 24.04
 
 Open a dos window as Administrator to install the default Linux system:
 
@@ -10,38 +19,22 @@ Open a dos window as Administrator to install the default Linux system:
 wsl --install
 ```
 
-Ubuntu is now available in Windows Terminal.
-
-Make sure systemd is enabled:
+Ubuntu is now available in Windows Terminal. Make sure systemd is enabled:
 
 ```bash
 cat /etc/wsl.conf
 stat /sbin/init
 ```
 
-To restrict the use of resources by WSL2 (all distros), create a text file `%UserProfile%\.wslconfig` in the current user’s profile and restart wsl (`wsl --shutdown`):
+## Linux applications
 
-```ini
-[wsl2]
-memory=8GB
-processors=4
-swap=2GB
-```
+- [GitKraken Desktop](../../../organizations/companies/gitkraken/gitkraken-desktop.md#wsl)
+- [Visual Studio Code](../../../organizations/companies/microsoft/vscode-installation.md#wsl)
 
-For performance issues, store container files inside WSL directory (Windows files are in /mnt/c).
+## Containers
 
-For old kernels, one can enable compatibility with iptables:
-
-```bash
-sudo update-alternatives --config iptables
-```
-
-Install [GitKraken Desktop](../../../organizations/companies/gitkraken/gitkraken-desktop.md#wsl)
-
-Install [Docker](../ubuntu/containerization.md#docker).
-
-Docker can be ran from Windows command prompt by adding wsl before:
-
-```docs
-wsl docker images
-```
+- [Docker](../../../organizations/companies/docker/docker-engine.md#ubuntu)
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/#install-kubectl-binary-with-curl-on-linux)
+- [Helm](https://github.com/devpro/kubernetes-essentials/blob/main/docs/tools/helm.md#installation)
+- [k3d](https://github.com/devpro/kubernetes-essentials/blob/main/docs/tools/k3d.md)
+- [ngrok](../../../organizations/companies/ngrok/ngrok.md)

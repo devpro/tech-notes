@@ -1,7 +1,7 @@
 # Traefik Labs
 
-[traefik.io](https://traefik.io/)
+🌐 [traefik.io](https://traefik.io/)
 
 ## Education
 
-[academy.traefik.io](https://academy.traefik.io/)
+- [academy.traefik.io](https://academy.traefik.io/)

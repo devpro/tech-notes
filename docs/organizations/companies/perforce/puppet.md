@@ -1,6 +1,6 @@
 # Puppet
 
-[puppet.com](https://puppet.com/)
+🌐 [puppet.com](https://puppet.com/)
 
 ## Learning
 
@@ -106,7 +106,6 @@ Interesting modules:
 ### Usecases
 
 - [Using Node-Side Secrets with Puppet](https://puppet.com/blog/using-node-side-secrets-puppet)
-- [Puppet server installation on CentOS](puppet-centos-howto.md)
 
 ### Docker
 
@@ -238,8 +237,7 @@ puppet agent --configprint factpath
 
 ## Puppet server
 
-It is also known as **Puppet master**.
-You can review the procedure to install a Puppet server on this [page](puppet-centos-howto.md).
+It is also known as **Puppet master**..
 
 ### Server commands (CentOS)
 
