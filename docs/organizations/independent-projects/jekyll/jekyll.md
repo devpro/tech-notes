@@ -1,6 +1,6 @@
 # Jekyll
 
-→ [Jekyll](https://jekyllrb.com/)
+🌐 [Jekyll](https://jekyllrb.com/)
 
 ## How to run locally
 

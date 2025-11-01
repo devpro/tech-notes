@@ -1,11 +1,5 @@
 # .NET Core
 
-[learn.microsoft.com](https://learn.microsoft.com/en-us/dotnet/core/introduction)
-
-## Quick Links
-
-- [docs](https://docs.microsoft.com/en-us/dotnet/core/)
-
 ## Use cases
 
 ### Console project

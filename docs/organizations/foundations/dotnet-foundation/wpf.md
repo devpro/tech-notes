@@ -1,6 +1,6 @@
 # Windows Presentation Foundation (WPF)
 
-→ [docs](https://docs.microsoft.com/en-us/dotnet/desktop-wpf/), [code](https://github.com/dotnet/wpf)
+🌐 [docs](https://docs.microsoft.com/en-us/dotnet/desktop-wpf/), [code](https://github.com/dotnet/wpf)
 
 ## WPF & .NET Core
 

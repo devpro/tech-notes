@@ -46,7 +46,7 @@ Version | Date       | More
 
 ### Quick start
 
-- Use [Angular CLI](./angular-cli.md)
+- Use [Angular CLI](cli.md)
 
 ```bash
 # create the application
@@ -65,7 +65,7 @@ ng generate module layout
 ng generate component layout/home
 ```
 
-→ [angular.io/guide/quickstart](https://angular.io/guide/quickstart)
+🌐 [angular.io/guide/quickstart](https://angular.io/guide/quickstart)
 
 ## Recipes
 

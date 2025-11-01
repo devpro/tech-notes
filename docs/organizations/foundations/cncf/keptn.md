@@ -2,7 +2,7 @@
 
 > Cloud-native application life-cycle orchestration
 
-→ [keptn](https://keptn.sh/), [GitHub](https://github.com/keptn/keptn)
+🌐 [keptn](https://keptn.sh/), [GitHub](https://github.com/keptn/keptn)
 
 ## Learn
 

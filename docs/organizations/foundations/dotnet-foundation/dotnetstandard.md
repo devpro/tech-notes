@@ -2,7 +2,7 @@
 
 > The .NET Standard is a formal specification of .NET APIs that are intended to be available on all .NET implementations.
 
-→ [docs.microsoft.com/dotnet/standard](https://docs.microsoft.com/en-us/dotnet/standard/net-standard)
+🌐 [docs.microsoft.com/dotnet/standard](https://learn.microsoft.com/en-us/dotnet/standard/net-standard)
 
 ## Guides
 

@@ -1,3 +1,3 @@
 # Crossplane
 
-[crossplane.io](https://www.crossplane.io/) ([crossplane/crossplane](https://github.com/crossplane/crossplane))
+🌐 [crossplane.io](https://www.crossplane.io/), [code](https://github.com/crossplane/crossplane)

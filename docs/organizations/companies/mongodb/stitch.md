@@ -1,4 +1,4 @@
-# MongoDB Stitch (Legacy)
+# Stitch
 
 → [docs](https://www.mongodb.com/docs/realm/stitch/index/)
 

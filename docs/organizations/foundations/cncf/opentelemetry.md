@@ -1,6 +1,6 @@
 # OpenTelemetry (aka Otel, aka O11y)
 
-[opentelemetry.io](https://opentelemetry.io/)
+🌐 [opentelemetry.io](https://opentelemetry.io/)
 
 ## Use cases
 

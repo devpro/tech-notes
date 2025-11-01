@@ -2,7 +2,7 @@
 
 > Flux is a set of continuous and progressive delivery solutions for Kubernetes that are open and extensible.
 
-→ [fluxcd.io](https://fluxcd.io/)
+🌐 [fluxcd.io](https://fluxcd.io/)
 
 ## News
 

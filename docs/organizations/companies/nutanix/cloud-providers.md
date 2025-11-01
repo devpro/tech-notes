@@ -1,4 +1,4 @@
-# Cloud providers for Nutanix
+# Cloud providers
 
 ## OVHCloud
 

@@ -1,13 +1,13 @@
-# Nutanix people
+# People
 
 <!-- Nutants -->
 
 ## Values
 
-* **Hungry** To be the best
-* **Humble** In how we think and act
-* **Honest** To do the right things
-* **With Heart** In everything we do
+1. **Hungry** to be the best
+2. **Humble** in how we think and act
+3. **Honest** to do the right things
+4. **With heart** in everything we do
 
 ## Job openings
 

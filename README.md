@@ -12,6 +12,5 @@ Feel free to [contribute](CONTRIBUTING.md)!
 * [Fundamentals](docs/fundamentals/fundamentals.md)
 * [Guides](docs/guides/guides.md)
 * [Organizations](docs/organizations/organizations.md)
-* [Studies](docs/studies/adr/adr.md)
 
 <!-- https://wiki-tech.io/ -->

@@ -1,3 +1,3 @@
 # Argo project
 
-🌐 [argoproj.github.io](https://argoproj.github.io/), [argoproj/argo](https://github.com/argoproj/argo)
+🌐 [argoproj.github.io](https://argoproj.github.io/), [GitHub](https://github.com/argoproj)

@@ -1,15 +1,22 @@
 # Practices
 
-## IT
+## Build
 
-* [Continuous Integration](ci.md)
-* [DevOps](devops.md)
+* [Continuous Integration (CI)](ci.md)
+* [Domain Driven Design (DDD)](ddd.md)
+* [Static site generators (SSG)](ssg.md)
+* [Testing](testing.md)
+* [Test Driven Development](tdd.md)
+
+## Run
+
 * [GitOps](gitops.md)
-* [Infrastructure-as-Code](iac.md)
 * [Post mortem](post-mortem.md)
 * [Site Reliability Engineering](sre.md)
+* [Infrastructure-as-Code (IaC)](iac.md)
 
 ## Project management
 
 * [Agile](agile.md)
+* [DevOps](devops.md)
 * [SCRUM](scrum.md)

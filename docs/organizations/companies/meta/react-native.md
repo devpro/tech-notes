@@ -1,6 +1,6 @@
 # React Native
 
-→ [reactnative.dev](https://reactnative.dev/)
+🌐 [reactnative.dev](https://reactnative.dev/)
 
 ## Learn
 

@@ -1,6 +1,6 @@
 # HashiCorp
 
-[hashicorp.com](https://www.hashicorp.com/)
+🌐 [hashicorp.com](https://www.hashicorp.com/)
 
 ## Products
 

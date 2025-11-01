@@ -2,7 +2,7 @@
 
 > Countless developers and teams worldwide use GitKraken Desktop for its intuitive GUI, powerful terminal, and cross-platform support for Windows, Mac, and Linux
 
-[gitkraken.com/git-client](https://www.gitkraken.com/git-client)
+🌐 [gitkraken.com/git-client](https://www.gitkraken.com/git-client)
 
 ## Usage
 
@@ -10,13 +10,15 @@
 
 For users on Windows, using WSL and having repositories cloned on WSL, it's recommended to install GitKraken Desktop on the Linux distribution and open it from there (like VS Code).
 
-[help.gitkraken.com/gitkraken-desktop/windows-subsystem-for-linux](https://help.gitkraken.com/gitkraken-desktop/windows-subsystem-for-linux/)
+The procedure is given at [help.gitkraken.com/gitkraken-desktop/windows-subsystem-for-linux](https://help.gitkraken.com/gitkraken-desktop/windows-subsystem-for-linux/).
 
-Install on Ubuntu with:
+Install, or upgrade, on Ubuntu with:
 
 ```bash
 wget https://api.gitkraken.dev/releases/production/linux/x64/active/gitkraken-amd64.deb
-sudo apt install ./gitkraken-amd64.deb
+sudo mv gitkraken-amd64.deb /tmp
+sudo apt install /tmp/gitkraken-amd64.deb
+sudo rm /tmp/gitkraken-amd64.deb
 ```
 
 Run with:
@@ -27,5 +29,17 @@ gitkraken
 
 Configure SSH keys:
 
-- In File, click Preferences...
-- Click SSH, select SSH Private Key and SSH Public Key (you can copy those from Windows and change permissions to 600)
+- In **File**, click **Preferences...**
+- Click **SSH**, select the files for **SSH Private Key** and **SSH Public Key** (you can copy in `~/.ssh` those from Windows and change permissions to 600)
+
+Shortcuts:
+
+- `Ctrl`+`Shift`+`F` toggles full screen
+
+Know issues:
+
+- GitKraken Desktop window may disappear and the only solution is to kill and restart the application
+
+    ```bash
+    kill -TERM -- -$(pgrep -o gitkraken)
+    ```

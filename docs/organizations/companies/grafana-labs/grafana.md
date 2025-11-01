@@ -3,7 +3,7 @@
 > Grafana allows you to query, visualize, alert on and understand your metrics no matter where they are stored. Create, explore, and share
 beautiful dashboards with your team and foster a data driven culture.
 
-→ [grafana.com](https://grafana.com/), [code](https://github.com/grafana), [docs](https://grafana.com/docs/grafana/latest/)
+🌐 [grafana.com](https://grafana.com/), [code](https://github.com/grafana), [docs](https://grafana.com/docs/grafana/latest/)
 
 ## Releases
 

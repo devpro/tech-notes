@@ -2,7 +2,7 @@
 
 > Fast, unopinionated, minimalist web framework for Node.js
 
-→ [expressjs.com](https://expressjs.com/), [GitHub](https://github.com/expressjs/express)
+🌐 [expressjs.com](https://expressjs.com/), [GitHub](https://github.com/expressjs/express)
 
 ## Learn
 

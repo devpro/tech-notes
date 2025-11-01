@@ -1,6 +1,6 @@
 # Travis CI
 
-[travis-ci.com](https://www.travis-ci.com/)
+🌐 [travis-ci.com](https://www.travis-ci.com/)
 
 ## Learn
 

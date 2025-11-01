@@ -1,8 +1,8 @@
 # Tuleap
 
-Tuleap is an ALM (Application Lifecycle Management) tool, it is open source solution provided by [enalean](https://www.enalean.com/).
+Tuleap is an ALM (Application Lifecycle Management) tool, it is open source solution provided by [enalean](enalean.md).
 
-[tuleap.org](https://www.tuleap.org/); [docs.tuleap.org](https://docs.tuleap.org/user-guide/intro.html), [github.com/Enalean/tuleap](https://github.com/Enalean/tuleap)
+🌐 [tuleap.org](https://www.tuleap.org/), [docs](https://docs.tuleap.org/user-guide/intro.html), [code](https://github.com/Enalean/tuleap)
 
 ## Features
 

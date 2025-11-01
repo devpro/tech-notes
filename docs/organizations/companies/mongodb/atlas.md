@@ -1,8 +1,9 @@
-# MongoDB Atlas
+# Atlas
 
-> MongoDB Atlas is an integrated suite of data services centered around a cloud database designed to accelerate and simplify how you build with data.
+> The most effective way to deploy MongoDB. Enjoy unmatched resilience, scalability, and enterprise-grade security while eliminating operational complexity
 
-→ [MongoDB Atlas Database](https://www.mongodb.com/atlas/database), [MongoDB Cloud Services](https://www.mongodb.com/cloud), [docs](https://www.mongodb.com/docs/atlas/), [Resources](https://www.mongodb.com/resources)
+🌐 [mongodb.com/products/platform/atlas-database](https://www.mongodb.com/products/platform/atlas-database),
+[mongodb.com/products/platform/cloud](https://www.mongodb.com/products/platform/cloud), [docs](https://www.mongodb.com/docs/atlas/)
 
 ## Features
 

@@ -1,6 +1,6 @@
 # Prometheus
 
-[prometheus.io](https://prometheus.io/), [code](https://github.com/prometheus/prometheus)
+🌐 [prometheus.io](https://prometheus.io/), [code](https://github.com/prometheus/prometheus)
 
 ## Use cases
 

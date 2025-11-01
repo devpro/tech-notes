@@ -2,11 +2,10 @@
 
 > Vagrant enables the creation and configuration of lightweight, reproducible, and portable development environments.
 
-→ [vagrantup.com](https://www.vagrantup.com/)
+🌐 [vagrantup.com](https://www.vagrantup.com/)
 
 ## Content
 
-- [How to run Vagrant on Ubuntu](vagrant-ubuntu-howto.md)
 - [Vagrant CLI](vagrant-cli.md)
 
 ## Learn

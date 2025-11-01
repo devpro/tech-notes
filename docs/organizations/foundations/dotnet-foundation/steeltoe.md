@@ -3,7 +3,7 @@
 > Steeltoe is an open source project that enables .NET developers to implement industry standard best practices when building resilient microservices for the cloud.
 > The Steeltoe client libraries enable .NET Core and .NET Framework apps to easily leverage Netflix Eureka, Hystrix, Spring Cloud Config Server, and Cloud Foundry services.
 
-→ [steeltoe.io](https://steeltoe.io/), [GitHub](https://github.com/SteeltoeOSS), [Slack](https://slack.steeltoe.io/), [initializr](http://start.steeltoe.io/)
+🌐 [steeltoe.io](https://steeltoe.io/), [GitHub](https://github.com/SteeltoeOSS), [Slack](https://slack.steeltoe.io/), [initializr](http://start.steeltoe.io/)
 
 ## Learning
 

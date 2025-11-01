@@ -1,6 +1,6 @@
 # C# language
 
-[Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+🌐 [docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 ## Versions
 

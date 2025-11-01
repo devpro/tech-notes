@@ -1,6 +1,6 @@
 # Fluentd
 
-[fluentd.org](https://www.fluentd.org/), [code](https://github.com/fluent/fluentd/)
+🌐 [fluentd.org](https://www.fluentd.org/), [code](https://github.com/fluent/fluentd/)
 
 ## Learn
 

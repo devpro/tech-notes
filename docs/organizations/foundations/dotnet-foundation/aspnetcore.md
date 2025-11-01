@@ -2,7 +2,7 @@
 
 > ASP.NET Core is the open-source version of ASP.NET, that runs on Windows, Linux, macOS, and Docker.
 
-→ [docs](https://learn.microsoft.com/en-us/aspnet/core/), [code](https://github.com/dotnet/aspnetcore)
+🌐 [docs](https://learn.microsoft.com/en-us/aspnet/core/), [code](https://github.com/dotnet/aspnetcore)
 
 ## Learn
 

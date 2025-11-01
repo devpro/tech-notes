@@ -6,6 +6,11 @@
 
 ## Introduction
 
+> A world where everyone can contribute
+>
+> &mdash; _[linkedin.com/company/gitlab-com/life/general](https://www.linkedin.com/company/gitlab-com/life/general)_
+
+GitLab started in 2011 as an open-source project.
 GitLab is a company that provides an [Application Lifecycle Management (ALM)](alm.md) platform.
 
 ## Offering
@@ -36,15 +41,9 @@ GitLab is a company that provides an [Application Lifecycle Management (ALM)](al
 * [Forum](https://forum.gitlab.com/)
 * [Meetups](https://about.gitlab.com/community/meetups/)
 
-## History
+## Fun facts
 
-> A world where everyone can contribute
->
-> &mdash; _[linkedin.com/company/gitlab-com/life/general](https://www.linkedin.com/company/gitlab-com/life/general)_
-
-GitLab started in 2011 as an open-source project.
-
-## Logo
+### Tanuki
 
 > The logomark personifies GitLab’s values, culture, and stewardship of open source, taking inspiration from the tanuki – a raccoon dog native to Japan.
 >

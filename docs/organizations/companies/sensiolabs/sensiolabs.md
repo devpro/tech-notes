@@ -1,6 +1,6 @@
 # SensioLabs
 
-[sensiolabs.com](https://sensiolabs.com/)
+🌐 [sensiolabs.com](https://sensiolabs.com/)
 
 ## Content
 

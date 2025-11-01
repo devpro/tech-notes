@@ -1,7 +1,7 @@
 # Hardkernel
 
-[hardkernel.com](https://www.hardkernel.com/)
+🌐 [hardkernel.com](https://www.hardkernel.com/)
 
-## Product lines
+## Instructions
 
-* [ODROID](odroid.md)
+* [ODROID on Ubuntu](odroid-ubuntu.md)

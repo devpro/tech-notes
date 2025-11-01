@@ -1,6 +1,6 @@
 # OpenJS Foundation
 
-[openjsf.org](https://openjsf.org/)
+🌐 [openjsf.org](https://openjsf.org/)
 
 ## Projects
 
@@ -9,7 +9,7 @@
 - ESLint
 - [Express](express.md)
 - Grunt
-- Jest
+- [Jest](jest.md)
 - jQuery
 - [Node.js](nodejs.md)
 - Nvm

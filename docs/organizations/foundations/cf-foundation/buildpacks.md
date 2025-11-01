@@ -5,7 +5,7 @@
 > When you push an app, Cloud Foundry automatically detects an appropriate buildpack for it.
 > This buildpack is used to compile or prepare your app for launch.
 
-[docs.cloudfoundry.org](https://docs.cloudfoundry.org/buildpacks/), [pivotal.io](https://pivotal.io/platform/pcf-components/buildpacks), [docs.pivotal.io](https://docs.pivotal.io/pivotalcf/2-6/buildpacks/)
+🌐 [docs.cloudfoundry.org](https://docs.cloudfoundry.org/buildpacks/)
 
 ## How do they work
 

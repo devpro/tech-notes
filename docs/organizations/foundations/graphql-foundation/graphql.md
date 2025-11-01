@@ -1,3 +1,3 @@
 # GraphQL
 
-[graphql.org](https://graphql.org/)
+🌐 [graphql.org](https://graphql.org/)

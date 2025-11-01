@@ -13,5 +13,5 @@ It is a way to decouple applications inside an information system and provide hi
 ## Studies
 
 * [Exploring Message Brokers: RabbitMQ, Kafka, ActiveMQ, and Kestrel](https://dzone.com/articles/exploring-message-brokers) 2014-06-03
-* [Understanding When to use RabbitMQ or Apache Kafka by Pivotal](https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka) 2017-04-26
+* [Understanding When to use RabbitMQ or Apache Kafka](https://blogs.vmware.com/tanzu/understanding-when-to-use-rabbitmq-or-apache-kafka/) 2017-04-26
 * Fr [Comparatif RabbitMQ / Kafka par Ippon](https://blog.ippon.fr/2018/03/27/comparatif-rabbitmq-kafka/) 2018-03-27

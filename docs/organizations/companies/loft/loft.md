@@ -1,3 +1,3 @@
 # Loft
 
-[loft.sh](https://www.loft.sh/)
+🌐 [loft.sh](https://www.loft.sh/)

@@ -1,6 +1,6 @@
 # PHP
 
-→ [php.net](https://php.net)
+🌐 [php.net](https://php.net)
 
 ## Dev setup
 

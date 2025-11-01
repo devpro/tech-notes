@@ -2,7 +2,7 @@
 
 > .NET is the free, open-source, cross-platform framework for building modern apps and powerful cloud services
 
-→ [dot.net](https://dot.net/), [docs](https://docs.microsoft.com/en-us/dotnet/), [GitHub](https://github.com/dotnet)
+🌐 [dot.net](https://dot.net/), [docs](https://docs.microsoft.com/en-us/dotnet/), [GitHub](https://github.com/dotnet)
 
 ## Learn
 

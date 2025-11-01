@@ -1,3 +1,3 @@
 # Playwright
 
-[playwright.dev](https://playwright.dev/), [code](https://github.com/microsoft/playwright)
+🌐 [playwright.dev](https://playwright.dev/), [code](https://github.com/microsoft/playwright)

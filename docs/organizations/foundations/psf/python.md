@@ -2,13 +2,9 @@
 
 > Python is a programming language that lets you work quickly and integrate systems more effectively.
 
-[python.org](https://www.python.org/)
+🌐 [python.org](https://www.python.org/), [docs](https://docs.python.org/)
 
 ## Learn
-
-### Documentation
-
-* [docs.python.org](https://docs.python.org/)
 
 ### Getting started
 

@@ -2,11 +2,10 @@
 
 > **QGIS** is a professional GIS application that is built on top of and proud to be itself Free and Open Source Software (FOSS)
 
-[qgis.org](https://www.qgis.org/)
+🌐 [qgis.org](https://www.qgis.org/), [docs](https://www.qgis.org/resources/hub/)
 
 ## Documentation
 
-- Main: [en](https://www.qgis.org/en/docs/index.html), [fr](https://www.qgis.org/fr/docs/index.html)
 - [Demo](http://demo.qgis.org/)
 - [The graphical modeler](https://docs.qgis.org/2.8/en/docs/user_manual/processing/modeler.html)
 

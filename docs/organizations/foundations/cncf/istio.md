@@ -1,8 +1,8 @@
 # Istio
 
-> Simplify observability, traffic management, security, and policy with the leading service mesh.
+> Simplify observability, traffic management, security, and policy with the leading service mesh
 
-[istio.io](https://istio.io/), [GitHub](https://github.com/istio/istio)
+🌐 [istio.io](https://istio.io/), [GitHub](https://github.com/istio/istio)
 
 ## Learn
 

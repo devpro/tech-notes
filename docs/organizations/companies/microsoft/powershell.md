@@ -1,6 +1,6 @@
 # Powershell
 
-→ [microsoft.com/powershell](https://docs.microsoft.com/en-us/powershell/)
+🌐 [microsoft.com/powershell](https://docs.microsoft.com/en-us/powershell/)
 
 ## Quick start
 

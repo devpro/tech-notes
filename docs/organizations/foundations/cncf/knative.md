@@ -3,7 +3,7 @@
 > Enterprise-grade Serverless on your own terms.
 > Kubernetes-based platform to deploy and manage modern serverless workloads.
 
-→ [knative.dev](https://knative.dev), [github.com/knative](https://github.com/knative)
+🌐 [knative.dev](https://knative.dev), [github.com/knative](https://github.com/knative)
 
 ## Learn
 

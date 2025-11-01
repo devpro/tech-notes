@@ -1,6 +1,6 @@
 # Fluent UI
 
-→ [developer.microsoft.com/fluentui](https://developer.microsoft.com/en-us/fluentui#/)
+🌐 [developer.microsoft.com/fluentui](https://developer.microsoft.com/en-us/fluentui#/)
 
 ## Quick start
 

@@ -1,3 +1,3 @@
 # Rocky Linux
 
-[rockylinux.org](https://rockylinux.org/)
+🌐 [rockylinux.org](https://rockylinux.org/)

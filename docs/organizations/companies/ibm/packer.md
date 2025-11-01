@@ -2,7 +2,7 @@
 
 > Create identical machine images for multiple platforms from a single source configuration
 
-→ [packer.io](https://www.packer.io/)
+🌐 [packer.io](https://www.packer.io/)
 
 ## Quick start
 
