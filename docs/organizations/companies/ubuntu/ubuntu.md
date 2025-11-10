@@ -1,6 +1,6 @@
 # Ubuntu
 
-🌐 [ubuntu.com](https://ubuntu.com/)
+🌐 [ubuntu.com](https://ubuntu.com/), [Launchpad](https://launchpad.net/ubuntu)
 
 Debian, pure open source project, is the upstream of Ubuntu distributions.
 
