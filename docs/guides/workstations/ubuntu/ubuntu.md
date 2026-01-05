@@ -3,7 +3,7 @@
 The following instructions target **Ubuntu 24.04**.
 For previous instructions: [Ubuntu 20.04](archive/ubuntu-20_04.md).
 
-📝 [organizations/companies/ubuntu](../../../organizations/companies/ubuntu/ubuntu.md)
+📝 [Ubuntu company](../../../organizations/companies/ubuntu/ubuntu.md)
 
 ## System updates
 
@@ -21,4 +21,7 @@ sudo apt -y install ca-certificates curl gnupg lsb-release apt-transport-https s
 ```
 
 - [Docker](../../../organizations/companies/docker/docker-engine.md#ubuntu)
+- [Helm](https://helm.sh/docs/intro/install/)
 - [Node.js & NPM](../../../organizations/foundations/openjs-foundation/nodejs.md#nvvm)
+- [Terraform](https://developer.hashicorp.com/terraform/install)
+- [.NET](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install) ([workaround](https://github.com/dotnet/runtime/issues/121829#issuecomment-3614687693))
