@@ -75,6 +75,7 @@
 * [Ubuntu](ubuntu/ubuntu.md)
 * [Unity](unity/unity.md)
 * [Upbound](upbound/upbound.md)
+* [Wiz](wiz/wiz.md)
 
 ## Hardware vendors
 
