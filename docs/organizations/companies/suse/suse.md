@@ -1,4 +1,4 @@
-# SUSE
+﻿# SUSE
 
 🌐 [suse.com](https://www.suse.com/)
 
@@ -29,9 +29,9 @@
 * Harvester
 * [K3s](k3s.md)
 * [Longhorn](longhorn.md)
-* [NeuVector](neuvector.md)
+* [NeuVector](neuvector/neuvector.md)
 * [openSUSE](opensuse.md)
-* [Rancher](rancher.md)
+* [Rancher](rancher/rancher.md)
 * [Rancher Desktop](rancher-desktop.md)
 * [RKE](rke.md)
 
@@ -52,3 +52,8 @@
 ## Resources
 
 * [PINT (The Public Cloud Information Tracker)](https://pint.suse.com/)
+
+## Goodies
+
+* [Rancher Academy](https://www.rancher.academy/)
+* [SUSE Technical Reference Documentation](https://documentation.suse.com/trd-supported.html)

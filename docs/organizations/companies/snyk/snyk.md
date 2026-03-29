@@ -1,3 +1,3 @@
-# Snyk
+﻿# Snyk
 
-[snyk.io](https://snyk.io)
+🌐 [snyk.io](https://snyk.io)

@@ -1,6 +1,6 @@
-# Fortinet
+﻿# Fortinet
 
-[fortinet.com](https://www.fortinet.com/)
+🌐 [fortinet.com](https://www.fortinet.com/)
 
 ## Lacework FortiCNAPP
 

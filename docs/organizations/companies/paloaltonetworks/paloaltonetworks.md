@@ -1,6 +1,6 @@
-# Palo Alto Networks
+﻿# Palo Alto Networks
 
-[paloaltonetworks.com](https://www.paloaltonetworks.com/)
+🌐 [paloaltonetworks.com](https://www.paloaltonetworks.com/)
 
 ## Prisma Cloud
 

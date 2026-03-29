@@ -1,6 +1,6 @@
-# SentinelOne
+﻿# SentinelOne
 
-[sentinelone.com](https://www.sentinelone.com/)
+🌐 [sentinelone.com](https://www.sentinelone.com/)
 
 ## Singularity Cloud Security
 

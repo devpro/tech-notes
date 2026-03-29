@@ -1,3 +1,3 @@
 ﻿# Cyscale
 
-[cyscale.com](https://cyscale.com/)
+🌐 [cyscale.com](https://cyscale.com/)

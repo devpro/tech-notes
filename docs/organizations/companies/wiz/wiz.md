@@ -1,8 +1,8 @@
-# Wiz
+﻿# Wiz
 
-[wiz.io](https://www.wiz.io/)
+🌐 [wiz.io](https://www.wiz.io/)
 
-[YouTube channel](https://www.youtube.com/@wizsecurity)
+[YouTube](https://www.youtube.com/@wizsecurity)
 
 ## History
 
