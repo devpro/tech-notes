@@ -1,6 +1,6 @@
 # MongoDB 4.4
 
-[docs](https://www.mongodb.com/docs/v4.4/)
+🌐 [docs](https://www.mongodb.com/docs/v4.4/)
 
 Delivered on June 09, 2020
 

@@ -23,4 +23,4 @@ Images can be found on [DockerHub](https://hub.docker.com/u/rapidfort) ([code](h
 
 ## Learn
 
-- [Youtube channel](https://www.youtube.com/@rapidfort2199)
+- [YouTube channel](https://www.youtube.com/@rapidfort2199)

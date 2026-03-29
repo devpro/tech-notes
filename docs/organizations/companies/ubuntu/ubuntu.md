@@ -1,6 +1,6 @@
 # Ubuntu
 
-🌐 [ubuntu.com](https://ubuntu.com/)
+🌐 [ubuntu.com](https://ubuntu.com/), [Launchpad](https://launchpad.net/ubuntu)
 
 Debian, pure open source project, is the upstream of Ubuntu distributions.
 
@@ -33,7 +33,7 @@ sudo ufw status verbose
 sudo systemctl list-units | grep mongo
 systemctl list-units --type service
 
-# look at current network ressource allocation
+# look at current network resource allocation
 netstat -atun
 
 # look at installed packages

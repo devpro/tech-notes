@@ -2,7 +2,7 @@
 
 > The GUI for MongoDB. Visually explore your data. Run ad hoc queries in seconds. Interact with your data with full CRUD functionality. View and optimize your query performance. Available on Linux, Mac, or Windows. Compass empowers you to make smarter decisions about indexing, document validation, and more.
 
-🌐 [mongodb.com/products/compass](https://www.mongodb.com/en-us/products/compass), [GitHub](https://github.com/mongodb-js/compass)
+🌐 [Product](https://www.mongodb.com/products/tools/compass), [Code](https://github.com/mongodb-js/compass)
 
 ## Quickstart
 

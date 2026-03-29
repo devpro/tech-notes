@@ -1,0 +1,28 @@
+﻿# Cloud Security vendors
+
+- Aqua
+- Armis
+- Armorcode
+- AWS
+- Checkpoint
+- Crowdstrike
+- Cyscale
+- Data Theorem
+- Datadog
+- Fortinet
+- Google
+- IBM
+- Microsoft
+- Orca Security
+- Palo Alto Networks
+- Qualys
+- Rapid7
+- Sentinel One
+- Snyk
+- Sophos
+- Sysdig
+- Tenable
+- Trend Micro
+- Uptycs
+- Upwind
+- Wiz

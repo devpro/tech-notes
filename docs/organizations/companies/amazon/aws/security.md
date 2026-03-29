@@ -4,6 +4,7 @@
 
 * [Compliance](https://aws.amazon.com/compliance/)
 * [Security](https://aws.amazon.com/security/)
+* [Security Hub](https://aws.amazon.com/security-hub/)
 * [Shared responsibility model](https://aws.amazon.com/compliance/shared-responsibility-model/)
 * [AWS Security Reference Architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 

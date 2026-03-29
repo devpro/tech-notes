@@ -1,4 +1,4 @@
-name: Deploy
+﻿name: Deploy
 
 on:
   push:
@@ -11,10 +11,12 @@ jobs:
     name: Build website
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - name: Clone repository
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
-      - uses: actions/setup-node@v5
+      - name: Install Node
+        uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm

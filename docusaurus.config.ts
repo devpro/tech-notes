@@ -58,7 +58,12 @@ const config: Config = {
   organizationName: 'devpro',
   projectName: 'tech-notes',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn'
+    }
+  },
 
   i18n: {
     defaultLocale: 'en',

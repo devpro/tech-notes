@@ -12,5 +12,5 @@
 
 ## Get started
 
-- [Application collection](https://images.chainguard.dev/)
 - [Chainguard Academy](https://edu.chainguard.dev/)
+- [Chainguard Containers](https://images.chainguard.dev/)

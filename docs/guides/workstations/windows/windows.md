@@ -39,13 +39,18 @@ For previous versions: [Windows 10](archive/windows-10.md).
 
 - Windows Terminal
 
+### Binaries
+
+- [kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/)
+
 ### Software development
 
-- [Visual Studio Code](../../../organizations/companies/microsoft/vscode.md)
-- Git
-- [Visual Studio 2022](../../../organizations/companies/microsoft/vs2022.md)
-- [MongoDB Compass](https://www.mongodb.com/try/download/compass)
-- Notepad++
+1. [Visual Studio Code](../../../organizations/companies/microsoft/vscode.md)
+2. Git
+3. Notepad++
+4. [MongoDB Compass](https://www.mongodb.com/try/download/compass)
+5. [Visual Studio 2022](../../../organizations/companies/microsoft/vs2022.md) or [Rider](https://www.jetbrains.com/rider/)
+6. [WebStorm](https://www.jetbrains.com/webstorm/)
 
 ### Office
 

@@ -1,10 +1,12 @@
-# Contributing
+﻿# Contributing
+
+[![GitLab Pipeline Status](https://gitlab.com/devpro-labs/enablement/tech-notes/badges/main/pipeline.svg)](https://gitlab.com/devpro-labs/enablement/tech-notes/-/pipelines)
 
 This website is built using [Docusaurus](https://docusaurus.io/) ([facebook/docusaurus](https://github.com/facebook/docusaurus)), a modern static website generator.
 
 ## Run locally
 
-Make sure [Node.js](https://nodejs.org/en/download/) (version 18.0 or above) is installed.
+Make sure [Node.js](https://nodejs.org/en/download/) (LTS or above) is installed.
 
 Install the dependencies:
 
@@ -50,6 +52,18 @@ Files are in `src/theme/DocItem/Layout`.
 > ```
 
 ## Lint before committing
+
+Check YAML files:
+
+```bash
+docker run --rm -v "$(pwd)":/data cytopia/yamllint .
+```
+
+Check Markdown files:
+
+```bash
+docker run --rm -v "$(pwd)":/workdir davidanson/markdownlint-cli2 "**/*.md"
+```
 
 Reproduce locally GitLab jobs:
 

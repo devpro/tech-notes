@@ -1,9 +1,9 @@
-# Atlas
+# MongoDB Atlas
 
-> The most effective way to deploy MongoDB. Enjoy unmatched resilience, scalability, and enterprise-grade security while eliminating operational complexity
+> MongoDB Atlas is a multi-cloud database service by the same people that build MongoDB.
+> Atlas simplifies deploying and managing your databases while offering the versatility you need to build resilient and performant global applications on the cloud providers of your choice.
 
-🌐 [mongodb.com/products/platform/atlas-database](https://www.mongodb.com/products/platform/atlas-database),
-[mongodb.com/products/platform/cloud](https://www.mongodb.com/products/platform/cloud), [docs](https://www.mongodb.com/docs/atlas/)
+🌐 [mongodb.com/products/platform](https://www.mongodb.com/products/platform), [docs](https://www.mongodb.com/docs/atlas/)
 
 ## Features
 

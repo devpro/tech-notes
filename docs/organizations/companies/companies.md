@@ -55,6 +55,8 @@
 * [Netskope](netskope/netskope.md)
 * [ngrok](ngrok/ngrok.md)
 * [Nutanix](nutanix/nutanix.md)
+* [Octopus](octopus-deploy/octopus-deploy.md)
+  * [Codefresh](octopus-deploy/codefresh.md)
 * [Okta](okta/okta.md)
 * [Oracle](oracle/oracle.md)
 * [Percona](percona/percona.md)
@@ -75,6 +77,7 @@
 * [Ubuntu](ubuntu/ubuntu.md)
 * [Unity](unity/unity.md)
 * [Upbound](upbound/upbound.md)
+* [Wiz](wiz/wiz.md)
 
 ## Hardware vendors
 
