@@ -8,22 +8,22 @@
 
 ### Components
 
-<img src="https://dytvr9ot2sszz.cloudfront.net/logz-docs/distributed-tracing/tracing_architecture.png" style="width:50%">
+![logz.io tracing architecture](https://dytvr9ot2sszz.cloudfront.net/logz-docs/distributed-tracing/tracing_architecture.png)
 
-Component | Kubernetes resource | Kubernetes Service | Dependencies
---------- | ------------------- | ------------------ | ------------
-Logz.io Platform (SaaS) | - | -
-Jaeger Collector | Deployment | ClusterIP | Logz.io Platform
-Jaeger Agent | DaemonSet | ClusterIP | Jaeger Collector
-ASP.NET Data API | Deployment | LoadBalancer | Jaeger Agent
-ASP.NET Business API | Deployment | LoadBalancer | ASP.NET Data API, Jaeger Agent
+Component               | Kubernetes resource | Kubernetes Service | Dependencies
+------------------------|---------------------|--------------------|-------------------------------
+Logz.io Platform (SaaS) | -                   | -                  | -
+Jaeger Collector        | Deployment          | ClusterIP          | Logz.io Platform
+Jaeger Agent            | DaemonSet           | ClusterIP          | Jaeger Collector
+ASP.NET Data API        | Deployment          | LoadBalancer       | Jaeger Agent
+ASP.NET Business API    | Deployment          | LoadBalancer       | ASP.NET Data API, Jaeger Agent
 
 ### OpenTelemetry terminology
 
-Class name | Namespace | OpenTelemetry representation | Comment
----------- | --------- | ---------------------------- | -------
+Class name     | Namespace          | OpenTelemetry representation                                                                                          | Comment
+---------------|--------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ActivitySource | System.Diagnostics | [Tracer](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/trace/api.md#tracer) | The tracer is responsible for creating Spans
-Activity | System.Diagnostics | [Span](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/trace/api.md#span) | A Span represents a single operation within a trace. Spans can be nested to form a trace tree. Each trace contains a root span, which typically describes the entire operation and, optionally, one or more sub-spans for its sub-operations
+Activity       | System.Diagnostics | [Span](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/trace/api.md#span)     | A Span represents a single operation within a trace. Spans can be nested to form a trace tree. Each trace contains a root span, which typically describes the entire operation and, optionally, one or more sub-spans for its sub-operations
 
 Know more by looking at the CNCF webinar: [Fundamentals of OpenTelemetry](https://www.cncf.io/webinars/fundamentals-of-opentelemetry/).
 
@@ -188,7 +188,11 @@ docker run -d -p 8000:80 --name jaegerdataapidemo devprofr/jaegerdataapidemo:lat
 docker ps
 
 # run a container interactively on the new image with HTTPS activated (tested on Windows with Linux containers)
-docker run --rm -it -p 8000:80 -p 8001:443 -e DistributedTracing__IsEnabled=true -e DistributedTracing__ServiceName=My_DEMO_POC -e DistributedTracing__Framework=OpenTelemetry -e DistributedTracing__Reporter=Jaeger -e DistributedTracing__Jaeger__AgentHost=host.docker.internal -e DistributedTracing__Jaeger__AgentPort=6831 -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_ENVIRONMENT=Development -e ASPNETCORE_HTTPS_PORT=8001 -e ASPNETCORE_Kestrel__Certificates__Default__Password="password" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx -v %USERPROFILE%\.aspnet\https:/https/ --name jaegerdataapidemo devprofr/jaegerdataapidemo
+docker run --rm -it -p 8000:80 -p 8001:443 \
+  -e DistributedTracing__IsEnabled=true -e DistributedTracing__ServiceName=My_DEMO_POC -e DistributedTracing__Framework=OpenTelemetry -e DistributedTracing__Reporter=Jaeger -e DistributedTracing__Jaeger__AgentHost=host.docker.internal -e DistributedTracing__Jaeger__AgentPort=6831 \
+  -e ASPNETCORE_URLS="https://+;http://+" -e ASPNETCORE_ENVIRONMENT=Development -e ASPNETCORE_HTTPS_PORT=8001 -e ASPNETCORE_Kestrel__Certificates__Default__Password="password" -e ASPNETCORE_Kestrel__Certificates__Default__Path=/https/aspnetapp.pfx \
+  -v %USERPROFILE%\.aspnet\https:/https/ \
+  --name jaegerdataapidemo devprofr/jaegerdataapidemo
 
 # if there is an issue (direct crash), replace the ENTRYPOINT line by CMD "/bin/bash" and run
 docker run -i -t -p 8080:80 devprofr/jaegerdataapidemo

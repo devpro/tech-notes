@@ -1,4 +1,4 @@
-# MongoDB Products
+﻿# MongoDB Products
 
 ## Platforms
 
@@ -30,11 +30,11 @@
 
 ### Management
 
-- [Atlas Administration API](atlas-admin-api.md)
-- [Atlas CLI](atlas-cli.md)
-- [Terraform MongoDB Atlas Provider](atlas-terraform-provider.md)
+- Atlas Administration API
+- Atlas CLI
+- Terraform MongoDB Atlas Provider
 
 ## Migrations
 
 - [Relational Migrator](relational-migrator.md)
-- [Mongosync](mongosync.md)
+- Mongosync

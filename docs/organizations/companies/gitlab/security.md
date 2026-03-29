@@ -1,4 +1,4 @@
-# Security
+﻿# Security
 
 🌐 [docs/user/application_security/secure_your_application](https://docs.gitlab.com/user/application_security/secure_your_application/)
 
@@ -74,12 +74,12 @@
 
 🌐 [docs/user/application_security/policies](https://docs.gitlab.com/user/application_security/policies/)
 
-Name                                                                                                 | Action
------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------
-Scan execution policy                                                                                | Enforce security scans, either as part of the pipeline or on a specified schedule
-Merge request approval policy                                                                        | Enforce project-level settings and approval rules based on scan results
-Pipeline execution policy                                                                            | Enforce CI/CD jobs as part of project pipelines
-Vulnerability management policy                                                                      | Automatically resolve vulnerabilities that are no longer detected in the default branch
+Name                                                                                          | Action
+----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------
+Scan execution policy                                                                         | Enforce security scans, either as part of the pipeline or on a specified schedule
+Merge request approval policy                                                                 | Enforce project-level settings and approval rules based on scan results
+Pipeline execution policy                                                                     | Enforce CI/CD jobs as part of project pipelines
+Vulnerability management policy                                                               | Automatically resolve vulnerabilities that are no longer detected in the default branch
 [License approval policy](https://docs.gitlab.com/user/compliance/license_approval_policies/) | Specify criteria that determines when approval is required before a merge request can be merged
 
 ### Monitoring

@@ -4,7 +4,7 @@
 
 ### 2026 Forrester Wave for CNAPP
 
-![diagram](../../assets/images/forrester-wave-cnapp-2026.png)
+![diagram](./forrester-wave-cnapp-2026.png)
 
 Get the report from: [Wiz](https://www.wiz.io/blog/forrester-wave-cnapp-2026)
 

@@ -1,8 +1,8 @@
-# MongoDB Features
+﻿# MongoDB Features
 
 ## Read
 
-- [Aggregation pipeline](aggregation-pipeline.md)
+- [Aggregation pipeline](aggregation.md)
 - [Search](search.md)
 - [Vector search](vector-search.md)
 

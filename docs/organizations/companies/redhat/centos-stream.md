@@ -1,4 +1,4 @@
-# CentOS Stream
+﻿# CentOS Stream
 
 > Continuously delivered distro that tracks just ahead of Red Hat Enterprise Linux (RHEL) development, positioned as a midstream between Fedora Linux and RHEL.
 
@@ -21,7 +21,7 @@ Support            | ~1–2 years per version (tied to RHEL minor)
 Updates            | Daily/weekly packages
 RHEL Compatibility | Binary identical to upcoming RHEL minor versions
 Use Cases          | Cloud, CI/CD, containers, RHEL preview
-EOL                | Stream 9 → May 2027<br>Stream 10 → active
+EOL                | Stream 9 → May 2027 / Stream 10 → active
 
 ## Ecosystem position
 

@@ -1,10 +1,10 @@
-# Contributing
+﻿# Contributing
 
 This website is built using [Docusaurus](https://docusaurus.io/) ([facebook/docusaurus](https://github.com/facebook/docusaurus)), a modern static website generator.
 
 ## Run locally
 
-Make sure [Node.js](https://nodejs.org/en/download/) (version 18.0 or above) is installed.
+Make sure [Node.js](https://nodejs.org/en/download/) (LTS or above) is installed.
 
 Install the dependencies:
 
