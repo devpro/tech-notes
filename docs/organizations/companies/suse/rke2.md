@@ -91,7 +91,7 @@ rke2-metrics-server | kube-system | rke2-metrics-server-2.11.100-build2021111904
 - /usr/local/bin/rke2 server
 - containerd -c /var/lib/rancher/rke2/agent/etc/containerd/config.toml -a /run/k3s/containerd/containerd.sock --state /run/k3s/containerd --root /var/lib/rancher/rke2/agent/containerd
 - kubelet
-- /var/lib/rancher/rke2/data/v1.23.9-rke2r1-eef53a0d1ec2/bin/containerd-shim-runc-v2 -namespace k8s.io -id <container_id> -address /run/k3s/containerd/containerd.sock
+- /var/lib/rancher/rke2/data/v1.23.9-rke2r1-eef53a0d1ec2/bin/containerd-shim-runc-v2 -namespace k8s.io -id container_id -address /run/k3s/containerd/containerd.sock
 - kube-proxy --cluster-cidr=10.42.0.0/16 --conntrack-max-per-core=0 --conntrack-tcp-timeout-close-wait=0s --conntrack-tcp-timeout-established=0s --healthz-bind-address=127.0.0.1 --hostname-override=vm-bthomas-rke2server --kubeconfig=/var/lib/rancher/rke2/agent/kubeproxy.kubeconfig --proxy-mode=iptables
 - kube-scheduler --permit-port-sharing=true --authentication-kubeconfig=/var/lib/rancher/rke2/server/cred/scheduler.kubeconfig --authorization-kubeconfig=/var/lib/rancher/rke2/server/cred/scheduler.kubeconfig --bind-address=127.0.0.1 --kubeconfig=/var/lib/rancher/rke2/server/cred/scheduler.kubeconfig --profiling=false --secure-port=10259
 - kube-apiserver
@@ -106,6 +106,6 @@ rke2-metrics-server | kube-system | rke2-metrics-server-2.11.100-build2021111904
 - /usr/local/bin/rke2 agent
 - containerd -c /var/lib/rancher/rke2/agent/etc/containerd/config.toml -a /run/k3s/containerd/containerd.sock --state /run/k3s/containerd --root /var/lib/rancher/rke2/agent/containerd
 - kubelet
-- /var/lib/rancher/rke2/data/v1.23.9-rke2r1-eef53a0d1ec2/bin/containerd-shim-runc-v2 -namespace k8s.io -id <container_id> -address /run/k3s/containerd/containerd.sock
+- /var/lib/rancher/rke2/data/v1.23.9-rke2r1-eef53a0d1ec2/bin/containerd-shim-runc-v2 -namespace k8s.io -id container_id -address /run/k3s/containerd/containerd.sock
 - kube-proxy --cluster-cidr=10.42.0.0/16 --conntrack-max-per-core=0 --conntrack-tcp-timeout-close-wait=0s --conntrack-tcp-timeout-established=0s --healthz-bind-address=127.0.0.1 --hostname-override=vm-bthomas-rke2worker1 --kubeconfig=/var/lib/rancher/rke2/agent/kubeproxy.kubeconfig --proxy-mode=iptables
 - /nginx-ingress-controller --election-id=ingress-controller-leader --controller-class=k8s.io/ingress-nginx --ingress-class=nginx --configmap=kube-system/rke2-ingress-nginx-controller --validating-webhook=:8443 --validating-webhook-certificate=/usr/local/certificates/cert --validating-webhook-key=/usr/local/certificates/key --watch-ingress-without-class=true

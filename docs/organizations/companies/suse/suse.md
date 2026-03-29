@@ -21,16 +21,6 @@
 
 📝 [The History of S.u.S.E. - The other enterprise Linux company](https://www.abortretry.fail/p/the-history-of-suse) - January 13, 2025
 
-## Areas
-
-* [Edge](edge.md)
-* [GPUs](gpu.md)
-* [Kubernetes](kubernetes/distributions.md)
-* [Networking](networking.md)
-* [Observability](observability.md)
-* [Security](security.md)
-* [Storage](storage.md)
-
 ## Offering
 
 ### Open source
@@ -39,9 +29,9 @@
 * Harvester
 * [K3s](k3s.md)
 * [Longhorn](longhorn.md)
-* [NeuVector](neuvector.md)
+* [NeuVector](neuvector/neuvector.md)
 * [openSUSE](opensuse.md)
-* [Rancher](rancher.md)
+* [Rancher](rancher/rancher.md)
 * [Rancher Desktop](rancher-desktop.md)
 * [RKE](rke.md)
 

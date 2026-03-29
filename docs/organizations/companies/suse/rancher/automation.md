@@ -1,4 +1,4 @@
-# Automation with Rancher
+﻿# Automation with Rancher
 
 ## Terraform
 
@@ -8,7 +8,7 @@
 
 ### Kubernetes management cluster with Rancher
 
-![Cluster creation diagram](../assets/images/Provisioning_logic-Rancher_cluster_creation.svg)
+![Cluster creation diagram](cluster-provisioning-logic.svg)
 
 ### RKE1 cluster from Rancher
 
