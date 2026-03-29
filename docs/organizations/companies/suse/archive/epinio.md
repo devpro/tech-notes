@@ -41,13 +41,13 @@ Language/Framework   | Path                                                     
 ---------------------|-------------------------------------------------------------------------------------------------|------------------------------------------------------
 Angular (TypeScript) | [devpro/epinio-samples](https://github.com/devpro/epinio-samples/tree/main/samples/angular)     | Angular Web App (Single Page Application)
 .NET (C#)            | [devpro/epinio-samples](https://github.com/devpro/epinio-samples/tree/main/samples/dotnet)      | ASP.NET 7 Web API (REST), ASP.NET Web App (Razor)
-Go                   | [epinio/golang-sample-app](https://github.com/epinio/epinio/tree/main/assets/golang-sample-app) |
+Go                   | [epinio/golang-sample-app](https://github.com/epinio/epinio/tree/main/assets/golang-sample-app) | -
 Java                 | [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic)         | Spring
 JavaScript           | [ellisonleao/clumsy-bird](https://github.com/ellisonleao/clumsy-bird)                           | melonJS game engine
 PHP                  | [epinio/sample-app](https://github.com/epinio/epinio/tree/main/assets/sample-app)               | phpinfo
 Python               | [mageran/minio-epinio](https://github.com/mageran/minio-epinio/tree/main/samples/photo-album)   | Flask and Boto3 for the backend and Svelte for the UI
 React                | [devpro/epinio-samples](https://github.com/devpro/epinio-samples/tree/main/samples/react)       | React Web App (Single Page Application)
-Ruby on Rails        | [epinio/example-rails](https://github.com/epinio/example-rails)                                 |
+Ruby on Rails        | [epinio/example-rails](https://github.com/epinio/example-rails)                                 | -
 Wordpress            | [epinio/example-wordpress](https://github.com/epinio/example-wordpress)                         | CMS written in PHP and using a MySQL database
 
 ### CLI
