@@ -1,3 +1,3 @@
 ﻿# Qualys
 
-[qualys.com](https://www.qualys.com/)
+🌐 [qualys.com](https://www.qualys.com/)
