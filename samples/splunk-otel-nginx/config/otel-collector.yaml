@@ -1,9 +1,11 @@
+﻿file_format: "0.3"
 receivers:
   # https://github.com/open-telemetry/opentelemetry-collector-contrib/tree/main/receiver/filelogreceiver
   filelog:
     include: [ /tmp/log/nginx/*.log ]
     start_at: beginning
     operators:
+      # - type: json_parser
       - type: regex_parser
         # exemple: 2021/06/01 20:16:12 [notice] 1#1: start worker process 34
         regex: '^(?P<time>\d{4}\/\d{2}\/\d{2}\s\d{2}:\d{2}:\d{2}) \[(?P<sev>[A-Za-z]*)\] (?P<msg>.*)$'
@@ -12,7 +14,6 @@ receivers:
           layout: '%Y/%m/%d %H:%M:%S'
         severity:
           parse_from: sev
-      # - type: json_parser
     converter:
       max_flush_count: 100
       flush_interval: 100ms
