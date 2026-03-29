@@ -1,4 +1,4 @@
-workflow:
+﻿workflow:
   rules:
     - if: $CI_PIPELINE_SOURCE == "merge_request_event"
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
@@ -11,8 +11,8 @@ lint-markdown:
   stage: build
   image: node:lts
   script:
-    - npm install -g markdownlint-cli
-    - markdownlint "**/*.md"
+    - npm install -g markdownlint-cli2
+    - markdownlint-cli2 "**/*.md"
 
 lint-yaml:
   stage: build
