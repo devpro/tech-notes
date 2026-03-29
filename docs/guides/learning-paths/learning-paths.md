@@ -1,5 +1,4 @@
-# Learning paths
+﻿# Learning paths
 
-## Infrastructure
-
+* [Cloud Security](cloud-security/cloud-security.md)
 * [Networking](networking/networking.md)
