@@ -1,4 +1,4 @@
-# Windows
+﻿# Windows
 
 The following instructions target **Windows 11**.
 For previous versions: [Windows 10](archive/windows-10.md).
@@ -29,8 +29,7 @@ For previous versions: [Windows 10](archive/windows-10.md).
 
 ### Utilities
 
-- KeePass
-  - Plugins: [KeeTheme](https://github.com/xatupal/KeeTheme) (dark theme)
+- Password manager: 1Password, or KeePass (with [KeeTheme](https://github.com/xatupal/KeeTheme)) for example
 - WinDirStat
 
     ```batch
@@ -48,9 +47,9 @@ For previous versions: [Windows 10](archive/windows-10.md).
 1. [Visual Studio Code](../../../organizations/companies/microsoft/vscode.md)
 2. Git
 3. Notepad++
-4. [MongoDB Compass](https://www.mongodb.com/try/download/compass)
-5. [Visual Studio 2022](../../../organizations/companies/microsoft/vs2022.md) or [Rider](https://www.jetbrains.com/rider/)
-6. [WebStorm](https://www.jetbrains.com/webstorm/)
+4. [MongoDB Compass](../../../organizations/companies/mongodb/compass.md)
+5. [Rider](../../../organizations/companies/jetbrains/rider.md) or [Visual Studio 2026](../../../organizations/companies/microsoft/vs2026.md)
+6. [WebStorm](../../../organizations/companies/jetbrains/webstorm.md)
 
 ### Office
 
