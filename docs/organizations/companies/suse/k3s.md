@@ -1,25 +1,28 @@
-# K3s
+﻿# K3s
 
-> K3s is a CNCF sandbox project that delivers a lightweight yet powerful certified Kubernetes distribution. When used with SUSE Rancher, K3s is ideal for running production workloads across resource-restrained, remote locations or on IoT devices.
+> K3s is a CNCF sandbox project that delivers a lightweight yet powerful certified Kubernetes distribution
 
-→ [k3s.io](https://k3s.io/), [docs](https://rancher.com/docs/k3s/latest/en/), [GitHub](https://github.com/k3s-io/k3s),
+[k3s.io](https://k3s.io/), [docs](https://rancher.com/docs/k3s/latest/en/), [code](https://github.com/k3s-io/k3s),
 [suse.com/products/k3s](https://www.suse.com/products/k3s/)
 
-## General idea
+## Architecture
 
 ![How K3s works](https://k3s.io/img/how-it-works-k3s-revised.svg)
 
+Single binary:
+
+* [containerd](https://containerd.io/)
+* [flannel](https://github.com/flannel-io/flannel)
+* [CoreDNS](https://coredns.io/)
+* iptables
+* [SQLite](https://www.sqlite.org/)
+* [klipper-lb](https://github.com/k3s-io/klipper-lb)
+* [Helm](https://helm.sh/)
+* [traefik](https://traefik.io/) Ingress Controller
+
 ## Quick start
 
-### Install
-
-### Run in a container with k3d
-
-> k3d is a lightweight wrapper to run K3s (Rancher Lab's minimal Kubernetes distribution) in Docker.
-
-→ [k3d.io](https://k3d.io/) ([GitHub](https://github.com/k3d-io/k3d))
-
-#### Create a cluster with k3d
+[Quick-Start Guide](https://rancher.com/docs/k3s/latest/en/quick-start/)
 
 ```bash
 # runs installation script
@@ -35,6 +38,15 @@ kubectl get nodes
 k3d cluster delete firstcluster
 ```
 
-### Run in a Linux system
+## Knowledge
 
-* [Quick-Start Guide](https://rancher.com/docs/k3s/latest/en/quick-start/)
+* [Advanced Options and Configuration](https://rancher.com/docs/k3s/latest/en/advanced/)
+  * Auto-deploying manifests
+
+## Cluster API
+
+* [zawachte/cluster-api-k3s](https://github.com/zawachte/cluster-api-k3s)
+
+## Infrastructure automation (IaC)
+
+* [rlex/ansible-role-k3s](https://github.com/rlex/ansible-role-k3s)

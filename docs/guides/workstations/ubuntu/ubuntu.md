@@ -1,4 +1,4 @@
-# Ubuntu
+﻿# Ubuntu
 
 The following instructions target **Ubuntu 24.04**.
 For previous instructions: [Ubuntu 20.04](archive/ubuntu-20_04.md).
@@ -10,6 +10,7 @@ For previous instructions: [Ubuntu 20.04](archive/ubuntu-20_04.md).
 ```bash
 sudo apt update
 sudo apt -y upgrade
+sudo apt autoremove
 ```
 
 ## Packages

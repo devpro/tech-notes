@@ -1,4 +1,4 @@
-# SUSE
+﻿# SUSE
 
 🌐 [suse.com](https://www.suse.com/)
 
@@ -20,6 +20,16 @@
 🌐 [suse.com/company/history](https://www.suse.com/company/history/)
 
 📝 [The History of S.u.S.E. - The other enterprise Linux company](https://www.abortretry.fail/p/the-history-of-suse) - January 13, 2025
+
+## Areas
+
+* [Edge](edge.md)
+* [GPUs](gpu.md)
+* [Kubernetes](kubernetes/distributions.md)
+* [Networking](networking.md)
+* [Observability](observability.md)
+* [Security](security.md)
+* [Storage](storage.md)
 
 ## Offering
 
@@ -52,3 +62,8 @@
 ## Resources
 
 * [PINT (The Public Cloud Information Tracker)](https://pint.suse.com/)
+
+## Goodies
+
+* [Rancher Academy](https://www.rancher.academy/)
+* [SUSE Technical Reference Documentation](https://documentation.suse.com/trd-supported.html)
