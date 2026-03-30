@@ -20,6 +20,4 @@
 
 [Newroom](https://www.wiz.io/newsroom)
 
-[Introducing SITF: The First Threat Framework Dedicated to SDLC Infrastructure](https://www.wiz.io/blog/sitf-sdlc-threat-framework)
-
 [cloudsecuritychampionship.com](https://cloudsecuritychampionship.com/)
