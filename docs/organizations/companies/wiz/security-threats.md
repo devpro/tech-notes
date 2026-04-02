@@ -14,3 +14,7 @@ March 2026:
 March 2026
 
 - [Research Saturday - A subtle flaw, a massive blast radius](https://thecyberwire.com/podcasts/research-saturday/417/notes)
+
+## Guides
+
+- [How to secure the SDLC with Wiz](https://www.wiz.io/academy/application-security/how-to-secure-the-sdlc-with-wiz)

@@ -2,17 +2,9 @@
 
 ## Updates
 
-August 2022
-
-- [$100M ARR in 18 months: Wiz becomes the fastest-growing software company ever](https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever)
-
 January 2026
 
 - [SITF: The First Threat Framework Dedicated to SDLC Infrastructure](https://www.wiz.io/blog/sitf-sdlc-threat-framework)
-
-March 2026
-
-- [Wiz Joins Google](https://www.wiz.io/blog/google-closes-deal-to-acquire-wiz) ([Welcoming Wiz to Google Cloud](https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz))
 
 ## New features
 
