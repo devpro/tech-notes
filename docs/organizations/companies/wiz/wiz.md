@@ -6,7 +6,7 @@
 
 📌 [Demo](https://www.wiz.io/recorded-demo/cloud), [LinkedIn](https://www.linkedin.com/company/wizsecurity/), [X](https://x.com/wiz_io), [YouTube](https://www.youtube.com/@wizsecurity)
 
-📄 [wiz-sec](https://github.com/wiz-sec), [wiz-sec-public](https://github.com/wiz-sec-public)
+📄 [wiz-sec](https://github.com/wiz-sec), [wiz-sec-public](https://github.com/wiz-sec-public), [wiz-training](https://github.com/wiz-training)
 
 <!-- 📝✍️📰📖💬🔗🌐⭐📣🎙️ -->
 
