@@ -15,6 +15,7 @@ Acronym | Meaning
 --------|---------------------------------
 CCR     | Cloud Configuration Rule
 CMK     | Customer-Managed Key
+FIM     | File Integrity Monitoring
 HCR     | Host Configuration Rule
 SHI     | System Health Issues
 RED     | Runtime Execution Data
