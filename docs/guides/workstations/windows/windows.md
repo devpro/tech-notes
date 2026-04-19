@@ -46,6 +46,13 @@ For previous versions: [Windows 10](archive/windows-10.md).
 
 1. [Visual Studio Code](../../../organizations/companies/microsoft/vscode.md)
 2. Git
+
+    Update git
+
+    ```cmd
+    git update-git-for-windows
+    ```
+
 3. Notepad++
 4. [MongoDB Compass](../../../organizations/companies/mongodb/compass.md)
 5. [Rider](../../../organizations/companies/jetbrains/rider.md) or [Visual Studio 2026](../../../organizations/companies/microsoft/vs2026.md)
