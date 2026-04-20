@@ -1,0 +1,13 @@
+ignore:
+  global_paths:
+    # node_modules/**:
+    #   reason: EXCEPTION
+    # .docusaurus/**:
+    #   reason: EXCEPTION
+    samples/**:
+      reason: EXCEPTION
+
+  vulnerabilities:
+    CVE-2022-25648:
+      /node_modules/lunr-languages/build/*:
+        reason: EXCEPTION
