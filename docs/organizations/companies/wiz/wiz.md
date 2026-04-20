@@ -8,7 +8,7 @@
 
 📄 [wiz-sec](https://github.com/wiz-sec), [wiz-sec-public](https://github.com/wiz-sec-public), [wiz-training](https://github.com/wiz-training)
 
-<!-- 📝✍️📰📖💬🔗🌐⭐📣🎙️ -->
+[//]: <> (📝✍️📰📖💬🔗🌐⭐📣🎙️)
 
 ## History
 

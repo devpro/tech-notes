@@ -1,8 +1,8 @@
-# File organization in a Go project
+﻿# File organization in a Go project
 
 🌐 [golang-standards/project-layout](https://github.com/golang-standards/project-layout)
 
-<!-- https://github.com/Avksenchik/golang-project-template -->
+See also [Avksenchik/golang-project-template](https://github.com/Avksenchik/golang-project-template)
 
 ## General view
 

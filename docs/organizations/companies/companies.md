@@ -1,4 +1,4 @@
-# Companies
+﻿# Companies
 
 ## Software vendors & services
 
@@ -100,7 +100,7 @@ Name                                                | Country
 [Scaleway](https://www.scaleway.com/)               | France
 [UpCloud](https://upcloud.com/)                     | Finland
 
-<!-- [eucloud.tech](https://www.eucloud.tech/eu-providers/cloud) -->
+See also [eucloud.tech](https://www.eucloud.tech/eu-providers/cloud).
 
 ## Gaming industry
 

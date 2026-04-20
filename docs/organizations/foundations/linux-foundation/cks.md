@@ -1,4 +1,6 @@
-# CKS (Certified Kubernetes Security Specialist)
+﻿# CKS
+
+Certified Kubernetes Security Specialist (CKS) certification.
 
 🌐 [training.linuxfoundation.org](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/)
 
@@ -27,33 +29,14 @@ where Federal Information Processing Standards (FIPS) and Special Publications (
 - [Firecracker](https://github.com/firecracker-microvm/firecracker-containerd)
 - [UniK](https://github.com/solo-io/unik)
 - [Runtime Class](https://kubernetes.io/docs/concepts/containers/runtime-class/)
-<!-- The RuntimeClass is a feature which needs to be enabled on both the kube-apiserver and the kubelets on every node which may use that runtime.
-While you can create the object in the API server, and declare the engine to start when a pod requests it, without the backend being configured, the pod will never reach the ready state.
-
-At the moment, containerd is probably the easiest self-hosted way to use this feature. GKE has an easy-to-use feature, which is in beta release. Hopefully, clusters running docker or cri-o will work with various runtime classes soon, but they do not yet.
-
-The RuntimeClass would first be added to the cluster, and given a particular name.
-
-apiVersion: node.k8s.io/v1
-kind: RuntimeClass
-metadata:
-name: gvisor
-handler: runsc
-
-Then add an entry in the pod spec to match:
-
-....
-spec:
-runtimeClassName: gvisor #<<--This must match the name of the runtime above
-containers:
-.... -->
 - [The Update Framework (TUF)](https://theupdateframework.io/)
 - [Uptane](https://uptane.github.io/)
 - [Notary](https://github.com/theupdateframework/notary)
 
-<!-- Constraint Template
+{/*
 A constraint template is used to create a Custom Resource Definition (CRD) which extends the OPA policy library. This CRD defines the object which will then be called via the constraint.
 
+```yaml
 apiVersion: templates.gatekeeper.sh/v1
 kind: ConstraintTemplate
 metadata:
@@ -69,21 +52,25 @@ spec:
             labels:
               type: array
               items: string
+```
 
 The first part of the YAML sets the name for the rule CRD as well as the schema for validating the parameter to be retrieved from the kube-apiserver.
 
 targets:
-  - target: admission.k8s.gatekeeper.sh
-    rego: |
-      package k8srequiredlabels 
 
-      violation[{"msg": msg, "details": {"missing_labels": missing}}] {
-        provided := {label | input.review.object.metadata.labels[label]}
-        required := {label | label := input.parameters.labels[_]}
-    missing := required - provided
-        count(missing) > 0
-        msg := sprintf("You must provide labels: %v", [missing])
-      }
+```yaml
+- target: admission.k8s.gatekeeper.sh
+  rego: |
+    package k8srequiredlabels
+
+    violation[{"msg": msg, "details": {"missing_labels": missing}}] {
+      provided := {label | input.review.object.metadata.labels[label]}
+      required := {label | label := input.parameters.labels[_]}
+  missing := required - provided
+      count(missing) > 0
+      msg := sprintf("You must provide labels: %v", [missing])
+    }
+```
 
 The second half of the constraint template declares the target which will be responsible for passing along the API information. Note that the package name must match the CRD spec name.
 The violation stanza describes the message to be returned, the inbound spec to be evaluated, what is required in that code and what to do if the requirement is not met, and finally another message is provided to indicate what is missing.
@@ -91,6 +78,7 @@ The violation stanza describes the message to be returned, the inbound spec to b
 Constraint
 With the template creating the CRD, we can now use it; you can see the kind: is set to the name of the CRD. The parameters: declares the expected value. In this example, the parameter to be examined is labels, which will return a violation if it is not set to gk-ns.
 
+```yaml
 apiVersion: constraints.gatekeeper.sh/v1
 kind: K8sRequiredLabels
 metadata:
@@ -101,13 +89,19 @@ spec:
  - apiGroups: [""]
         kinds: ["Namespace"]
   parameters:
-    labels: ["gk-ns"] -->
+    labels: ["gk-ns"]
+```
+
+*/}
 
 ## Secure the kube-apiserver
-<!-- 
+
+{/*
 /etc/kubernetes/manifests/kube-apiserver.yaml
 
 Audit Policy
+
+```yaml
 apiVersion: audit.k8s.io/v1
 kind: Policy
 rules:
@@ -118,10 +112,11 @@ rules:
 - level: Metadata
   omitStages:
   - "RequestReceived" 
+```
 
 While there could be a single rule affecting all events, there also could be many rules in a policy file. In the example above, metadata of events concerning log and status information of pods would be sent to the backend.
 
-The second rule would match all other events and send all information, but would not send RequestReceived to the backend. As a result, watch events would not appear in the log. -->
+The second rule would match all other events and send all information, but would not send RequestReceived to the backend. As a result, watch events would not appear in the log. */}
 
 - [Center for Internet Security (CIS)](https://www.cisecurity.org/)
 - [Docker Bench](https://github.com/docker/docker-bench-security)

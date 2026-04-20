@@ -64,3 +64,39 @@ Check Markdown files:
 ```bash
 docker run --rm -v "$(pwd)":/workdir davidanson/markdownlint-cli2 "**/*.md"
 ```
+
+## Admonitions
+
+See [docusaurus.io/docs/markdown-features](https://docusaurus.io/docs/markdown-features/admonitions).
+
+```md
+:::note
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::tip
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::info
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::warning
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+
+:::danger
+
+Some **content** with _Markdown_ `syntax`. Check [this `api`](#).
+
+:::
+```
