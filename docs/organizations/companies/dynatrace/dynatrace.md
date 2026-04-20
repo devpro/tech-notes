@@ -1,10 +1,10 @@
-# Dynatrace
+﻿# Dynatrace
 
 🌐 [dynatrace.com](https://www.dynatrace.com/)
 
 ## Content
 
-* [Glossary](glossary.md)
+* [Glossary](dynatrace-glossary.md)
 * [Licensing](licensing.md)
 * [OpenTelemetry](opentelemetry.md)
 * [Professional Services](professional-services.md)

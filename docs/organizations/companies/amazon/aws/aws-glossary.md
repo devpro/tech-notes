@@ -1,4 +1,4 @@
-# AWS glossary
+﻿# AWS glossary
 
 🌐 [docs](https://docs.aws.amazon.com/glossary/latest/reference/glos-chap.html)
 
@@ -10,27 +10,30 @@ ACE  | APN Customer Engagements
 APN  | AWS Partner Network
 GSI  | Global System Integrator
 GSP  | Global Startup Program
-GTM  | Go-To-Market
-ISV  | Independent Software Vendor
-MSP  | Managed Service Provider
 PDM  | Partner Development Manager
 PSA  | Partner Solutions Architect
 RME  | Reliability Maintenance Engineering
-SA   | Solutions Architect
 SBI  | Situation, Behavior, Impact
-TAM  | Technical Account Manager
 
 ## Practices
 
-Name | Meaning                         | Links
------|---------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------
-CAF  | Cloud Adoption Framework        | [aws.amazon.com](https://aws.amazon.com/cloud-adoption-framework/)
-EBA  | Experience-Based Acceleration   | [aws.amazon.com/blogs](https://aws.amazon.com/blogs/mt/level-up-your-cloud-transformation-with-experience-based-acceleration-eba/)
-MAP  | Migration Acceleration Program  | [aws.amazon.com](https://aws.amazon.com/migration-acceleration-program/)
-MRA  | Migration Readiness Assessment  | -
-MRP  | Migration Readiness & Planning  | -
-ORR  | Operational Readiness Reviews   | [docs.aws.amazon.com/wellarchitected](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
-SRA  | Security Reference Architecture | [docs.aws.amazon.com/prescriptive-guidance](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
+Name | Meaning
+-----|--------------------------------
+CAF  | Cloud Adoption Framework
+EBA  | Experience-Based Acceleration
+MAP  | Migration Acceleration Program
+MRA  | Migration Readiness Assessment
+MRP  | Migration Readiness & Planning
+ORR  | Operational Readiness Reviews
+SRA  | Security Reference Architecture
+
+Links:
+
+- [AWS Cloud Adoption Framework (AWS CAF)](https://aws.amazon.com/cloud-adoption-framework/)
+- [Level up your Cloud Transformation with Experience-Based Acceleration (EBA)](https://aws.amazon.com/blogs/mt/level-up-your-cloud-transformation-with-experience-based-acceleration-eba/)
+- [AWS Migration Acceleration Program](https://aws.amazon.com/migration-acceleration-program/)
+- [Operational Readiness Reviews (ORR)](https://docs.aws.amazon.com/wellarchitected/latest/operational-readiness-reviews/wa-operational-readiness-reviews.html)
+- [AWS Security Reference Architecture (AWS SRA) – core architecture](https://docs.aws.amazon.com/prescriptive-guidance/latest/security-reference-architecture/welcome.html)
 
 ## Technologies
 

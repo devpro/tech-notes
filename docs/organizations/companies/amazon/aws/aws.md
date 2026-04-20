@@ -1,4 +1,4 @@
-# AWS
+﻿# AWS
 
 > Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine
 
@@ -8,7 +8,7 @@
 
 * [Architecture](architecture.md)
 * [Events](events.md)
-* [Glossary](glossary.md)
+* [Glossary](aws-glossary.md)
 * Localization: [EN](local-en.md), [FR](local-fr.md)
 * [Partners](partners.md)
 * [Products](products.md)

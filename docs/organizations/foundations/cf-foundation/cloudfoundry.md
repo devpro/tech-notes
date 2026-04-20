@@ -1,4 +1,4 @@
-# Cloud Foundry
+﻿# Cloud Foundry
 
 > Cloud Foundry is an Open Source Cloud Application Platform.
 
@@ -13,29 +13,29 @@
 
 - [Overview](https://docs.cloudfoundry.org/concepts/overview.html)
 
-<!-- <IMG src="https://docs.cloudfoundry.org/concepts/images/power-of-platform.png" alt="The Power of the Platform"/> -->
+[//]: <> (<IMG src="https://docs.cloudfoundry.org/concepts/images/power-of-platform.png" alt="The Power of the Platform"/>)
 
 - [Security](https://docs.cloudfoundry.org/concepts/security.html)
 
   - Typical deployment
 
-<!-- <IMG src="https://docs.cloudfoundry.org/concepts/images/security/sysbound1.png" alt="Sysbound1"/> -->
+[//]: <> (<IMG src="https://docs.cloudfoundry.org/concepts/images/security/sysbound1.png" alt="Sysbound1"/>)
 
 - [Routing](https://docs.cloudfoundry.org/concepts/cf-routing-architecture.html)
 
 - [HTTP Routing](https://docs.cloudfoundry.org/concepts/http-routing.html)
 
-<!-- <IMG src="https://docs.cloudfoundry.org/concepts/images/cf-routing-architecture.png" alt="Diagram of Cloud Foundry routing architecture"/> -->
+[//]: <> (<IMG src="https://docs.cloudfoundry.org/concepts/images/cf-routing-architecture.png" alt="Diagram of Cloud Foundry routing architecture"/>)
 
 - [Container management](https://docs.cloudfoundry.org/concepts/diego/diego-architecture.html)
   - Diego Cell components
   - Diego Brain components
 
-<!-- <IMG src="https://docs.cloudfoundry.org/concepts/images/diego/diego-flow.png" alt="Diego flow"/> -->
+[//]: <> (<IMG src="https://docs.cloudfoundry.org/concepts/images/diego/diego-flow.png" alt="Diego flow"/>)
 
 - [Container networking](https://docs.cloudfoundry.org/concepts/understand-cf-networking.html)
 
-<!-- <IMG src="https://docs.cloudfoundry.org/concepts/images/c2c-arch.png" alt="c2c architecture diagram"/> -->
+[//]: <> (<IMG src="https://docs.cloudfoundry.org/concepts/images/c2c-arch.png" alt="c2c architecture diagram"/>)
 
 - [Service discovery](https://github.com/cloudfoundry/cf-networking-release/blob/develop/docs/app-sd.md)
 
@@ -44,7 +44,7 @@
 
 - [Cloud Controller](https://docs.cloudfoundry.org/concepts/architecture/cloud-controller.html)
 
-<!-- <IMG src="https://docs.cloudfoundry.org/concepts/images/cc-communications-map.png" alt="Cc communications map"/> -->
+[//]: <> (<IMG src="https://docs.cloudfoundry.org/concepts/images/cc-communications-map.png" alt="Cc communications map"/>)
 
 ### Glossary
 

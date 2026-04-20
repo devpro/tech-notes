@@ -1,6 +1,6 @@
-# People
+﻿# People
 
-<!-- Nutants -->
+Poeple working at Nutanix are called Nutants.
 
 ## Values
 

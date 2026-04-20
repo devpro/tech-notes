@@ -1,4 +1,4 @@
-# MongoDB
+﻿# MongoDB
 
 > MongoDB empowers innovators with our modern database platform and integrated services. Our mission is to unleash the power of software and data, enabling development teams to meet the diverse needs of modern applications.
 
@@ -45,8 +45,6 @@ Previous repositories:
 
 - [SlideShare](https://www.slideshare.net/MongoDB)
 
-<!--
-MongoDB uses Hierarchical Navigable Small Worlds to calculate the distance.
-HNSW
-https://www.mongodb.com/resources/basics/hierarchical-navigable-small-world
--->
+## Random facts
+
+MongoDB uses [Hierarchical Navigable Small Worlds(HNSW)](https://www.mongodb.com/resources/basics/hierarchical-navigable-small-world) to calculate the distance.

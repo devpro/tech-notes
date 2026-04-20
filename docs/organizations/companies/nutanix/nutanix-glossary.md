@@ -1,12 +1,4 @@
-# Glossary
-
-## General
-
-Name | Meaning
------|---------------------------------------------------------------------------------------
-HCI  | [Hyperconverged Infrastructure](https://www.nutanix.com/hyperconverged-infrastructure)
-
-## Products & technologies
+﻿# Glossary
 
 Name | Meaning
 -----|---------------------------------------
