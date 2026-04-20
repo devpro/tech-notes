@@ -1,13 +1,13 @@
 ignore:
   global_paths:
-    # node_modules/**:
-    #   reason: EXCEPTION
-    # .docusaurus/**:
-    #   reason: EXCEPTION
     samples/**:
+      reason: EXCEPTION
+    /node_modules/**/.github/**:
+      reason: EXCEPTION
+    /node_modules/**/Dockerfile:
       reason: EXCEPTION
 
   vulnerabilities:
-    CVE-2022-25648:
+    ALL:
       /node_modules/lunr-languages/build/*:
         reason: EXCEPTION
