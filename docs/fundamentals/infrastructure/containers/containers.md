@@ -20,8 +20,8 @@
 - Microsoft
 
 > A container, or software container, is a standalone package of software that bundles together application code with the operating system libraries and dependencies required to run it.
-> It can consistently run in any computing environment—whether on a developer’s laptop, a test server, or a production cloud service.
-> Because it’s lightweight and portable, a container can be efficiently deployed, scaled, and managed on virtually any type of infrastructure, including hybrid and multicloud platforms.
+> It can consistently run in any computing environment—whether on a developer's laptop, a test server, or a production cloud service.
+> Because it's lightweight and portable, a container can be efficiently deployed, scaled, and managed on virtually any type of infrastructure, including hybrid and multicloud platforms.
 >
 > &mdash; _[Microsoft](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-a-container/)_
 

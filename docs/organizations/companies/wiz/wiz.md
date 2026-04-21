@@ -1,5 +1,8 @@
 ﻿# Wiz
 
+> Led by an experienced and visionary team, we are on a mission to help organizations create secure cloud environments that accelerate their businesses.
+> By creating a normalizing layer between cloud environments, our platform enables organizations to rapidly identify and remove critical risks.
+
 🌐 [wiz.io](https://www.wiz.io/)
 
 📖 [Blog](https://www.wiz.io/blog), [Newroom](https://www.wiz.io/newsroom)
@@ -8,7 +11,7 @@
 
 📄 [wiz-sec](https://github.com/wiz-sec), [wiz-sec-public](https://github.com/wiz-sec-public), [wiz-training](https://github.com/wiz-training)
 
-[//]: <> (📝✍️📰📖💬🔗🌐⭐📣🎙️)
+[//]: <> (📝✍️📰📖💬🔗🌐⭐📣🎙️💡)
 
 ## History
 
@@ -18,7 +21,7 @@ Mar 2026 [Wiz Joins Google](https://www.wiz.io/blog/google-closes-deal-to-acquir
 
 See also:
 
-- [Insight Partners - How the Wiz cofounders turned a longstanding friendship into a revolutionary cybersecurity company](https://www.insightpartners.com/ideas/wiz-cofounders-turned-longstanding-friendship-into-revolutionary-cybersecurity-company/) (April 2023)
+- [How the Wiz cofounders turned a longstanding friendship into a revolutionary cybersecurity company](https://www.insightpartners.com/ideas/wiz-cofounders-turned-longstanding-friendship-into-revolutionary-cybersecurity-company/) by Insight Partners - April 2023
 
 ## Values
 
@@ -28,4 +31,4 @@ See also:
 4. Execute with excellence
 5. Act confident, stay humble
 
-[cloudsecuritychampionship.com](https://cloudsecuritychampionship.com/)
+[//]: <> ([cloudsecuritychampionship.com](https://cloudsecuritychampionship.com/))

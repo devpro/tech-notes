@@ -34,6 +34,7 @@ where Federal Information Processing Standards (FIPS) and Special Publications (
 - [Notary](https://github.com/theupdateframework/notary)
 
 {/*
+
 A constraint template is used to create a Custom Resource Definition (CRD) which extends the OPA policy library. This CRD defines the object which will then be called via the constraint.
 
 ```yaml
@@ -97,6 +98,7 @@ spec:
 ## Secure the kube-apiserver
 
 {/*
+
 /etc/kubernetes/manifests/kube-apiserver.yaml
 
 Audit Policy
@@ -116,7 +118,9 @@ rules:
 
 While there could be a single rule affecting all events, there also could be many rules in a policy file. In the example above, metadata of events concerning log and status information of pods would be sent to the backend.
 
-The second rule would match all other events and send all information, but would not send RequestReceived to the backend. As a result, watch events would not appear in the log. */}
+The second rule would match all other events and send all information, but would not send RequestReceived to the backend. As a result, watch events would not appear in the log.
+
+*/}
 
 - [Center for Internet Security (CIS)](https://www.cisecurity.org/)
 - [Docker Bench](https://github.com/docker/docker-bench-security)

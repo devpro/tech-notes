@@ -2,7 +2,7 @@
 
 ## SUSE Linux Enterprise Desktop
 
-> Designed for mixed environments and includes a complete suite of required business applications to support employees’ productivity. SLE Desktop shares the core of SUSE Linux Enterprise Server and is equipped with enhanced security providing unparalleled protection of valuable enterprise data.
+> Designed for mixed environments and includes a complete suite of required business applications to support employees' productivity. SLE Desktop shares the core of SUSE Linux Enterprise Server and is equipped with enhanced security providing unparalleled protection of valuable enterprise data.
 
 → [suse.com/products/desktop](https://www.suse.com/products/desktop/)
 

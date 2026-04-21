@@ -1,6 +1,6 @@
 # Amazon
 
-> Amazon strives to be Earth’s most customer-centric company, Earth’s best employer, and Earth’s safest place to work.
+> Amazon strives to be Earth's most customer-centric company, Earth's best employer, and Earth's safest place to work.
 >
 > Customer reviews, 1-Click shopping, personalized recommendations, Prime, Fulfillment by Amazon, AWS, Kindle Direct Publishing, Kindle, Career Choice, Fire tablets, Fire TV, Amazon Echo, Alexa, Just Walk Out technology, Amazon Studios, and The Climate Pledge are some of the things pioneered by Amazon.
 

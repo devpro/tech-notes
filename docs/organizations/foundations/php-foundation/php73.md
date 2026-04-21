@@ -2,4 +2,4 @@
 
 ## New features
 
-- [What’s New in PHP 7.3](https://kinsta.com/blog/php-7-3/)
+- [What's New in PHP 7.3](https://kinsta.com/blog/php-7-3/)

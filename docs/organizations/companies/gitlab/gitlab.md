@@ -45,6 +45,6 @@ GitLab is a company that provides an [Application Lifecycle Management (ALM)](al
 
 ### Tanuki
 
-> The logomark personifies GitLab’s values, culture, and stewardship of open source, taking inspiration from the tanuki – a raccoon dog native to Japan.
+> The logomark personifies GitLab's values, culture, and stewardship of open source, taking inspiration from the tanuki – a raccoon dog native to Japan.
 >
 > &mdash; _[design/brand-logo/logomark](https://design.gitlab.com/brand-logo/logomark/)_

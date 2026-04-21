@@ -37,7 +37,7 @@ Customization via `docusaurus.config.js` and CSS allows for unique styling, addr
 - **Built-in Search**: Docusaurus includes Algolia DocSearch (configurable for free tier), offering robust, client-side full-text search that is fast and user-friendly.
 - **Tabbed Code Blocks**: The `<Tabs>` component supports tabbed code blocks with syntax highlighting (via Prism), allowing clean display of multi-language snippets (e.g., Python vs. Bash).
 - **GitLab Pages Compatibility**: Docusaurus generates static HTML/CSS/JS, deployable with a simple `.gitlab-ci.yml` using a Node.js image, ensuring seamless integration with GitLab Pages.
-- **Extensibility**: Docusaurus’ React-based ecosystem supports advanced features like versioning, blog integration, and custom components, making it future-proof for evolving tech notes.
+- **Extensibility**: Docusaurus' React-based ecosystem supports advanced features like versioning, blog integration, and custom components, making it future-proof for evolving tech notes.
 
 ## Consequences
 
@@ -50,9 +50,9 @@ Customization via `docusaurus.config.js` and CSS allows for unique styling, addr
 
 ### Trade-offs
 
-- **Minor Markdown Changes**: Using `<Tabs>` requires MDX and a one-line import for files with tabbed code blocks, slightly more intrusive than MkDocs’ zero-touch approach.
+- **Minor Markdown Changes**: Using `<Tabs>` requires MDX and a one-line import for files with tabbed code blocks, slightly more intrusive than MkDocs' zero-touch approach.
 - **Build Overhead**: Node.js-based builds are slightly slower than MkDocs or VitePress, though still fast for small-to-medium doc sets.
-- **Learning Curve**: Customization requires basic React/CSS knowledge, which is more involved than MkDocs’ YAML/CSS but comparable to VitePress’ Vue-based setup.
+- **Learning Curve**: Customization requires basic React/CSS knowledge, which is more involved than MkDocs' YAML/CSS but comparable to VitePress' Vue-based setup.
 
 ## Options Considered
 

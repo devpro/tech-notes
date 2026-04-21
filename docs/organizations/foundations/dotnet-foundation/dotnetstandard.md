@@ -28,7 +28,7 @@
 
     > The vast majority of NuGet packages are currently still targeting .NET Framework.
     > Many projects are currently blocked from moving to .NET Standard because not all their dependencies are targeting .NET Standard yet.
-    > That’s why we added a compatibility mode that allows .NET Standard projects to reference .NET Framework libraries.
+    > That's why we added a compatibility mode that allows .NET Standard projects to reference .NET Framework libraries.
     > While this may not work in all cases (for instance, if the .NET Framework binaries use WPF) we found that 70% of all NuGet packages on nuget.org are API compatible with .NET Standard 2.0. So in practice it unblocks many projects.
 
 - **Broad platform support**

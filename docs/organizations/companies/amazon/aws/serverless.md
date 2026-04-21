@@ -48,6 +48,6 @@
 ### Step Functions
 
 > AWS Step Functions is a serverless orchestration service that lets you integrate with AWS Lambda functions and other AWS services to build business-critical applications.
-> Through Step Functions' graphical console, you see your application’s workflow as a series of event-driven steps.
+> Through Step Functions' graphical console, you see your application's workflow as a series of event-driven steps.
 
 🌐 [docs](https://docs.aws.amazon.com/step-functions/latest/dg/welcome.html)

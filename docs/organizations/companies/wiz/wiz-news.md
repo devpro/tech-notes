@@ -2,15 +2,21 @@
 
 ## Updates
 
+April 2026
+
+- [Wiz and Cloudflare Integration](https://www.wiz.io/blog/wiz-cloudflare-ai-security-integration)
+
 January 2026
 
-- [SITF: The First Threat Framework Dedicated to SDLC Infrastructure](https://www.wiz.io/blog/sitf-sdlc-threat-framework)
+- [SITF](security-threats.md#sitf)
 
 ## New features
 
-February 2026
+April 2026
 
-- [Wiz Runtime Sensor for Windows](https://www.wiz.io/blog/wiz-runtime-sensor-for-your-windows-environment)
+- [CI Pipelines Inventory](https://www.wiz.io/blog/from-code-to-pipeline-wiz-code-now-secures-your-build-environment)
+- [Shadow Data Detection](https://www.wiz.io/blog/introducing-shadow-data-detection-in-wiz)
+- [IaC Inventory](https://www.wiz.io/blog/wiz-iac-inventory)
 
 March 2026
 
@@ -19,9 +25,10 @@ March 2026
 - [Wiz Agents](https://www.wiz.io/blog/introducing-wiz-agents): [Blue](https://www.wiz.io/blog/wiz-blue-agent-generally-available),
 [Green](https://www.wiz.io/blog/introducing-wiz-green-agent), [Red](https://www.wiz.io/blog/introducing-the-wiz-red-agent)
 
-April 2026
+February 2026
 
-- [Claude Mythos: Preparing for a World Where AI Finds and Exploits Vulnerabilities Faster Than Ever](https://www.wiz.io/blog/claude-mythos)
-- [Introducing Shadow Data Detection: Reduce Cost and Risk Across Your Cloud](https://www.wiz.io/blog/introducing-shadow-data-detection-in-wiz)
-- [Securing the AI Edge: Wiz and Cloudflare Integrate for End-to-End AI Protection](https://www.wiz.io/blog/wiz-cloudflare-ai-security-integration)
-- [IaC Inventory: A Unified View Across Code, Deployments, and Cloud](https://www.wiz.io/blog/wiz-iac-inventory)
+- [Wiz Runtime Sensor for Windows](https://www.wiz.io/blog/wiz-runtime-sensor-for-your-windows-environment)
+
+January 2026
+
+- [Wiz Plugin for JetBrains IDE](https://www.wiz.io/blog/wiz-plugin-for-jetbrains-ide-available)

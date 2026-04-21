@@ -73,7 +73,7 @@ Representational State Transfer (REST) is a widely-used architectural style for 
 ### gRPC
 
 A high-performance, open-source framework for remote procedure calls, using HTTP/2 and Protocol Buffers.
-It’s optimized for microservices and low-latency communication.
+It's optimized for microservices and low-latency communication.
 
 💡 gRPC is gaining traction for new microservices due to its performance benefits over REST.
 

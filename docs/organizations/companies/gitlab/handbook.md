@@ -8,7 +8,7 @@ Here is what we can learn about GitLab from the Handbook!
 
 ### Values
 
-GitLab’s six core values CREDIT are:
+GitLab's six core values CREDIT are:
 
 * 🤝 Collaboration
 * 📈 Results for Customers

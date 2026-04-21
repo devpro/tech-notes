@@ -77,4 +77,4 @@ kubectl get nodes
 
 Q. Is it possible to change the rancher/shell to another image?
 
-A. Yes, it’s a setting in global settings. It can also be set with the environment variable on rancher CATTLE_SHELL_IMAGE=my/customshell:tag
+A. Yes, it's a setting in global settings. It can also be set with the environment variable on rancher CATTLE_SHELL_IMAGE=my/customshell:tag

@@ -31,7 +31,7 @@
 > AWS Application Migration Service (MGN) is a highly automated lift-and-shift (rehost) solution that simplifies, expedites, and reduces the cost of migrating applications to AWS.
 > It allows companies to lift-and-shift a large number of physical, virtual, or cloud servers without compatibility issues, performance disruption, or long cutover windows.
 > MGN replicates source servers into your AWS account.
-> When you’re ready, it automatically converts and launches your servers on AWS so you can quickly benefit from the cost savings, productivity, resilience, and agility of the Cloud.
+> When you're ready, it automatically converts and launches your servers on AWS so you can quickly benefit from the cost savings, productivity, resilience, and agility of the Cloud.
 > Once your applications are running on AWS, you can leverage AWS services and capabilities to quickly and easily replatform or refactor those applications – which makes lift-and-shift a fast route to modernization.
 
 🌐 [aws.amazon.com/application-migration-service](https://aws.amazon.com/application-migration-service/), [docs](https://docs.aws.amazon.com/mgn/latest/ug/what-is-application-migration-service.html)

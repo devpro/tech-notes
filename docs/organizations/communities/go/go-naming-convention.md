@@ -22,7 +22,7 @@ log.Info()    // good
 log.LogInfo() // bad
 ```
 
-* Don’t name like getters or setters:
+* Don't name like getters or setters:
 
 ```go
 custSvc.cust()    // good

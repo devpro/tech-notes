@@ -1,6 +1,6 @@
 # Harness
 
-> Harness is the industry’s first Software Delivery Platform to use AI to simplify your DevOps processes - CI, CD, Feature Flags, Cloud Costs, and much more.
+> Harness is the industry's first Software Delivery Platform to use AI to simplify your DevOps processes - CI, CD, Feature Flags, Cloud Costs, and much more.
 
 🌐 [harness.io](https://harness.io/), [GitHub](https://github.com/harness)
 

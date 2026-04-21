@@ -43,7 +43,7 @@ stitch-cli login --username=cloud.username@email.com --api-key=my-api-key
 - [mongodb/stitch-examples](https://github.com/mongodb/stitch-examples)
 - [mongodb/stitch-tutorials](https://github.com/mongodb/stitch-tutorials) [mongodb/stitch-examples](https://github.com/mongodb/stitch-examples)
 - [aydrian/stitchcraft-picstream](https://github.com/aydrian/stitchcraft-picstream) [MaBeuLux88/mongodb-stitch-examples](https://github.com/MaBeuLux88/mongodb-stitch-examples)
-- [How I Used MongoDB Stitch to Build a Website with my Grandma’s Recipes](https://www.mongodb.com/blog/post/how-i-used-mongodb-stitch-to-build-a-website-with-my-grandmas-recipes) [GitHub](https://github.com/grammas/kitchen)
+- [How I Used MongoDB Stitch to Build a Website with my Grandma's Recipes](https://www.mongodb.com/blog/post/how-i-used-mongodb-stitch-to-build-a-website-with-my-grandmas-recipes) [GitHub](https://github.com/grammas/kitchen)
 
 ## Recipes
 

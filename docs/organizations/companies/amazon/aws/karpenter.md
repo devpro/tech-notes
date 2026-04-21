@@ -6,4 +6,4 @@
 
 ## Learn
 
-* [nOps Launches Industry’s First Self-Paced Karpenter Lab](https://www.nops.io/blog/karpenter-lab/) - November 12, 2024
+* [nOps Launches Industry's First Self-Paced Karpenter Lab](https://www.nops.io/blog/karpenter-lab/) - November 12, 2024

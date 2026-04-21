@@ -297,7 +297,7 @@ File path                                       | Details
 - `/opt/puppetlabs`: Internal Puppet stuff, binaries, etc
 - `/var/log/messages`: Puppet Agent logs
 - `/var/log/puppetlabs`: Other logging
-- `/tmp`: Used by the installer (issues if set ‘noexec’)
+- `/tmp`: Used by the installer (issues if set ‘noexec')
 
 You can read [Magic directories: a guide to Puppet directory structure](https://puppet.com/blog/magic-directories-guide-to-puppet-directory-structure).
 

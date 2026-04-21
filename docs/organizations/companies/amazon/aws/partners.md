@@ -15,4 +15,4 @@
 ### Atos
 
 > [CloudCatalyst](https://www.atoscloudcatalyst.com/) is a powerful solution, set to transform the global infrastructure outsourcing industry.
-> We are migrating our customers’ critical systems and workloads from managed on-premise to managed on the world’s leading cloud.
+> We are migrating our customers' critical systems and workloads from managed on-premise to managed on the world's leading cloud.

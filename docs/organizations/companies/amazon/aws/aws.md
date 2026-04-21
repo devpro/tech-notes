@@ -1,6 +1,6 @@
 ﻿# AWS
 
-> Amazon Web Services is the world’s most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine
+> Amazon Web Services is the world's most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine
 
 🌐 [aws.amazon.com](https://aws.amazon.com/), [docs](https://docs.aws.amazon.com/), [console](https://console.aws.amazon.com/), [marketplace](https://aws.amazon.com/marketplace/)
 
@@ -16,8 +16,8 @@
 
 ## About
 
-> As part of Amazon, we strive to be Earth’s most customer-centric company.
-> We work backwards from our customers’ problems to provide them with cloud infrastructure that meets their needs, so they can reinvent continuously and push through barriers of what people thought was possible.
+> As part of Amazon, we strive to be Earth's most customer-centric company.
+> We work backwards from our customers' problems to provide them with cloud infrastructure that meets their needs, so they can reinvent continuously and push through barriers of what people thought was possible.
 
 🌐 [aws.amazon.com/about-aws](https://aws.amazon.com/about-aws/)
 
@@ -25,9 +25,9 @@
 
 > In the early days of operating Amazon.com we experienced first-hand how hard and expensive it was to provision and manage IT infrastructure, and how this distracted talented teams from actually innovating.
 >
-> That’s why we launched Amazon Web Services in the spring of 2006, to rethink IT infrastructure completely, so that anyone—even a kid in a college dorm room— could access the same powerful technology as the world’s largest and most sophisticated companies.
+> That's why we launched Amazon Web Services in the spring of 2006, to rethink IT infrastructure completely, so that anyone—even a kid in a college dorm room— could access the same powerful technology as the world's largest and most sophisticated companies.
 >
-> Since those early days, we’ve never stopped inventing on behalf of our customers—from storage to networking, to serverless, to machine learning, to custom silicon and hardware, and generative AI.
+> Since those early days, we've never stopped inventing on behalf of our customers—from storage to networking, to serverless, to machine learning, to custom silicon and hardware, and generative AI.
 
 🌐 [aws.amazon.com/about-aws/our-origins](https://aws.amazon.com/about-aws/our-origins/)
 
