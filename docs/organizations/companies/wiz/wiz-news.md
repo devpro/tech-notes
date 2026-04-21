@@ -22,7 +22,7 @@ March 2026
 
 - [Wiz AI Application Protection Platform (AI-APP))](https://www.wiz.io/blog/introducing-wiz-ai-app)
 - [Wiz Workflows](https://www.wiz.io/blog/introducing-wiz-workflows)
-- [Wiz Agents](https://www.wiz.io/blog/introducing-wiz-agents): [Blue](https://www.wiz.io/blog/wiz-blue-agent-generally-available),
+- [Wiz AI Agents](https://www.wiz.io/blog/introducing-wiz-agents): [Blue](https://www.wiz.io/blog/wiz-blue-agent-generally-available),
 [Green](https://www.wiz.io/blog/introducing-wiz-green-agent), [Red](https://www.wiz.io/blog/introducing-the-wiz-red-agent)
 
 February 2026
@@ -32,3 +32,9 @@ February 2026
 January 2026
 
 - [Wiz Plugin for JetBrains IDE](https://www.wiz.io/blog/wiz-plugin-for-jetbrains-ide-available)
+
+## Integrations
+
+April 2026
+
+- [Cloudflare](https://www.businesswire.com/news/home/20260414296894/en/Cloudflare-Partners-with-Wiz-to-Secure-the-Global-AI-Attack-Surface-Eliminating-Blind-Spots-Caused-by-Shadow-AI)
