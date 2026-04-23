@@ -1,6 +1,7 @@
 ﻿# Ubuntu
 
 The following instructions target **Ubuntu 24.04**.
+
 For previous instructions: [Ubuntu 20.04](archive/ubuntu-20_04.md).
 
 📝 [Ubuntu company](../../../organizations/companies/ubuntu/ubuntu.md)
@@ -13,12 +14,13 @@ sudo apt -y upgrade
 sudo apt autoremove
 ```
 
-## Packages
+## Package installation
 
 - Common dependencies:
 
 ```bash
-sudo apt -y install ca-certificates curl gnupg lsb-release apt-transport-https software-properties-common git wget nano libarchive-tools sshpass zip unzip jq
+sudo apt -y install ca-certificates curl gnupg lsb-release apt-transport-https software-properties-common wget \
+  git nano libarchive-tools sshpass zip unzip jq
 ```
 
 - [Docker](../../../organizations/companies/docker/docker-engine.md#ubuntu)

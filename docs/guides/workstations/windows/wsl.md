@@ -1,4 +1,4 @@
-# WSL
+﻿# WSL
 
 📝 [organizations/companies/microsoft/wsl](../../../organizations/companies/microsoft/wsl.md)
 
@@ -19,7 +19,8 @@ Open a dos window as Administrator to install the default Linux system:
 wsl --install
 ```
 
-Ubuntu is now available in Windows Terminal. Make sure systemd is enabled:
+[Ubuntu](../ubuntu/ubuntu.md) is now available in Windows Terminal.
+Make sure systemd is enabled:
 
 ```bash
 cat /etc/wsl.conf

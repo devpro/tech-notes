@@ -1,14 +1,16 @@
 ﻿# Node.js
 
-> Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+> Node.js is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
 
 🌐 [nodejs.org](https://nodejs.org/)
 
 ## Installation
 
-### NVVM
+📖 [nodejs.org](https://nodejs.org/en/download)
 
-Install with NVM (ref. [nodejs.org](https://nodejs.org/en/download)):
+### Linux
+
+Install with NVM:
 
 ```bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
@@ -17,3 +19,7 @@ nvm install 24
 node -v
 npm -v
 ```
+
+### Windows
+
+Install from the **Windows Installer (.msi)**.
