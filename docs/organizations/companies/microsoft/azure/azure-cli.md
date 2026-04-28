@@ -1,21 +1,25 @@
-# Azure CLI
+﻿# Azure CLI
 
 🌐 [docs](https://learn.microsoft.com/en-us/cli/azure/)
 
 ## Installation
 
-You can [Install the Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli) on any platform, Windows or Linux (including Windows Subsystem for Linux)
+You can [Install the Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) on any platform, Windows or Linux (including Windows Subsystem for Linux).
+
+```bash
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
+```
 
 ## Basic commands
 
-Command                                                       | Action
---------------------------------------------------------------|---------------------------------------------------------------------------
-`az --version`                                                | Check the CLI version
-`az --help`                                                   | Display help information
-`az login`                                                    | Login to a specific Azure user account (will open a web page in a browser)
-`az account list`                                             | List all subscriptions you have access
-`az account set --subscription "xxxxx-xxxx-xxxx-xxxx-xxxxxx"` | Set the current context to a specific subscription
-`az account show`                                             | Display the current context
+Command                                 | Action
+----------------------------------------|---------------------------------------------------------------------------
+`az --version`                          | Check the CLI version
+`az --help`                             | Display help information
+`az login`                              | Login to a specific Azure user account (will open a web page in a browser)
+`az account list`                       | List all subscriptions you have access
+`az account set --subscription "xxxxx"` | Set the current context to a specific subscription
+`az account show`                       | Display the current context
 
 ## AKS commands
 
