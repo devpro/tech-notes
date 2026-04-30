@@ -1,4 +1,4 @@
----
+﻿---
 sidebar_position: 1
 ---
 
@@ -9,3 +9,4 @@ sidebar_position: 1
 - [Foundations](foundations/foundations.md)
 - [Independent projects](independent-projects/independent-projects.md)
 - [Institutions](institutions/institutions.md)
+- [Non-profit](non-profit/non-profit.md)
