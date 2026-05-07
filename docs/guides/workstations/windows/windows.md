@@ -49,6 +49,8 @@ Enable Windows features:
     winget install WinDirStat.WinDirStat
     ```
 
+5. [WinMerge](https://winmerge.org/downloads/)
+
 ### Binaries
 
 Download in a directory added to the PATH environment variable:
