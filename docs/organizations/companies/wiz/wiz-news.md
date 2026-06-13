@@ -12,6 +12,10 @@ January 2026
 
 ## New features
 
+May
+
+- [Akamai integration](https://www.wiz.io/blog/introducing-wiz-akamai-integration)
+
 April 2026
 
 - [CI Pipelines Inventory](https://www.wiz.io/blog/from-code-to-pipeline-wiz-code-now-secures-your-build-environment)
