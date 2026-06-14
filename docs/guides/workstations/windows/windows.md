@@ -4,7 +4,7 @@ The following instructions target **Windows 11**.
 
 For previous versions: [Windows 10](archive/windows-10.md).
 
-## Configuration
+## System configuration
 
 ### Power options
 
@@ -30,13 +30,13 @@ Review and update if needed:
   - Display > Set up G-SYNC > **Enable G-SYNC**
   - 3D Settings > Manage 3D settings > **Program settings**
 
-## Features
+## System features
 
-Enable Windows features:
+Enable:
 
 - [Windows Subsystem for Linux (WSL)](wsl.md)
 
-## Applications
+## Installation
 
 ### Utilities
 
@@ -50,6 +50,14 @@ Enable Windows features:
     ```
 
 5. [WinMerge](https://winmerge.org/downloads/)
+
+## Drivers
+
+1. Logitech G Hub
+
+    ```batch
+    winget install -e --id Logitech.GHUB
+    ```
 
 ### Binaries
 
@@ -101,10 +109,25 @@ Download in a directory added to the PATH environment variable:
 5. GitKraken
 6. [Node.js](../../../organizations/foundations/openjs-foundation/nodejs.md)
 7. .NET SDK
-8. [Rider](../../../organizations/companies/jetbrains/rider.md) or [Visual Studio 2026](../../../organizations/companies/microsoft/vs2026.md)
+8. [JetBrains Toolbox](../../../organizations/companies/jetbrains/toolbox.md)
+    - [Rider](../../../organizations/companies/jetbrains/rider.md)
+
+    ```dos
+    winget install -e --id JetBrains.Rider
+    ```
+
+    - [WebStorm](../../../organizations/companies/jetbrains/webstorm.md)
+
+    ```dos
+    winget install -e --id JetBrains.WebStorm
+    ```
+
 9. [MongoDB Compass](../../../organizations/companies/mongodb/compass.md)
-10. [WebStorm](../../../organizations/companies/jetbrains/webstorm.md)
-11. Additional browsers: Firefox, Brave
+10. PowerShell
+
+    ```dos
+    winget install -e --id Microsoft.PowerShell
+    ```
 
 ### Office
 
@@ -112,3 +135,11 @@ Download in a directory added to the PATH environment variable:
 2. [draw.io Diagrams](https://apps.microsoft.com/detail/9mvvszk43qqw)
 3. [PDF24 Creator](https://apps.microsoft.com/detail/xpfd51h3vqzfm0)
 4. [Inkscape](https://inkscape.org/)
+
+## Upgrade
+
+Open Terminal (Command Prompt) as Administrator and run:
+
+```dos
+winget update --all --silent
+```
