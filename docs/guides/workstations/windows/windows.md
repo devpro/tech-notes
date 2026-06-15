@@ -4,6 +4,8 @@ The following instructions target **Windows 11**.
 
 For previous versions: [Windows 10](archive/windows-10.md).
 
+<!-- https://winstall.app/ -->
+
 ## System configuration
 
 ### Power options
@@ -43,9 +45,14 @@ Enable:
 1. Windows Terminal
 2. 1Password, or KeePass (with [KeeTheme](https://github.com/xatupal/KeeTheme)), or another password manager
 3. [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+    ```dos
+    winget install -e --id Microsoft.Sysinternals.Suite
+    ```
+
 4. WinDirStat
 
-    ```batch
+    ```dos
     winget install WinDirStat.WinDirStat
     ```
 
