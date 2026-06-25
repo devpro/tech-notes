@@ -30,3 +30,5 @@ sudo apt -y install ca-certificates curl gnupg lsb-release apt-transport-https s
 - [.NET](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install) ([workaround](https://github.com/dotnet/runtime/issues/121829#issuecomment-3614687693))
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu)
 - [Azure CLI](../../../organizations/companies/microsoft/azure/azure-cli.md#installation)
+- [Antigravity IDE](../../../organizations/companies/google/antigravity.md)
+- [Antigravity CLI](../../../organizations/companies/google/antigravity.md)
