@@ -44,6 +44,11 @@ Enable:
 
 1. Windows Terminal
 2. 1Password, or KeePass (with [KeeTheme](https://github.com/xatupal/KeeTheme)), or another password manager
+
+    ```batch
+    winget install -e --id AgileBits.1Password
+    ```
+
 3. [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 
     ```dos
@@ -85,12 +90,6 @@ Download in a directory added to the PATH environment variable:
     winget install --id Git.Git -e --source winget
     git config --global core.autocrlf false
     git config --global core.longpaths true
-    ```
-
-    Update:
-
-    ```cmd
-    git update-git-for-windows
     ```
 
 3. [Notepad++](https://notepad-plus-plus.org/downloads/)
@@ -163,4 +162,22 @@ Open Terminal (Command Prompt) as Administrator and run:
 
 ```dos
 winget update --all --silent
+```
+
+List all applications (usefull for "1 package(s) have version numbers that cannot be determined. Use --include-unknown to see all results."):
+
+```dos
+winget list
+```
+
+Pin an application that is not maintained:
+
+```dos
+winget pin add --name "Autodesk FBX Converter x64 2013.3"
+```
+
+Delete the local, cached configuration file that WinGet uses to talk to the Microsoft Store repository backend and downloads a fresh, clean copy directly from Microsoft:
+
+```dos
+winget source reset msstore
 ```
