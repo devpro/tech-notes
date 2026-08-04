@@ -1,4 +1,4 @@
-# Git CLI (Command Line Interface)
+﻿# Git CLI (Command Line Interface)
 
 ## Usual commands
 
@@ -56,4 +56,5 @@ git remote | xargs -L1 git push --all
 
 # sets file as executable
 git update-index --chmod=+x scripts/my_script.sh
+git update-index --add --chmod=+x scripts/my_script.sh
 ```
