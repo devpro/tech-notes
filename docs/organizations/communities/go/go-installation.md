@@ -1,27 +1,27 @@
-# Installation of Go
+﻿# Installation of Go
 
 🌐 [Download and install](https://go.dev/doc/install)
 
-## Installation on Ubuntu 20.04
+## Operating systems
+
+### Ubuntu
 
 Download and extract the latest version.
 
 ```bash
-curl -OL https://golang.org/dl/go1.22.2.linux-amd64.tar.gz
-sudo tar -C /usr/local -xvf go1.22.2.linux-amd64.tar.gz
-rm go1.22.2.linux-amd64.tar.gz
+GO_VERSION=$(curl -s https://go.dev/VERSION?m=text | head -n 1)
+wget https://go.dev/dl/${GO_VERSION}.linux-amd64.tar.gz
+sudo rm -rf /usr/local/go
+sudo tar -C /usr/local -xzf ${GO_VERSION}.linux-amd64.tar.gz
+rm ${GO_VERSION}.linux-amd64.tar.gz
 ```
 
-Edit `~/.profile` to add the following line at the end.
-
-```ini
-export PATH=$PATH:/usr/local/go/bin
-```
-
-Apply the change to the current terminal.
+Only once - Setup environment variables:
 
 ```bash
-source ~/.profile
+echo 'export PATH=$PATH:/usr/local/go/bin' >> ~/.bashrc
+echo 'export PATH="$PATH:$(go env GOPATH)/bin"' >> ~/.bashrc
+source ~/.bashrc
 ```
 
 Verify the installation
@@ -30,13 +30,7 @@ Verify the installation
 go version
 ```
 
-If needed, uninstall:
-
-```bash
-sudo rm -rf /usr/local/go/
-```
-
-## Installation on Windows 10
+### Windows
 
 Download `go1.xx.y.windows-amd64.msi` from [go.dev/dl](https://go.dev/dl/) and run it.
 

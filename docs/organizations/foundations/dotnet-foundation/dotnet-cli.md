@@ -1,4 +1,4 @@
-# .NET CLI
+﻿# .NET CLI
 
 > The .NET command-line interface (CLI) is a cross-platform toolchain for developing, building, running, and publishing .NET applications. The .NET CLI is included with the .NET SDK.
 
@@ -17,15 +17,11 @@
 
 ## General commands
 
-Command | Action
-------- | ------
-`dotnet -v` | Display information on the installed version
+`dotnet -v` display information on the installed version
 
 ### New command
 
-Command | Action
-------- | ------
-`dotnet new` | View the available templates (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new))
+`dotnet new` view the available templates (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new))
 
 Examples:
 
@@ -35,10 +31,10 @@ Examples:
 
 ### Add command
 
-Command | Action
-------- | ------
+Command                | Action
+-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------
 `dotnet add reference` | Adds project-to-project (P2P) references (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-reference))
-`dotnet add package` | Adds a package reference to a project file (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-package))
+`dotnet add package`   | Adds a package reference to a project file (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-package))
 
 Examples:
 
@@ -47,9 +43,7 @@ Examples:
 
 ### Solution command
 
-Command | Action
-------- | ------
-`dotnet sln` | Modifies a .NET Core solution file (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-sln))
+`dotnet sln` modifies a .NET Core solution file (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-sln))
 
 Examples:
 
@@ -57,9 +51,7 @@ Examples:
 
 ### Run command
 
-Command | Action
-------- | ------
-`dotnet run` | Runs source code without any explicit compile or launch commands (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-run))
+`dotnet run` runs source code without any explicit compile or launch commands (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-run))
 
 Examples:
 
@@ -67,9 +59,7 @@ Examples:
 
 ### Publish command
 
-Command | Action
-------- | ------
-`dotnet publish` | Packs the application and its dependencies into a folder for deployment to a hosting system (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-publish))
+`dotnet publish` packs the application and its dependencies into a folder for deployment to a hosting system (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-publish)).
 
 Examples:
 
@@ -77,9 +67,7 @@ Examples:
 
 ### Test command
 
-Command | Action
-------- | ------
-`dotnet test` | Run the tests (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test))
+`dotnet test` run the tests (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test))
 
 Examples:
 

@@ -39,3 +39,9 @@ stat /sbin/init
 - [Helm](https://github.com/devpro/kubernetes-essentials/blob/main/docs/tools/helm.md#installation)
 - [k3d](https://github.com/devpro/kubernetes-essentials/blob/main/docs/tools/k3d.md)
 - [ngrok](../../../organizations/companies/ngrok/ngrok.md)
+
+## SDK
+
+- [.NET](../../../organizations/foundations/dotnet-foundation/dotnet-installation.md#ubuntu)
+- [Go](../../../organizations/communities/go/go-installation.md#ubuntu)
+- [JDK](../../../organizations/independent-projects/openjdk/openjdk.md)
