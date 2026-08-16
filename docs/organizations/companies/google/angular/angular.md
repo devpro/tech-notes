@@ -1,6 +1,7 @@
 # Angular
 
-> One framework. Mobile & desktop.
+> One framework.
+> Mobile & desktop.
 
 [angular.io](https://angular.io/), [API](https://angular.io/api)
 

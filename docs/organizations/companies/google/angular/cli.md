@@ -5,7 +5,7 @@
 ## Releases
 
 Version | Date | Links
---------|------|----------------------------------------------------------------------------------
+--------|------|------
 `13.0`  |      | [blog.ninja-squad.com](https://blog.ninja-squad.com/2021/11/03/angular-cli-13.0/)
 `12.0`  |      | [blog.ninja-squad.com](https://blog.ninja-squad.com/2021/05/12/angular-cli-12.0/)
 
@@ -19,15 +19,15 @@ npm install -g @angular/cli
 ### Cheat sheet
 
 Command  | Action
----------|------------------------------------------------------------
+---------|-------
 `ng new` | Create a new Angular application with interactive questions
 
 ## Recipes
 
 ### Migrate from Protractor to Cypress
 
-* [ninja squad](https://blog.ninja-squad.com/2021/05/05/migrating-from-protractor-to-cypress/)
+- [ninja squad](https://blog.ninja-squad.com/2021/05/05/migrating-from-protractor-to-cypress/)
 
 ### Migrate from TSLint to ESLint
 
-* [ninja squad](https://blog.ninja-squad.com/2021/03/31/migrating-from-tslint-to-eslint/)
+- [ninja squad](https://blog.ninja-squad.com/2021/03/31/migrating-from-tslint-to-eslint/)

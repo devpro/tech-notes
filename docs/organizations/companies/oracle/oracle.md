@@ -2,4 +2,4 @@
 
 ## Products
 
-* [VirtualBox](virtualbox.md)
+- [VirtualBox](virtualbox.md)

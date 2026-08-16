@@ -9,4 +9,4 @@
 
 ## Learn
 
-* [aws.amazon.com/what-is/apache-spark](https://aws.amazon.com/what-is/apache-spark/)
+- [aws.amazon.com/what-is/apache-spark](https://aws.amazon.com/what-is/apache-spark/)

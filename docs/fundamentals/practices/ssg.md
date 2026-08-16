@@ -5,7 +5,7 @@ Static site generators (SSG) create static HTML, CSS, and JS from content files,
 ## Pure Static Site Generators
 
 Name                                                                             | Source code
----------------------------------------------------------------------------------|------------------------------------------------------------------
+---------------------------------------------------------------------------------|------------
 [Hugo](https://gohugo.io/)                                                       | [gohugoio/hugo](https://github.com/gohugoio/hugo) (84k)
 [Jekyll](https://jekyllrb.com/)                                                  | [jekyll/jekyll](https://github.com/jekyll/jekyll) (51k)
 [Hexo](https://hexo.io/)                                                         | [hexojs/hexo](https://github.com/hexojs/hexo) (41k)
@@ -16,7 +16,7 @@ Name                                                                            
 ## Documentation-Focused SSGs
 
 Name                                                                | Source code
---------------------------------------------------------------------|--------------------------------------------------------------------------------
+--------------------------------------------------------------------|------------
 [Docusaurus](https://docusaurus.io/)                                | [facebook/docusaurus](https://github.com/facebook/docusaurus) (62k)
 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) | [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) (25k)
 [MkDocs](https://www.mkdocs.org/)                                   | [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) (21k)
@@ -28,7 +28,7 @@ Name                                                                | Source cod
 ## Framework-Based SSGs
 
 Name                                                  | Source code
-------------------------------------------------------|---------------------------------------------------------------
+------------------------------------------------------|------------
 [Next.js](https://nextjs.org/)                        | [vercel/next.js](https://github.com/vercel/next.js) (135k)
 [Nuxt](https://nuxt.com/)                             | [nuxt/nuxt](https://github.com/nuxt/nuxt) (58k)
 [Gatsby](https://www.gatsbyjs.com/)                   | [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) (56k)

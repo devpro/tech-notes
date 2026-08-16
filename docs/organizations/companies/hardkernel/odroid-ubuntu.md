@@ -42,7 +42,7 @@ sudo reboot
 - Plug the Widi adapter, make sure it's up (light on?)
 
 - Create `/etc/netplan/config.yaml` (Ubuntu now uses [Netplan](https://netplan.io/), see [odroid forum topic](https://forum.odroid.com/viewtopic.php?t=30766) and [configserverfirewall post](https://www.configserverfirewall.com/ubuntu-linux/configure-ubuntu-server-static-ip-address/))
-  
+
 ```ini
 network:
   version: 2
@@ -65,7 +65,7 @@ network:
         "mywifiname":
           password: "mypassword"
 ```
-  
+
 - Check internet connection and enable SSH (see [2daygeek post](https://www.2daygeek.com/enable-disable-up-down-nic-network-interface-port-linux-using-ifconfig-ifdown-ifup-ip-nmcli-nmtui/))
 
 ```bash

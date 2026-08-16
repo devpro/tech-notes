@@ -3,7 +3,7 @@
 ## Business
 
 Acronym | Meaning
---------|----------------------------
+--------|--------
 ARR     | Annual Recurring Revenue
 GTM     | Go-To-Market
 ISV     | Independent Software Vendor
@@ -16,7 +16,7 @@ TAM     | Technical Account Manager
 ## IT
 
 Acronym | Meaning
---------|----------------------------------------------------------------------------------
+--------|--------
 BGP     | Border Gateway Protocol
 BYON    | Bring Your Own Network
 CD      | Continuous Delivery
@@ -45,7 +45,7 @@ VPC     | Virtual Private Cloud
 ## Security
 
 Acronym | Meaning
---------|---------------------------------------------
+--------|--------
 ASPM    | Application Security Posture Management
 CDR     | Cloud Detection & Response
 CIEM    | Cloud Infrastructure Entitlement Management

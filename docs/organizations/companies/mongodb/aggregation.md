@@ -12,4 +12,3 @@ An aggregation pipeline consists of one or more stages that process documents.
 These documents can come from a collection, a view, or a specially designed stage.
 
 🌐 [MongoDB docs](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/)
-  

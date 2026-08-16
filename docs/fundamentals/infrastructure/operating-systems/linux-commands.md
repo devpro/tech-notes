@@ -3,7 +3,7 @@
 ## Additional packages
 
 Name     | Details
----------|---------------------------------------------------------------------------------------------------------------------------------
+---------|--------
 **wget** | GNU Wget is a free software package for retrieving files using HTTP, HTTPS, FTP and FTPS the most widely-used Internet protocols
 
 [//]: <> (difference between cat/less/more)
@@ -11,7 +11,7 @@ Name     | Details
 ## Shortcuts
 
 Shortcut   | Action
------------|--------------------------------
+-----------|-------
 `Ctrl`+`R` | Search a command in the history
 
 ## Commands

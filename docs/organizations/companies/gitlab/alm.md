@@ -3,7 +3,7 @@
 ## Features
 
 Category                      | Features
-------------------------------|-----------------------------------------------------
+------------------------------|---------
 **SCM**                       | Git repositories, Git branches, Merge requests
 **Project management**        | Issues, Epics
 **CI/CD automation**          | [Pipelines](pipelines.md), [Runners](runner.md)

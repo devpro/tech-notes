@@ -71,7 +71,8 @@ See [Debian Cheat Sheet](https://wiki.debian.org/systemd/CheatSheet)
 
 ### VM Creation
 
-With `Hyper-V Quick Create`, select Ubuntu 18.04. DO NOT SET AUTO SIGN IN!
+With `Hyper-V Quick Create`, select Ubuntu 18.04.
+DO NOT SET AUTO SIGN IN!
 
 ### VM setup
 

@@ -7,23 +7,23 @@
 
 ## Content
 
-* [Installation](vscode-installation.md)
-* Languages: [Go](vscode-go.md)
+- [Installation](vscode-installation.md)
+- Languages: [Go](vscode-go.md)
 
 ## Extensions
 
-* [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
-* [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
-* [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
-* [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) by unified
-* Remote Development
-* [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) by Microsoft
-* [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) by Red Hat
+- [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+- [Markdown Table Prettifier](https://marketplace.visualstudio.com/items?itemName=darkriszty.markdown-table-prettify)
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+- [MDX](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx) by unified
+- Remote Development
+- [WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) by Microsoft
+- [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml) by Red Hat
 
 ## Shortcuts
 
 Key(s)          | Action
-----------------|-------------------------------
+----------------|-------
 `Ctrl` + `:`    | Toggle line comment
 `Ctrl` + `P`    | Open a file by typing its name
 `Shift` + `Tab` | Indent left

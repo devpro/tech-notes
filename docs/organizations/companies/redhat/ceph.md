@@ -1,6 +1,7 @@
 # Ceph
 
-> Ceph provides a flexible foundation for all data storage, uniting object, block and file types in a single unified RADOS cluster. For enterprises with multiple storage type requirements, Ceph provides a simplified, flexible solution.
+> Ceph provides a flexible foundation for all data storage, uniting object, block and file types in a single unified RADOS cluster.
+> For enterprises with multiple storage type requirements, Ceph provides a simplified, flexible solution.
 
 🌐 [ceph.io](https://ceph.io/), [code](https://github.com/ceph)
 

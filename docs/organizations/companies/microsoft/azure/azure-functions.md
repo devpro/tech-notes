@@ -10,4 +10,4 @@
 
 ## Deployment
 
-* [Using VSTS to Deploy to Azure Functions and App Service with Run-From-Zip](https://anthonychu.ca/post/vsts-deploy-app-service-azure-functions-run-from-zip/)
+- [Using VSTS to Deploy to Azure Functions and App Service with Run-From-Zip](https://anthonychu.ca/post/vsts-deploy-app-service-azure-functions-run-from-zip/)

@@ -10,14 +10,14 @@ As a manager, I want to enforce recommended code & security practices so the dev
 
 ## Requirements
 
-* Development dependencies can be configured (SDK, runtimes)
-* Container can be executed with a managed lifecycle
-* IDE (Integrated Development Environment), such as Visual Studio Code can be used in the web or locally
+- Development dependencies can be configured (SDK, runtimes)
+- Container can be executed with a managed lifecycle
+- IDE (Integrated Development Environment), such as Visual Studio Code can be used in the web or locally
 
 ## Considered options
 
 Name                                                        | Sources                                                     | Deployment              | Free tier
-------------------------------------------------------------|-------------------------------------------------------------|-------------------------|--------------------------
+------------------------------------------------------------|-------------------------------------------------------------|-------------------------|----------
 [Coder](https://coder.com/)                                 | [:octocat:](https://github.com/coder/code-server) _★ 67.6k_ | Kubernetes              | Community version
 [CodeSandbox](https://codesandbox.io/)                      | 🚫                                                          | SaaS                    | 40 hours/month
 [Devbox](https://www.jetify.com/devbox)                     | [:octocat:](https://github.com/jetify-com/devbox) _★ 8.3k_  | Shell script            | No restriction/limitation
@@ -31,6 +31,6 @@ Name                                                        | Sources           
 
 ⛵ Experimentation in progress!
 
-* 🔴 **DevPod** doesn't work with Docker on Windows 10 + Ubuntu 20.04 (WSL)
-* 🟠 **GitHub Codespaces** can quickly be expensive with a limited featureset
-* 🟢 **Strong Network** works well and offers the most advanced professional features (security, user management, collaboration)
+- 🔴 **DevPod** doesn't work with Docker on Windows 10 + Ubuntu 20.04 (WSL)
+- 🟠 **GitHub Codespaces** can quickly be expensive with a limited featureset
+- 🟢 **Strong Network** works well and offers the most advanced professional features (security, user management, collaboration)

@@ -4,14 +4,14 @@
 
 ## Features
 
-* Infrastructure Observability
-* Application Observability
-* Digital Experience
-* Log Analytics
-* Application Security
-* Threat Observability
-* Software Delivery
-* Business Analytics
+- Infrastructure Observability
+- Application Observability
+- Digital Experience
+- Log Analytics
+- Application Security
+- Threat Observability
+- Software Delivery
+- Business Analytics
 
 ## Components
 

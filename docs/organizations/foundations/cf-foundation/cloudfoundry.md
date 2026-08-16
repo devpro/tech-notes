@@ -39,7 +39,8 @@
 
 - [Service discovery](https://github.com/cloudfoundry/cf-networking-release/blob/develop/docs/app-sd.md)
 
-  - In order to support all types of apps, languages and frameworks, we built service discovery for c2c into the platform. With this feature, users no longer have to bring their own service discovery.
+  - In order to support all types of apps, languages and frameworks, we built service discovery for c2c into the platform.
+    With this feature, users no longer have to bring their own service discovery.
   - [Cats and Dogs](https://github.com/cloudfoundry/cf-networking-examples/blob/master/docs/c2c-with-service-discovery.md)
 
 - [Cloud Controller](https://docs.cloudfoundry.org/concepts/architecture/cloud-controller.html)
@@ -77,7 +78,8 @@ Each instance of an application deployed to Cloud Foundry runs within a containe
 Handling both platform and app requests with the same process centralizes routing logic and simplifies support for WebSockets and other types of traffic (for example, through HTTP CONNECT).
 See [GitHub](https://github.com/cloudfoundry/gorouter).
 
-- [GrootFS](https://github.com/cloudfoundry/grootfs) is the container root filesystem management component for Garden. A container root filesystem or rootfs is often referred to as an _image_.
+- [GrootFS](https://github.com/cloudfoundry/grootfs) is the container root filesystem management component for Garden.
+  A container root filesystem or rootfs is often referred to as an _image_.
 See [Blog entry](https://www.cloudfoundry.org/blog/grootfs-container-image-management-cloud-foundry/).
 
 - [NATS](https://docs.cloudfoundry.org/concepts/architecture/messaging-nats.html) is a lightweight publish-subscribe and distributed queueing messaging system written in Ruby ([GitHub](https://github.com/nats-io/ruby-nats)).

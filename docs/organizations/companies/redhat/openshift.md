@@ -47,9 +47,9 @@ The OpenShift Kubernetes Engine is the core of the OpenShift Container Platform.
 
 Includes:
 
-* Red Hat Advanced Cluster Management for Kubernetes ([redhat.com/technologies/management/advanced-cluster-management](https://www.redhat.com/en/technologies/management/advanced-cluster-management))
+- Red Hat Advanced Cluster Management for Kubernetes ([redhat.com/technologies/management/advanced-cluster-management](https://www.redhat.com/en/technologies/management/advanced-cluster-management))
 
 ## Additional learning resources
 
-* [sabre1041/managing-ocp-install-beyond](https://github.com/sabre1041/managing-ocp-install-beyond)
-* [sabre1041/iot-ocp](https://github.com/sabre1041/iot-ocp)
+- [sabre1041/managing-ocp-install-beyond](https://github.com/sabre1041/managing-ocp-install-beyond)
+- [sabre1041/iot-ocp](https://github.com/sabre1041/iot-ocp)

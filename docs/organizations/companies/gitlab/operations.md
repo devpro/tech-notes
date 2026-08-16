@@ -6,5 +6,5 @@
 
 Tools:
 
-* `gitlab-backup` for Linux package and Docker installation methods
-* `backup-utility` for Kubernetes installations
+- `gitlab-backup` for Linux package and Docker installation methods
+- `backup-utility` for Kubernetes installations

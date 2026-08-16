@@ -8,9 +8,9 @@
 
 ### Getting to know Fleet
 
-* Youtube videos
-  * [GitOps The Planet (E4) - GitOps at Edge](https://www.youtube.com/watch?v=OPbgvBSAO9U) - January 4, 2023
-  * [Using Fleet to Manage Clusters at Scale](https://www.youtube.com/watch?v=8gXbxt3AjdE&t=723s) - November 21, 2020
+- Youtube videos
+  - [GitOps The Planet (E4) - GitOps at Edge](https://www.youtube.com/watch?v=OPbgvBSAO9U) - January 4, 2023
+  - [Using Fleet to Manage Clusters at Scale](https://www.youtube.com/watch?v=8gXbxt3AjdE&t=723s) - November 21, 2020
 
 ### Install Fleet objects in your Kubernetes cluster
 
@@ -43,14 +43,14 @@ kubectl get fleet -n fleet-sample
 
 ## Configuration
 
-* [Git Repository Contents](https://fleet.rancher.io/gitrepo-content)
-  * [`fleet.yaml`](https://fleet.rancher.io/ref-fleet-yaml)
+- [Git Repository Contents](https://fleet.rancher.io/gitrepo-content)
+  - [`fleet.yaml`](https://fleet.rancher.io/ref-fleet-yaml)
 
 ## Samples
 
-* [Fleet examples](https://github.com/rancher/fleet-examples)
-* [Martin Weiss](https://github.com/Martin-Weiss/rancher-fleet)
-* [SUSE Exchange Paris 2023](https://github.com/devpro/helm-charts/tree/main/samples/suse-exchange-paris-2023)
+- [Fleet examples](https://github.com/rancher/fleet-examples)
+- [Martin Weiss](https://github.com/Martin-Weiss/rancher-fleet)
+- [SUSE Exchange Paris 2023](https://github.com/devpro/helm-charts/tree/main/samples/suse-exchange-paris-2023)
 
 ## Alternatives
 
@@ -64,22 +64,22 @@ Name       | Model
 
 ### Helm chart dependencies
 
-* tgz files in charts folder (coming from `helm dependency update`) must be added to git to be picked up by Fleet (see [issue #250](https://github.com/rancher/fleet/issues/250))
+- tgz files in charts folder (coming from `helm dependency update`) must be added to git to be picked up by Fleet (see [issue #250](https://github.com/rancher/fleet/issues/250))
 
 ### Helm chart with objects on multiple namespaces
 
-* You may encounter the issue `Error while running post render on files: invalid cluster scoped object [name=* kind=PodSecurityPolicy apiVersion=policy/v1beta1] found, consider using "defaultNamespace", not "namespace" in fleet.yaml`
+- You may encounter the issue `Error while running post render on files: invalid cluster scoped object [name=* kind=PodSecurityPolicy apiVersion=policy/v1beta1] found, consider using "defaultNamespace", not "namespace" in fleet.yaml`
 
 ### Modified GitRepos
 
-* [Generating Diffs to Ignore Modified GitRepos](https://fleet.rancher.io/bundle-diffs)
+- [Generating Diffs to Ignore Modified GitRepos](https://fleet.rancher.io/bundle-diffs)
 
 ## Troubleshoot
 
 ### Fleet Kubernetes objects
 
 Kind                                      | Name
-------------------------------------------|-------------------------
+------------------------------------------|-----
 bundles.fleet.cattle.io                   | CustomResourceDefinition
 bundledeployments.fleet.cattle.io         | CustomResourceDefinition
 bundlenamespacemappings.fleet.cattle.io   | CustomResourceDefinition
@@ -110,4 +110,4 @@ fleet-controller                          | Deployment
 
 ### Git token expired
 
-* If you manage the GitRepo from Rancher UI and create new git credential, save twice the UI
+- If you manage the GitRepo from Rancher UI and create new git credential, save twice the UI

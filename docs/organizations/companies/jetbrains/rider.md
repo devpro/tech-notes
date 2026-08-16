@@ -9,7 +9,7 @@
 ### Visual Studio 2022 mapping
 
 Key combination        | Action
------------------------|-----------------------------
+-----------------------|-------
 `Ctrl`+`Alt`+`Enter`   | Format file
 `Ctrl`+`Enter`         | Open context menu
 `Ctrl`+`K`, `Ctrl`+`D` | Format file

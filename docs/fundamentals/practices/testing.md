@@ -14,5 +14,6 @@ Name                                                                  | Descript
 
 ### Proprietary
 
-* [Argos](https://argos-ci.com/) is the modern visual testing platform for websites, design systems, and ui components. Detect UI changes, review diffs, and ship confidently
-* [Katalon](https://www.katalon.com/) is an all-in-one AI-augmented test automation platform built on Selenium and Appium, supporting web, mobile, API, and desktop testing with an intuitive IDE for both scripted and record-and-playback workflows
+- [Argos](https://argos-ci.com/) is the modern visual testing platform for websites, design systems, and ui components.
+  Detect UI changes, review diffs, and ship confidently
+- [Katalon](https://www.katalon.com/) is an all-in-one AI-augmented test automation platform built on Selenium and Appium, supporting web, mobile, API, and desktop testing with an intuitive IDE for both scripted and record-and-playback workflows

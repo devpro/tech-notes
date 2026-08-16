@@ -4,4 +4,4 @@
 
 ## Content
 
-* [Symfony](symfony.md)
+- [Symfony](symfony.md)

@@ -6,4 +6,4 @@
 
 ## Recipes
 
-* [Redis, STunnel, and C#](https://hyeomans.com/redis-stunnel-and-c/)
+- [Redis, STunnel, and C#](https://hyeomans.com/redis-stunnel-and-c/)

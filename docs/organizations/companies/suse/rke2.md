@@ -1,6 +1,7 @@
 ﻿# RKE2
 
-> RKE2 (Rancher Kubernetes Engine v2), also known as RKE Government, is Rancher's next-generation Kubernetes distribution. It is a fully conformant Kubernetes distribution that focuses on security and compliance within the U.S. Federal Government sector.
+> RKE2 (Rancher Kubernetes Engine v2), also known as RKE Government, is Rancher's next-generation Kubernetes distribution.
+> It is a fully conformant Kubernetes distribution that focuses on security and compliance within the U.S. Federal Government sector.
 
 [docs](https://docs.rke2.io/)
 
@@ -108,4 +109,5 @@ rke2-metrics-server | kube-system | rke2-metrics-server-2.11.100-build2021111904
 - kubelet
 - /var/lib/rancher/rke2/data/v1.23.9-rke2r1-eef53a0d1ec2/bin/containerd-shim-runc-v2 -namespace k8s.io -id container_id -address /run/k3s/containerd/containerd.sock
 - kube-proxy --cluster-cidr=10.42.0.0/16 --conntrack-max-per-core=0 --conntrack-tcp-timeout-close-wait=0s --conntrack-tcp-timeout-established=0s --healthz-bind-address=127.0.0.1 --hostname-override=vm-bthomas-rke2worker1 --kubeconfig=/var/lib/rancher/rke2/agent/kubeproxy.kubeconfig --proxy-mode=iptables
-- /nginx-ingress-controller --election-id=ingress-controller-leader --controller-class=k8s.io/ingress-nginx --ingress-class=nginx --configmap=kube-system/rke2-ingress-nginx-controller --validating-webhook=:8443 --validating-webhook-certificate=/usr/local/certificates/cert --validating-webhook-key=/usr/local/certificates/key --watch-ingress-without-class=true
+- /nginx-ingress-controller --election-id=ingress-controller-leader --controller-class=k8s.io/ingress-nginx --ingress-class=nginx --configmap=kube-system/rke2-ingress-nginx-controller --validating-webhook=:8443 --validating-webhook-certificate=/usr/local/certificates/cert --validating-webhook-key=/usr/local/certificates/key
+  --watch-ingress-without-class=true

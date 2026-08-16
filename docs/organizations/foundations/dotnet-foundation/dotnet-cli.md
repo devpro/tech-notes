@@ -1,6 +1,7 @@
 ﻿# .NET CLI
 
-> The .NET command-line interface (CLI) is a cross-platform toolchain for developing, building, running, and publishing .NET applications. The .NET CLI is included with the .NET SDK.
+> The .NET command-line interface (CLI) is a cross-platform toolchain for developing, building, running, and publishing .NET applications.
+> The .NET CLI is included with the .NET SDK.
 
 🌐 [docs](https://learn.microsoft.com/en-us/dotnet/core/tools/), [code](https://github.com/dotnet/sdk)
 
@@ -32,7 +33,7 @@ Examples:
 ### Add command
 
 Command                | Action
------------------------|---------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------|-------
 `dotnet add reference` | Adds project-to-project (P2P) references (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-reference))
 `dotnet add package`   | Adds a package reference to a project file (see [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-add-package))
 

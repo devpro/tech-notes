@@ -2,6 +2,6 @@
 
 ## Operating systems
 
-* Linux
-  * [Ubuntu](ubuntu/ubuntu.md)
-* [Windows](windows/windows.md)
+- Linux
+  - [Ubuntu](ubuntu/ubuntu.md)
+- [Windows](windows/windows.md)

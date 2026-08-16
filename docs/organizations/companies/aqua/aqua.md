@@ -6,6 +6,6 @@
 
 ## Open source
 
-* [kube-bench](kube-bench.md)
-* [Tracee](tracee.md)
-* [Trivy](trivy.md)
+- [kube-bench](kube-bench.md)
+- [Tracee](tracee.md)
+- [Trivy](trivy.md)

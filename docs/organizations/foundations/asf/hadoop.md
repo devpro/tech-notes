@@ -8,4 +8,4 @@
 
 ## Learn
 
-* [cloud.google.com/learn/what-is-hadoop](https://cloud.google.com/learn/what-is-hadoop)
+- [cloud.google.com/learn/what-is-hadoop](https://cloud.google.com/learn/what-is-hadoop)

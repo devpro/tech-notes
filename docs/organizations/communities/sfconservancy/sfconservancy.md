@@ -8,6 +8,6 @@
 
 ## Projects
 
-* [BusyBox](busybox.md)
-* [Git](git.md)
-* [Selenium](selenium.md)
+- [BusyBox](busybox.md)
+- [Git](git.md)
+- [Selenium](selenium.md)

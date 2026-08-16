@@ -11,7 +11,7 @@ Download from a running Concourse instance or from the [GitHub release page](htt
 ## Commands
 
 Command             | Action
---------------------|-----------------------------------------------------------------------------------------------------------
+--------------------|-------
 `fly login`         | Authenticates with a given endpoint and saves it under a convenient name
 `fly targets`       | Displays the targets that are currently known to fly
 `fly status`        | Checks the current authentication status with a given target

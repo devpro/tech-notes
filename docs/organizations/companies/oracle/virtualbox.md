@@ -11,7 +11,7 @@
 ## CLI
 
 Command                              | Action
--------------------------------------|----------------------------------------
+-------------------------------------|-------
 `vboxmanage list vms`                | Lists virtual machines
 `vboxmanage startvm myvm`            | Starts a virtual machine named myvm
 `vboxmanage list runningvms`         | Lists running virtual machines

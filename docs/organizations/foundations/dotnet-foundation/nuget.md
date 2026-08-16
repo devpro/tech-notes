@@ -6,7 +6,8 @@
 
 ## Presentation
 
-> An essential tool for any modern development platform is a mechanism through which developers can create, share, and consume useful code. Often such code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
+> An essential tool for any modern development platform is a mechanism through which developers can create, share, and consume useful code.
+> Often such code is bundled into "packages" that contain compiled code (as DLLs) along with other content needed in the projects that consume these packages.
 >
 > For .NET, the Microsoft-supported mechanism for sharing code is NuGet, which defines how packages for .NET are created, hosted, and consumed, and provides the tools for each of those roles.
 
@@ -15,7 +16,7 @@
 ## Common packages
 
 Name               | Website                                                                             | Source
--------------------|-------------------------------------------------------------------------------------|--------------------------------------------------
+-------------------|-------------------------------------------------------------------------------------|-------
 AutoMapper         | [automapper.org](https://automapper.org/)                                           | -
 Dapper             | [dapper-tutorial.net](https://dapper-tutorial.net/dapper)                           | [GitHub](https://github.com/StackExchange/Dapper)
 FluentAssertions   | [fluentassertions.com](http://www.fluentassertions.com/)                            | -
@@ -52,7 +53,7 @@ xUnit              |                                                            
 ### Host public/private feeds
 
 Name           | Site
----------------|----------------------------------------------------------------------------------------------------------------------------
+---------------|-----
 Azure Packages | Provided by Azure DevOps
 MyGet          | [myget.org](https://www.myget.org), [Working with upstream sources](https://docs.myget.org/docs/reference/upstream-sources)
 ProGet         | [inedo.com](https://inedo.com/proget)
@@ -85,7 +86,8 @@ _Solutions available (list not exhaustive!)_:
 
 _Tips_:
 
-- Do not forget to add a `NuGet.config` file at the root of the solutions that will use the library (see [Configuring NuGet behavior](https://docs.microsoft.com/en-us/nuget/consume-packages/configuring-nuget-behavior) and [NuGet.Config reference](https://docs.microsoft.com/en-us/nuget/reference/nuget-config-file)). Example:
+- Do not forget to add a `NuGet.config` file at the root of the solutions that will use the library (see [Configuring NuGet behavior](https://docs.microsoft.com/en-us/nuget/consume-packages/configuring-nuget-behavior) and [NuGet.Config reference](https://docs.microsoft.com/en-us/nuget/reference/nuget-config-file)).
+  Example:
 
   ```xml
   <?xml version="1.0" encoding="utf-8"?>
@@ -127,7 +129,8 @@ _Steps_:
 
 _Tips_:
 
-- By default, the NuGet package will always have the version 1.0.0 ([question raised on Stackoverflow](https://stackoverflow.com/questions/42797993/package-version-is-always-1-0-0-with-dotnet-pack)). There are 3 solutions:
+- By default, the NuGet package will always have the version 1.0.0 ([question raised on Stackoverflow](https://stackoverflow.com/questions/42797993/package-version-is-always-1-0-0-with-dotnet-pack)).
+  There are 3 solutions:
 
   1/ Update your build definition in VSTS  
   2/ Update your project file and add `VersionPrefix` and `VersionSuffix`  

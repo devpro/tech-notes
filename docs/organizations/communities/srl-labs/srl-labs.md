@@ -4,4 +4,4 @@
 
 ## Projects
 
-* [Containerlab](containerlab.md)
+- [Containerlab](containerlab.md)

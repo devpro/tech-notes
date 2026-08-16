@@ -11,17 +11,17 @@
 
 ### Features
 
-* [Components](pipeline-components.md)
-* [Services](https://docs.gitlab.com/ci/services/)
+- [Components](pipeline-components.md)
+- [Services](https://docs.gitlab.com/ci/services/)
 
 ## Pipeline types
 
-* [Basic pipelines](https://docs.gitlab.com/ci/pipelines/pipeline_architectures/#basic-pipelines)
-* [Merge request pipelines](https://docs.gitlab.com/ci/pipelines/merge_request_pipelines/)
-* [Merged results pipelines](https://docs.gitlab.com/ci/pipelines/merged_results_pipelines/)
-* [Merge trains](https://docs.gitlab.com/ci/pipelines/merge_trains/)
-* [Parent-child pipelines](https://docs.gitlab.com/ci/pipelines/downstream_pipelines/#parent-child-pipelines)
-* [Multi-project pipelines](https://docs.gitlab.com/ci/pipelines/downstream_pipelines/#multi-project-pipelines)
+- [Basic pipelines](https://docs.gitlab.com/ci/pipelines/pipeline_architectures/#basic-pipelines)
+- [Merge request pipelines](https://docs.gitlab.com/ci/pipelines/merge_request_pipelines/)
+- [Merged results pipelines](https://docs.gitlab.com/ci/pipelines/merged_results_pipelines/)
+- [Merge trains](https://docs.gitlab.com/ci/pipelines/merge_trains/)
+- [Parent-child pipelines](https://docs.gitlab.com/ci/pipelines/downstream_pipelines/#parent-child-pipelines)
+- [Multi-project pipelines](https://docs.gitlab.com/ci/pipelines/downstream_pipelines/#multi-project-pipelines)
 
 ## Best practices
 
@@ -29,24 +29,24 @@
 
 ### Pipeline code quality
 
-* [Principles (DRY, KISS SOLID, YAGNI)](developers.md#software-programming-principles)
-* [Optimize configuration files](https://docs.gitlab.com/ci/yaml/yaml_optimization/)
-  * Anchors
-  * `extends`
-  * `!reference`
-* [Use configuration from other files](https://docs.gitlab.com/ci/yaml/includes/)
-  * [`include`](https://docs.gitlab.com/ci/yaml/#include)
+- [Principles (DRY, KISS SOLID, YAGNI)](developers.md#software-programming-principles)
+- [Optimize configuration files](https://docs.gitlab.com/ci/yaml/yaml_optimization/)
+  - Anchors
+  - `extends`
+  - `!reference`
+- [Use configuration from other files](https://docs.gitlab.com/ci/yaml/includes/)
+  - [`include`](https://docs.gitlab.com/ci/yaml/#include)
 
 ### Performance
 
-* [Caching](https://docs.gitlab.com/ci/caching/)
+- [Caching](https://docs.gitlab.com/ci/caching/)
 
 ## Support
 
-* [Debugging CI/CD pipelines](https://docs.gitlab.com/ci/debugging/)
-* [Run a pipeline locally](runner-container.md#debug-pipeline-with-local-execution)
+- [Debugging CI/CD pipelines](https://docs.gitlab.com/ci/debugging/)
+- [Run a pipeline locally](runner-container.md#debug-pipeline-with-local-execution)
 
 ## Examples
 
-* [GitLab pipeline](https://gitlab.com/gitlab-org/gitlab/-/pipelines)
+- [GitLab pipeline](https://gitlab.com/gitlab-org/gitlab/-/pipelines)
 ([`.gitlab-ci.yml`](https://gitlab.com/gitlab-org/gitlab/-/blob/master/.gitlab-ci.yml), [`.gitlab/ci`](https://gitlab.com/gitlab-org/gitlab/-/tree/master/.gitlab/ci))

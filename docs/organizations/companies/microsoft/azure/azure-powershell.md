@@ -8,7 +8,7 @@
 ## Command lines
 
 Command                                                          | Description
------------------------------------------------------------------|-----------------------------------------
+-----------------------------------------------------------------|------------
 `Install-Module -Name Az -AllowClobber`                          | Install Az Module (from an Admin window)
 `Get-InstalledModule -Name Az -AllVersions`                      | Review the installed version
 `Connect-AzAccount`                                              | Connect to your account

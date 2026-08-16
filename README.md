@@ -10,8 +10,8 @@ License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Sections
 
-* [Fundamentals](docs/fundamentals/fundamentals.md)
-* [Guides](docs/guides/guides.md)
-* [Organizations](docs/organizations/organizations.md)
+- [Fundamentals](docs/fundamentals/fundamentals.md)
+- [Guides](docs/guides/guides.md)
+- [Organizations](docs/organizations/organizations.md)
 
 <!-- https://wiki-tech.io/ -->

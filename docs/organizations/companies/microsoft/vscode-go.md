@@ -28,4 +28,3 @@ Installed at C:\Users\<username>\go\bin in module mode:
 - goreturns
 - golint
 - goimports
-  

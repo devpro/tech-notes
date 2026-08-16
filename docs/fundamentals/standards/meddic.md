@@ -6,7 +6,9 @@
 
 ## Learn
 
-Qualitification is about: value, stakeholders and process. It is not BANT (Budget, Authority, Need, Timing). There are three levels of qualification: Discovery, Delivery & Consensus.
+Qualitification is about: value, stakeholders and process.
+It is not BANT (Budget, Authority, Need, Timing).
+There are three levels of qualification: Discovery, Delivery & Consensus.
 
 MEDDPPICC stands for:
 

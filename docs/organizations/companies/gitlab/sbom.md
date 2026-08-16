@@ -18,4 +18,4 @@
 
 ## Tuorials
 
-* [Export dependency list in SBOM format](https://docs.gitlab.com/tutorials/export_sbom/)
+- [Export dependency list in SBOM format](https://docs.gitlab.com/tutorials/export_sbom/)

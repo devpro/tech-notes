@@ -6,4 +6,4 @@
 
 ## Community products
 
-* [Artifactory](https://jfrog.com/community/download-artifactory-oss/)
+- [Artifactory](https://jfrog.com/community/download-artifactory-oss/)

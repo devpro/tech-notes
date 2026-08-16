@@ -4,4 +4,4 @@
 
 Delivered on June 09, 2020
 
-* [Paper](https://webassets.mongodb.com/MongoDB_Whats_New_4.4.pdf)
+- [Paper](https://webassets.mongodb.com/MongoDB_Whats_New_4.4.pdf)

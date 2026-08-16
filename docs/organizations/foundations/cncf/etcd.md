@@ -53,7 +53,7 @@ docker rm etcd-gcr-v3.4.12
 ### CLI
 
 Command               | Action
-----------------------|---------------------------------
+----------------------|-------
 `etcdctl member list` | Lists all members in the cluster
 
 ### Learning

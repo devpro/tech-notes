@@ -17,7 +17,7 @@
 🌐 [Basic commands for WSL](https://learn.microsoft.com/en-us/windows/wsl/basic-commands)
 
 Command          | Action
------------------|---------------------------------------------------------------------------------------------------
+-----------------|-------
 `wsl --shutdown` | Immediately terminates all running distributions and the WSL 2 lightweight utility virtual machine
 `wsl --update`   | Updates the WSL version to the latest version
 

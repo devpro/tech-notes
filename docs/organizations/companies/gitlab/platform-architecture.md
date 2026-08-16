@@ -7,7 +7,7 @@
 ## Components
 
 Name                 | Role
----------------------|---------------------------------------------------------------------------------------------------------------------------
+---------------------|-----
 **Gitaly**           | High-level RPC access to Git repositories
 **GitLab Geo**       | Solution for widely distributed development teams and for providing a warm-standby as part of a disaster recovery strategy
 **GitLab Shell**     | Handles Git SSH sessions for GitLab and modifies the list of authorized keys

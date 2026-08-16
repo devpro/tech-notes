@@ -6,4 +6,4 @@ This minor version was released on September 16, 2025.
 
 ## Features
 
-* [Supercharge Self-Managed Apps With Search and Vector Search Capabilities](https://www.mongodb.com/company/blog/product-release-announcements/supercharge-self-managed-apps-search-vector-search-capabilities)
+- [Supercharge Self-Managed Apps With Search and Vector Search Capabilities](https://www.mongodb.com/company/blog/product-release-announcements/supercharge-self-managed-apps-search-vector-search-capabilities)

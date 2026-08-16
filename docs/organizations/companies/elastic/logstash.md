@@ -4,14 +4,14 @@
 
 ### Plugins
 
-* [Redis](https://www.elastic.co/guide/en/logstash/current/plugins-inputs-redis.html)
+- [Redis](https://www.elastic.co/guide/en/logstash/current/plugins-inputs-redis.html)
 
 ## Run
 
 ### Running on Docker
 
-* Official doc on Running Logstash on Docker on [elastic.co](https://www.elastic.co/guide/en/logstash/current/docker.html)
-* Configuring Logstash for Docker on [elastic.co](https://www.elastic.co/guide/en/logstash/current/docker-config.html)
+- Official doc on Running Logstash on Docker on [elastic.co](https://www.elastic.co/guide/en/logstash/current/docker.html)
+- Configuring Logstash for Docker on [elastic.co](https://www.elastic.co/guide/en/logstash/current/docker-config.html)
 
 ### Recipes
 
@@ -30,8 +30,8 @@ See [plugins-filters-date](https://www.elastic.co/guide/en/logstash/current/plug
 
 ### Grok
 
-* [grokdebug](https://grokdebug.herokuapp.com/)
+- [grokdebug](https://grokdebug.herokuapp.com/)
 
 ### Examples
 
-* [Logstash Configuration Examples](https://www.elastic.co/guide/en/logstash/current/config-examples.html)
+- [Logstash Configuration Examples](https://www.elastic.co/guide/en/logstash/current/config-examples.html)

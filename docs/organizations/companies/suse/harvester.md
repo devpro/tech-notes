@@ -6,4 +6,4 @@
 
 ## Commercial offer
 
-* [Support Matrix](https://www.suse.com/suse-harvester/support-matrix/all-supported-versions/harvester-v1-7-x/)
+- [Support Matrix](https://www.suse.com/suse-harvester/support-matrix/all-supported-versions/harvester-v1-7-x/)

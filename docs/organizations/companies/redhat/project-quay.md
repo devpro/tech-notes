@@ -7,5 +7,5 @@
 
 ## Quickstart
 
-* [Getting started with quay.io](https://docs.quay.io/solution/getting-started.html)
-* [Image scanning in your pipelines using quay.io scanner](https://www.redhat.com/sysadmin/using-quayio-scanner) - February 12, 2021
+- [Getting started with quay.io](https://docs.quay.io/solution/getting-started.html)
+- [Image scanning in your pipelines using quay.io scanner](https://www.redhat.com/sysadmin/using-quayio-scanner) - February 12, 2021

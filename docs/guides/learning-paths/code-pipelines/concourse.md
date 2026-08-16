@@ -4,13 +4,13 @@ Comprehensive samples to quickly get up to speed with [Concourse](../../../organ
 
 ## Requirements
 
-* Have an account to a running Concourse instance
-  * For the first time, you can use the local containers with `docker compose -f samples/concourse/compose.yml up -d`
-  * You can also deploy it in a Kubernetes cluster with [Helm chart](https://github.com/devpro/helm-charts/tree/feature/concourse/charts/concourse)
-  * Ultimately, you can run it on a [VM](https://github.com/devpro/information-technology-guide/blob/main/docs/communities/concourse/ubuntu-install.md)
+- Have an account to a running Concourse instance
+  - For the first time, you can use the local containers with `docker compose -f samples/concourse/compose.yml up -d`
+  - You can also deploy it in a Kubernetes cluster with [Helm chart](https://github.com/devpro/helm-charts/tree/feature/concourse/charts/concourse)
+  - Ultimately, you can run it on a [VM](https://github.com/devpro/information-technology-guide/blob/main/docs/communities/concourse/ubuntu-install.md)
 
-* Have `fly` executable on the machine running the command lines (careful with the version that needs to match the one from Concourse instance)
-  * Grab it from the [releases GitHub page](https://github.com/concourse/concourse/releases) or from the running Concourse web page
+- Have `fly` executable on the machine running the command lines (careful with the version that needs to match the one from Concourse instance)
+  - Grab it from the [releases GitHub page](https://github.com/concourse/concourse/releases) or from the running Concourse web page
 
 ## Samples
 
@@ -22,7 +22,7 @@ fly --target localhost login --concourse-url http://localhost:8080/
 
 ### Pipelines
 
-* Hello world
+- Hello world
 
 Login on localhost:
 
@@ -34,7 +34,7 @@ fly -t localhost unpause-pipeline -p helloworld
 fly -t localhost trigger-job -j helloworld/job
 ```
 
-* .NET
+- .NET
 
 ```bash
 fly --target localhost set-pipeline --pipeline aspnetcore --config samples/concourse/tasks/dotnet/01_aspnetcore.yml
@@ -53,7 +53,7 @@ fly -t localhost trigger-job -j dotnetglobaltool/azure-devops -w
 
 ### Tasks
 
-* Hello world
+- Hello world
 
 ```bash
 fly --target localhost login --concourse-url http://localhost:8080/

@@ -4,4 +4,4 @@
 
 ## Content
 
-* [Rust](rust.md)
+- [Rust](rust.md)

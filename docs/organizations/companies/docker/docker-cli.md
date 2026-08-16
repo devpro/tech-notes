@@ -7,7 +7,7 @@
 ### Main commands
 
 Command                            | Action
------------------------------------|-------------------------------------------------------------------------------
+-----------------------------------|-------
 `docker --version`                 | Display Docker CLI version
 `docker info`                      | Display Docker general information
 `docker container --help`          | Displays help for container command
@@ -39,4 +39,4 @@ docker run -p 8011:80 -e ASPNETCORE_ENVIRONMENT=Development --name mycontainerna
 
 ### Cheat sheets
 
-* [Will Sargent](https://github.com/wsargent/docker-cheat-sheet)
+- [Will Sargent](https://github.com/wsargent/docker-cheat-sheet)

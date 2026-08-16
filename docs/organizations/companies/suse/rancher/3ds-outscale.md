@@ -14,51 +14,51 @@ An _Account Key_ and a _Secret Key_ are needed to authenticate and manage the re
 
 ### Management
 
-* [API](https://docs.outscale.com/api) ([reference](https://docs.outscale.com/en/userguide/OUTSCALE-APIs-Reference.html), [code](https://github.com/outscale/osc-api))
-* [OSC CLI](https://docs.outscale.com/en/userguide/Installing-and-Configuring-OSC-CLI.html) ([code](https://github.com/outscale/osc-cli))
-* [AWS CLI](https://docs.outscale.com/en/userguide/Installing-and-Configuring-AWS-CLI.html)
-* [Cockpit (web UI)](https://cockpit.outscale.com/) ([v2 (beta)](https://new.cockpit.outscale.com/), [docs](https://docs.outscale.com/en/userguide/About-Cockpit.html))
-* [Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=outscale.osc-viewer) ([code](https://github.com/outscale/vscode-osc-viewer))
+- [API](https://docs.outscale.com/api) ([reference](https://docs.outscale.com/en/userguide/OUTSCALE-APIs-Reference.html), [code](https://github.com/outscale/osc-api))
+- [OSC CLI](https://docs.outscale.com/en/userguide/Installing-and-Configuring-OSC-CLI.html) ([code](https://github.com/outscale/osc-cli))
+- [AWS CLI](https://docs.outscale.com/en/userguide/Installing-and-Configuring-AWS-CLI.html)
+- [Cockpit (web UI)](https://cockpit.outscale.com/) ([v2 (beta)](https://new.cockpit.outscale.com/), [docs](https://docs.outscale.com/en/userguide/About-Cockpit.html))
+- [Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=outscale.osc-viewer) ([code](https://github.com/outscale/vscode-osc-viewer))
 
 ## Recipes
 
 ### Create a Kubernetes cluster from OSC VMs and install Rancher on it
 
-* Terraform: use [Rancher Quickstart](https://github.com/rancher/quickstart/blob/master/rancher/outscale/README.md)
+- Terraform: use [Rancher Quickstart](https://github.com/rancher/quickstart/blob/master/rancher/outscale/README.md)
 
 ### Connect to a OSC VM
 
-* From OUTSCALE Web UI
-  * In "Compute" > "VMs" (Instances in cockpit V1), click on "Create"
-    * In "Security", add a rule to authorize SSH (port 22) from "My IP"
-    * Copy the public IP address, download the rsa file and log in with `ssh -i ~/.ssh/outscale_xxx.rsa <public_ip> -l outscale`
+- From OUTSCALE Web UI
+  - In "Compute" > "VMs" (Instances in cockpit V1), click on "Create"
+    - In "Security", add a rule to authorize SSH (port 22) from "My IP"
+    - Copy the public IP address, download the rsa file and log in with `ssh -i ~/.ssh/outscale_xxx.rsa <public_ip> -l outscale`
 
 ### Create a Kubernetes Rancher on OCS VMs from Rancher
 
-* From Rancher UI
-  * In "Cluster Management" > "Drivers" > "Node Drivers"
-    * Select "Outscale" ([definition](https://github.com/rancher/rancher/blob/release/v2.7/pkg/data/management/machinedriver_data.go#L140)) and click on "Activate"
-  * In "Cluster Management" > "Clusters"
-    * In "Create" form, select "RKE2/K3s", click on "outscale"
+- From Rancher UI
+  - In "Cluster Management" > "Drivers" > "Node Drivers"
+    - Select "Outscale" ([definition](https://github.com/rancher/rancher/blob/release/v2.7/pkg/data/management/machinedriver_data.go#L140)) and click on "Activate"
+  - In "Cluster Management" > "Clusters"
+    - In "Create" form, select "RKE2/K3s", click on "outscale"
 
 ### RKE2 creation from Rancher UI
 
-* Open Rancher
-  * In "Cluster Management", "Drivers", "Node Drivers", enable "Outscale"
-  * In "Cluster Management", "Cloud Credentials", click on "Create", select "Outscale", submit and fill the informations
-  * In "Cluster Management", "Clusters", click on "Create", select "outscale"
-    * Specify the "supportOmi" (check [Official OMIs Reference](https://docs.outscale.com/en/userguide/Official-OMIs-Reference.html))
-    * Set "tinav5.c3r4p1" as "instanceType" (check [Instance Types](https://docs.outscale.com/en/userguide/Instance-Types.html))
+- Open Rancher
+  - In "Cluster Management", "Drivers", "Node Drivers", enable "Outscale"
+  - In "Cluster Management", "Cloud Credentials", click on "Create", select "Outscale", submit and fill the informations
+  - In "Cluster Management", "Clusters", click on "Create", select "outscale"
+    - Specify the "supportOmi" (check [Official OMIs Reference](https://docs.outscale.com/en/userguide/Official-OMIs-Reference.html))
+    - Set "tinav5.c3r4p1" as "instanceType" (check [Instance Types](https://docs.outscale.com/en/userguide/Instance-Types.html))
 
 ### RKE2 troubleshooting
 
-* Open Rancher
-  * In "Cluster Management", "Clusters", click on the cluster, in the Machine Pool line click on the menu and select "Download SSH Key"
+- Open Rancher
+  - In "Cluster Management", "Clusters", click on the cluster, in the Machine Pool line click on the menu and select "Download SSH Key"
 
-* Open [new.cockpit.outscale.com](https://new.cockpit.outscale.com/)
-  * In "Compute", "VMs", in the VM line, copy the "Public IP" value
+- Open [new.cockpit.outscale.com](https://new.cockpit.outscale.com/)
+  - In "Compute", "VMs", in the VM line, copy the "Public IP" value
 
-* Open a terminal
+- Open a terminal
 
 ```bash
 # makes sure ssh files have the right permission
@@ -68,7 +68,7 @@ ssh -i /path/to/ssh/id_rsa <public_ip> -l outscale
 # example: ssh -i /mnt/c/Users/SomeUser/workspace/temp/osc-dummy01-pool1-xxxxxx-yyyy/id_rsa 1.2.3.4 -l outscale
 ```
 
-* Investigate potential issues
+- Investigate potential issues
 
 ```bash
 journalctl -xefu rke2-server
@@ -89,34 +89,34 @@ kubectl get pods --all-namespaces
 
 ### Network
 
-* Virtual Private Clouds
-* External IPs
-* Flexible Network Interfaces
-* Load Balancing Unit
-* VPN Connections
-* DirectLink
-* OUTSCALE Public IPs
-* OUTSCALE NTP Servers
+- Virtual Private Clouds
+- External IPs
+- Flexible Network Interfaces
+- Load Balancing Unit
+- VPN Connections
+- DirectLink
+- OUTSCALE Public IPs
+- OUTSCALE NTP Servers
 
 Ref. [docs](https://docs.outscale.com/en/userguide/Network-and-Security.html)
 
 ### Storage
 
-* [Block Storage Unit](https://docs.outscale.com/en/userguide/Block-Storage-Unit-BSU.html)
-* [OUTSCALE Object Storage](https://docs.outscale.com/en/userguide/OUTSCALE-Object-Storage-OOS.html)
+- [Block Storage Unit](https://docs.outscale.com/en/userguide/Block-Storage-Unit-BSU.html)
+- [OUTSCALE Object Storage](https://docs.outscale.com/en/userguide/OUTSCALE-Object-Storage-OOS.html)
 
 ### Compute
 
-* [Flexible Compute Unit](https://docs.outscale.com/en/userguide/Flexible-Compute-Unit-FCU.html)
-* [OUTSCALE Machine Images](https://docs.outscale.com/en/userguide/OUTSCALE-Machine-Images-OMIs.html)
-* [Flexible GPUs](https://docs.outscale.com/en/userguide/Flexible-GPUs-fGPUs.html)
+- [Flexible Compute Unit](https://docs.outscale.com/en/userguide/Flexible-Compute-Unit-FCU.html)
+- [OUTSCALE Machine Images](https://docs.outscale.com/en/userguide/OUTSCALE-Machine-Images-OMIs.html)
+- [Flexible GPUs](https://docs.outscale.com/en/userguide/Flexible-GPUs-fGPUs.html)
 
 ## Open-source projects
 
 ### Kubernetes
 
 Name                                                                                | Links
-------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------|------
 [BSU CSI driver](https://github.com/outscale/osc-bsu-csi-driver)                    | -
 [Cloud Controller Manager](https://github.com/outscale/cloud-provider-osc)          | -
 [Cluster API Provider](https://github.com/outscale/cluster-api-provider-outscale)   | [Book](https://cluster-api-outscale.oos-website.eu-west-2.outscale.com/)
@@ -127,13 +127,13 @@ Name                                                                            
 
 #### Cloud Controller Manager
 
-* Install from Helm ([code](https://github.com/outscale/cloud-provider-osc/tree/OSC-MIGRATION/deploy/k8s-osc-ccm), [ArtifactHub](https://artifacthub.io/packages/helm/osc-cloud-controller-manager/osc-cloud-controller-manager))
+- Install from Helm ([code](https://github.com/outscale/cloud-provider-osc/tree/OSC-MIGRATION/deploy/k8s-osc-ccm), [ArtifactHub](https://artifacthub.io/packages/helm/osc-cloud-controller-manager/osc-cloud-controller-manager))
 
 ```bash
 helm install my-osc-cloud-controller-manager oci://registry-1.docker.io/outscalehelm/osc-cloud-controller-manager
 ```
 
-* Use annotations ([examples](https://github.com/outscale/cloud-provider-osc/tree/OSC-MIGRATION/examples))
+- Use annotations ([examples](https://github.com/outscale/cloud-provider-osc/tree/OSC-MIGRATION/examples))
 
 ```yaml
 # Service example
@@ -150,18 +150,18 @@ TODO
 
 ### Cloud
 
-* [Frieza](https://github.com/outscale/frieza)
+- [Frieza](https://github.com/outscale/frieza)
 
 ## Closed-source software
 
 ### Tina OS
 
-* [TINA OS Cloud Orchestrator](https://en.outscale.com/pourquoi-outscale/tina-os-cloud-orchestrator/)
+- [TINA OS Cloud Orchestrator](https://en.outscale.com/pourquoi-outscale/tina-os-cloud-orchestrator/)
 
 ## Glossary
 
 Name | Meaning
------|----------------------------
+-----|--------
 AK   | Account Key
 BSU  | Block Storage Unit
 CAPI | Cluster API

@@ -6,4 +6,4 @@
 
 ## Related content
 
-* [`ansible-galaxy` (CLI)](https://everyday-cheatsheets.docs.devpro.fr/run/infrastructure-automation/ansible/ansible-cli#ansible-galaxy)
+- [`ansible-galaxy` (CLI)](https://everyday-cheatsheets.docs.devpro.fr/run/infrastructure-automation/ansible/ansible-cli#ansible-galaxy)

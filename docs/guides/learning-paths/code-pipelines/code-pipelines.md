@@ -5,7 +5,7 @@ Let's explore different tools to implement CI pipelines!
 ## Platforms
 
 Platform                              | Typology
---------------------------------------|------------------------
+--------------------------------------|---------
 Azure DevOps                          | Cloud
 [Bamboo Data Center](bamboo.md)       | Self-hosted (container)
 [Bitbucket Cloud](bitbucket-cloud.md) | Cloud

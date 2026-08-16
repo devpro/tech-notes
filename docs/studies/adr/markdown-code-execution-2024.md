@@ -15,7 +15,7 @@ As a technical writer, I want to be able to execute the code blocks included in 
 ## Considered options
 
 Name            | Source code                                                                                       | IDE
-----------------|---------------------------------------------------------------------------------------------------|-------------------
+----------------|---------------------------------------------------------------------------------------------------|----
 **Runme**       | [coder/code-server](https://github.com/coder/code-server) _★ 1.1k_                                | Visual Studio Code
 **Code Runner** | [formulahendry/vscode-code-runner](https://github.com/formulahendry/vscode-code-runner)  _★ 2.2k_ | Visual Studio Code
 

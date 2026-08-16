@@ -15,7 +15,7 @@ Community forks like **AlmaLinux** and **Rocky Linux** now carry the original "s
 ## Project Structure & Governance
 
 Aspect                | Details
-----------------------|-----------------------------------------------------------------------------------------------------------------------------------------------
+----------------------|--------
 **Lead Organization** | Red Hat (IBM subsidiary) – primary sponsor [since January 2014](https://www.redhat.com/en/about/press-releases/red-hat-and-centos-join-forces)
 **Governance**        | CentOS Governing Board (CGB) with community and Red Hat representatives
 **Development Model** | Open source; code hosted on [git.centos.org](https://git.centos.org/)
@@ -31,7 +31,7 @@ Aspect                | Details
 ## Variants & Timeline
 
 Variant                           | Status          | Release Model                    | Notes
-----------------------------------|-----------------|----------------------------------|------------------------------------------------------------------------
+----------------------------------|-----------------|----------------------------------|------
 **CentOS Linux** (version 1 to 8) | **End of Life** | Point releases (10-year support) | Rebuilt 1:1 from RHEL sources; last stable version: CentOS 8 (EOL 2021)
 **CentOS Stream**                 | **Active**      | Continuous delivery (rolling)    | Positioned *between* Fedora and RHEL; used for RHEL development testing
 
@@ -42,7 +42,7 @@ Variant                           | Status          | Release Model             
 ## Relationship with Other Entities
 
 Entity               | Relationship
----------------------|-------------------------------------------------------------------------------
+---------------------|-------------
 **Red Hat**          | Primary sponsor, employer of core developers, trademark holder
 **Linux Foundation** | No formal affiliation; CentOS participates in events and collaborates on tools
 **Fedora Project**   | Upstream influence; CentOS Stream sits downstream of Fedora
@@ -51,6 +51,6 @@ Entity               | Relationship
 ## Alternatives (RHEL-Compatible)
 
 Distribution    | Governance                           | Support Model   | Website
-----------------|--------------------------------------|-----------------|------------------------------------------
+----------------|--------------------------------------|-----------------|--------
 **AlmaLinux**   | AlmaLinux OS Foundation (non-profit) | 10-year support | [almalinux.org](https://almalinux.org/)
 **Rocky Linux** | Rocky Enterprise Software Foundation | 10-year support | [rockylinux.org](https://rockylinux.org/)

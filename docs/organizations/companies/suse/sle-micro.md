@@ -9,9 +9,9 @@
 
 ### Edge Image Builder (EIB)
 
-* [suse-edge/edge-image-builder](https://github.com/suse-edge/edge-image-builder)
+- [suse-edge/edge-image-builder](https://github.com/suse-edge/edge-image-builder)
 
 ### Combustion
 
-* [Configuring with Combustion](https://documentation.suse.com/sle-micro/5.5/html/SLE-Micro-all/cha-images-combustion.html)
-* [Ignition & Combustion Config Generator](https://opensuse.github.io/fuel-ignition/)
+- [Configuring with Combustion](https://documentation.suse.com/sle-micro/5.5/html/SLE-Micro-all/cha-images-combustion.html)
+- [Ignition & Combustion Config Generator](https://opensuse.github.io/fuel-ignition/)

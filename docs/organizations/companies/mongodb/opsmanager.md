@@ -6,10 +6,10 @@
 
 ## Learn
 
-* [Architecture](https://www.mongodb.com/docs/ops-manager/current/core/system-overview/)
-* [Configuration Settings](https://www.mongodb.com/docs/ops-manager/current/reference/configuration/)
-* [Example Deployment Architectures](https://www.mongodb.com/docs/ops-manager/current/core/deployments/)
+- [Architecture](https://www.mongodb.com/docs/ops-manager/current/core/system-overview/)
+- [Configuration Settings](https://www.mongodb.com/docs/ops-manager/current/reference/configuration/)
+- [Example Deployment Architectures](https://www.mongodb.com/docs/ops-manager/current/core/deployments/)
 
 ## Recipes
 
-* [Installation on CentOS](https://github.com/devpro/simple-howtos/blob/master/mongodb/opsmanager-installation-centos.md)
+- [Installation on CentOS](https://github.com/devpro/simple-howtos/blob/master/mongodb/opsmanager-installation-centos.md)

@@ -2,13 +2,15 @@
 
 ## SUSE Linux Enterprise Desktop
 
-> Designed for mixed environments and includes a complete suite of required business applications to support employees' productivity. SLE Desktop shares the core of SUSE Linux Enterprise Server and is equipped with enhanced security providing unparalleled protection of valuable enterprise data.
+> Designed for mixed environments and includes a complete suite of required business applications to support employees' productivity.
+> SLE Desktop shares the core of SUSE Linux Enterprise Server and is equipped with enhanced security providing unparalleled protection of valuable enterprise data.
 
 → [suse.com/products/desktop](https://www.suse.com/products/desktop/)
 
 ## SUSE Linux Enterprise Micro
 
-> SUSE Linux Enterprise (SLE) Micro is an ultra-reliable, lightweight operating system purpose built for containerized and virtualized workloads. It leverages the enterprise hardened security and compliance components of SUSE Linux Enterprise and merges them with a modern, immutable, developer-friendly OS platform.
+> SUSE Linux Enterprise (SLE) Micro is an ultra-reliable, lightweight operating system purpose built for containerized and virtualized workloads.
+> It leverages the enterprise hardened security and compliance components of SUSE Linux Enterprise and merges them with a modern, immutable, developer-friendly OS platform.
 
 → [suse.com/products/micro](https://www.suse.com/products/micro/)
 
@@ -22,7 +24,7 @@
 
 ### Quickstart
 
-* Basic commands
+- Basic commands
 
 ```bash
 # displays system version
@@ -41,14 +43,14 @@ su -c 'date -s "11 DEC 2022 21:30:00"'
 su -c 'shutdown now'
 ```
 
-* Text editors
+- Text editors
 
 ```bash
 # installs vi
 zypper install vi
 ```
 
-* Time Synchronization with NTP (Network Time Protocol) ([docs](https://documentation.suse.com/sles/15-SP3/html/SLES-all/cha-ntp.html))
+- Time Synchronization with NTP (Network Time Protocol) ([docs](https://documentation.suse.com/sles/15-SP3/html/SLES-all/cha-ntp.html))
 
 ```bash
 # installs chrony
@@ -62,7 +64,7 @@ systemctl start chronyd.service
 systemctl enable chronyd.service
 ```
 
-* Hostname
+- Hostname
 
 ```bash
 # updates hostname
@@ -72,7 +74,7 @@ hostnamectl set-hostname <new_name>
 hostname
 ```
 
-* Static IP Address
+- Static IP Address
 
 ```bash
 # edits network interface configuration
@@ -88,7 +90,7 @@ more /etc/sysconfig/network/routes
 more /etc/resolv.conf
 ```
 
-* Enable SSH
+- Enable SSH
 
 ```bash
 # switches to root account

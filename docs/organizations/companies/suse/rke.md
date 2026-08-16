@@ -6,11 +6,11 @@
 
 ## Quick start
 
-* [RKE Kubernetes Installation](https://rancher.com/docs/rke/latest/en/installation/)
+- [RKE Kubernetes Installation](https://rancher.com/docs/rke/latest/en/installation/)
 
 ## Components
 
-* cri-dockerd
-* etcd
-* NGINX Ingress Controller
-* Canal
+- cri-dockerd
+- etcd
+- NGINX Ingress Controller
+- Canal

@@ -9,4 +9,4 @@
 
 ### Courses
 
-* [Nutanix Enterprise AI Administration (NAIA)](https://university.nutanix.com/course?course_id=6881bd9d98aee3ad342b0efc)
+- [Nutanix Enterprise AI Administration (NAIA)](https://university.nutanix.com/course?course_id=6881bd9d98aee3ad342b0efc)

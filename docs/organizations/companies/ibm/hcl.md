@@ -4,4 +4,4 @@
 
 ## Learn
 
-* [Configuration Syntax](https://www.terraform.io/docs/configuration/syntax.html)
+- [Configuration Syntax](https://www.terraform.io/docs/configuration/syntax.html)

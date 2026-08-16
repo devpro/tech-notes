@@ -11,14 +11,14 @@
 
 Single binary:
 
-* [containerd](https://containerd.io/)
-* [flannel](https://github.com/flannel-io/flannel)
-* [CoreDNS](https://coredns.io/)
-* iptables
-* [SQLite](https://www.sqlite.org/)
-* [klipper-lb](https://github.com/k3s-io/klipper-lb)
-* [Helm](https://helm.sh/)
-* [traefik](https://traefik.io/) Ingress Controller
+- [containerd](https://containerd.io/)
+- [flannel](https://github.com/flannel-io/flannel)
+- [CoreDNS](https://coredns.io/)
+- iptables
+- [SQLite](https://www.sqlite.org/)
+- [klipper-lb](https://github.com/k3s-io/klipper-lb)
+- [Helm](https://helm.sh/)
+- [traefik](https://traefik.io/) Ingress Controller
 
 ## Quick start
 
@@ -40,13 +40,13 @@ k3d cluster delete firstcluster
 
 ## Knowledge
 
-* [Advanced Options and Configuration](https://rancher.com/docs/k3s/latest/en/advanced/)
-  * Auto-deploying manifests
+- [Advanced Options and Configuration](https://rancher.com/docs/k3s/latest/en/advanced/)
+  - Auto-deploying manifests
 
 ## Cluster API
 
-* [zawachte/cluster-api-k3s](https://github.com/zawachte/cluster-api-k3s)
+- [zawachte/cluster-api-k3s](https://github.com/zawachte/cluster-api-k3s)
 
 ## Infrastructure automation (IaC)
 
-* [rlex/ansible-role-k3s](https://github.com/rlex/ansible-role-k3s)
+- [rlex/ansible-role-k3s](https://github.com/rlex/ansible-role-k3s)

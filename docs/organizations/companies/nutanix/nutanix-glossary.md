@@ -1,7 +1,7 @@
 ﻿# Glossary
 
 Name | Meaning
------|---------------------------------------
+-----|--------
 AHV  | [Nutanix Acropolis Hypervisor](ahv.md)
 AOS  | Nutanix Acropolis Operating System
 NAI  | [Nutanix Enterprise AI](nai.md)

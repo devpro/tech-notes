@@ -6,4 +6,4 @@
 
 ## Listing
 
-* [docs.ansible.com](https://docs.ansible.com/ansible/latest/collections/index.html)
+- [docs.ansible.com](https://docs.ansible.com/ansible/latest/collections/index.html)

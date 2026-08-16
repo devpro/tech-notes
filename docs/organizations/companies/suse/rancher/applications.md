@@ -19,11 +19,11 @@ https://raw.githubusercontent.com/rancher/partner-extensions/gh-pages/index.yaml
 
 ### Official charts
 
-* Helm chart codebase for Rancher 2.8: [rancher/charts](https://github.com/rancher/charts/tree/release-v2.8/charts)
+- Helm chart codebase for Rancher 2.8: [rancher/charts](https://github.com/rancher/charts/tree/release-v2.8/charts)
 
-* Helm chart repository for Rancher Prime: [charts.rancher.com/server-charts/prime](https://charts.rancher.com/server-charts/prime)
+- Helm chart repository for Rancher Prime: [charts.rancher.com/server-charts/prime](https://charts.rancher.com/server-charts/prime)
 
-* Helm CLI
+- Helm CLI
 
 ```bash
 helm repo add rancher-charts https://charts.rancher.io
@@ -32,4 +32,4 @@ helm upgrade --install --namespace xxxx yyyy rancher-charts/yyyy --create-namesp
 
 ### Partner charts
 
-* Repository for Partner charts: [rancher/partner-charts](https://github.com/rancher/partner-charts/tree/main-source/charts)
+- Repository for Partner charts: [rancher/partner-charts](https://github.com/rancher/partner-charts/tree/main-source/charts)

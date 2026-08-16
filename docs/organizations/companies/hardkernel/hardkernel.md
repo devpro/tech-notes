@@ -4,4 +4,4 @@
 
 ## Instructions
 
-* [ODROID on Ubuntu](odroid-ubuntu.md)
+- [ODROID on Ubuntu](odroid-ubuntu.md)

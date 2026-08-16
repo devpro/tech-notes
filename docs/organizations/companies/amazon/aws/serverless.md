@@ -2,7 +2,7 @@
 
 ## Guides
 
-* [AWS Serverless Developer Guide](https://docs.aws.amazon.com/serverless/latest/devguide/welcome.html)
+- [AWS Serverless Developer Guide](https://docs.aws.amazon.com/serverless/latest/devguide/welcome.html)
 
 ## Products
 

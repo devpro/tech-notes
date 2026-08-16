@@ -8,11 +8,11 @@
 
 ## Activity
 
-* Amazon Store
-* Delivery and Logistics
-* Devices and Services
-* [Amazon Web Services (AWS)](aws/aws.md)
-* Entertainment
+- Amazon Store
+- Delivery and Logistics
+- Devices and Services
+- [Amazon Web Services (AWS)](aws/aws.md)
+- Entertainment
 
 ## Culture
 
@@ -22,10 +22,10 @@
 
 Amazon is guided by four principles:
 
-* Customer obsession (rather than competitor focus)
-* Passion for invention
-* Commitment to operational excellence
-* Long-term thinking
+- Customer obsession (rather than competitor focus)
+- Passion for invention
+- Commitment to operational excellence
+- Long-term thinking
 
 ### Interviewing
 
@@ -37,7 +37,7 @@ Amazon is guided by four principles:
 [Interview Prep Guide](https://www.youtube.com/watch?v=Q2YyN9qbpD8)
 
 Position                 | Links
--------------------------|-----------------------------------------------------------------------------
+-------------------------|------
 Solutions Architect (SA) | [FooBar Serverless](https://www.youtube.com/watch?app=desktop&v=oBtPxxeP4ps)
 
 ### Leadership principles
@@ -45,7 +45,7 @@ Solutions Architect (SA) | [FooBar Serverless](https://www.youtube.com/watch?app
 The [Leadership Principles](https://www.aboutamazon.com/about-us/leadership-principles) describe how Amazon does business & how leaders lead.
 
 Principle                                    | Links
----------------------------------------------|-------------------------------------------------------------
+---------------------------------------------|------
 Customer Obsession                           | [Inside Amazon](https://www.youtube.com/watch?v=KZY8XxIOKtI)
 Ownership                                    | [Inside Amazon](https://www.youtube.com/watch?v=CAFpWMUre3Q)
 Invent and Simplify                          | [Inside Amazon](https://www.youtube.com/watch?v=qHrguXZNqlM)
@@ -70,7 +70,7 @@ Success and Scale Bring Broad Responsibility | [Inside Amazon](https://www.youtu
 This is a method for behavioral-based interview questions.
 
 Subject   | What to describe
-----------|--------------------------------------------------------------------------------------------------------------------------
+----------|-----------------
 SITUATION | The situation or task to do, with enough details for the interviewer to understand the complexities of the situation
 TASK      | The goal
 ACTION    | The actions taken, with some level of detail (steps, contribution, what was done and not done)

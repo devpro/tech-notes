@@ -8,4 +8,4 @@
 
 ### Harness CD Community
 
-* [Harness Launches Source Available Continuous Delivery](https://harness.io/blog/harness-launches-source-available-continuous-delivery/) - January 19, 2022
+- [Harness Launches Source Available Continuous Delivery](https://harness.io/blog/harness-launches-source-available-continuous-delivery/) - January 19, 2022

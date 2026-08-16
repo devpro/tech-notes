@@ -4,4 +4,4 @@ Compute platforms are hardware architectures designed for various computing task
 
 ## Platform types
 
-* [Single-board computers (SBC)](sbc.md)
+- [Single-board computers (SBC)](sbc.md)

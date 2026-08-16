@@ -8,24 +8,25 @@
 
 ### History
 
-* **2017**: Microsoft introduced the SharePoint Framework as the recommended way to customize and extend SharePoint Online
+- **2017**: Microsoft introduced the SharePoint Framework as the recommended way to customize and extend SharePoint Online
 
 ### Key elements
 
-* SharePoint Framework is modern client-side development
-* [**Extensions**](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions)
-  * Types: Application customizers, Field customizers, Command sets
-* **Workbench**: a special SharePoint page that contains a single canvas that developers can add their web parts to. There are two different workbench options: local and hosted.
-* **Web parts**
-  * Property pane
-    * The property pane has two different modes: reactive and non-reactive
-* JavaScript agnostic but can be used with a framework (React in particular)
+- SharePoint Framework is modern client-side development
+- [**Extensions**](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/extensions/overview-extensions)
+  - Types: Application customizers, Field customizers, Command sets
+- **Workbench**: a special SharePoint page that contains a single canvas that developers can add their web parts to.
+  There are two different workbench options: local and hosted.
+- **Web parts**
+  - Property pane
+    - The property pane has two different modes: reactive and non-reactive
+- JavaScript agnostic but can be used with a framework (React in particular)
 
 Read further: [SharePoint Framework UI components](./spfx-ui-components.md)
 
 ### Quick start
 
-* [Set up your Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+- [Set up your Microsoft 365 tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
 
 ### Learning path
 
@@ -51,29 +52,29 @@ Read further: [SharePoint Framework UI components](./spfx-ui-components.md)
 
 ### Code samples
 
-* [Microsoft 365 Patterns and Practices (PnP)](https://pnp.github.io/)
-  * [pnp/sp-starter-kit](https://github.com/pnp/sp-starter-kit)
-  * [PnP SharePoint Framework Client-Side Extension Samples](https://pnp.github.io/sp-dev-fx-extensions/)
-    * [pnp/sp-dev-fx-extensions](https://github.com/pnp/sp-dev-fx-extensions)
-  * [PnP SharePoint Framework Client-Side Web Part Samples](https://pnp.github.io/sp-dev-fx-webparts/)
-    * [pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
-  * [pnp/sp-dev-fx-library-components](https://github.com/pnp/sp-dev-fx-library-components)
+- [Microsoft 365 Patterns and Practices (PnP)](https://pnp.github.io/)
+  - [pnp/sp-starter-kit](https://github.com/pnp/sp-starter-kit)
+  - [PnP SharePoint Framework Client-Side Extension Samples](https://pnp.github.io/sp-dev-fx-extensions/)
+    - [pnp/sp-dev-fx-extensions](https://github.com/pnp/sp-dev-fx-extensions)
+  - [PnP SharePoint Framework Client-Side Web Part Samples](https://pnp.github.io/sp-dev-fx-webparts/)
+    - [pnp/sp-dev-fx-webparts](https://github.com/pnp/sp-dev-fx-webparts)
+  - [pnp/sp-dev-fx-library-components](https://github.com/pnp/sp-dev-fx-library-components)
 
 ### Usecases
 
 #### Persistence
 
-* [Improve performance in SharePoint provider-hosted add-ins](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/improve-performance-in-sharepoint-provider-hosted-add-ins)
+- [Improve performance in SharePoint provider-hosted add-ins](https://docs.microsoft.com/en-us/sharepoint/dev/solution-guidance/improve-performance-in-sharepoint-provider-hosted-add-ins)
 
 #### API calls
 
-* [Connect to Azure AD-secured APIs in SharePoint Framework solutions](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient)
-* [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
+- [Connect to Azure AD-secured APIs in SharePoint Framework solutions](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/use-aadhttpclient)
+- [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
 
 #### Logging
 
-* Default logging works on local workbench but not on SharePoint Online workbench
-  * Install the PnP library
+- Default logging works on local workbench but not on SharePoint Online workbench
+  - Install the PnP library
 
 ```bash
 npm install @pnp/logging
@@ -85,7 +86,7 @@ npm install @pnp/logging
 
 ### Command line
 
-* [NPM](./npm.md)
+- [NPM](./npm.md)
 
 ```bash
 # installs Yeoman
@@ -98,16 +99,16 @@ npm install --global gulp
 npm install --global @microsoft/generator-sharepoint
 ```
 
-* [Microsoft SPFx Yeoman generator](https://www.npmjs.com/package/@microsoft/generator-sharepoint)
+- [Microsoft SPFx Yeoman generator](https://www.npmjs.com/package/@microsoft/generator-sharepoint)
 
 ```bash
 # creates a SharePoint Framework client-side web part
 yo @microsoft/sharepoint
 ```
 
-* [PnP SPFx Yeoman generator](https://pnp.github.io/generator-spfx/) ([GitHub](https://github.com/pnp/generator-spfx/))
+- [PnP SPFx Yeoman generator](https://pnp.github.io/generator-spfx/) ([GitHub](https://github.com/pnp/generator-spfx/))
 
-* Gulp
+- Gulp
 
 ```bash
 # builds local resources
@@ -135,4 +136,4 @@ Read more about Gulp commands: [Explore a SharePoint Framework project](https://
 
 ### Deployment
 
-* [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
+- [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)

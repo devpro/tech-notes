@@ -1,5 +1,6 @@
 # Unleash
 
-> Feature management lets you turn new features on/off in production with no need for redeployment. A software development best practice for releasing and validating new features.
+> Feature management lets you turn new features on/off in production with no need for redeployment.
+> A software development best practice for releasing and validating new features.
 
 🌐 [getunleash.io](https://www.getunleash.io/), [code](https://github.com/Unleash/unleash), [docs](https://docs.getunleash.io/)

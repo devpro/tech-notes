@@ -75,7 +75,7 @@
 🌐 [docs/user/application_security/policies](https://docs.gitlab.com/user/application_security/policies/)
 
 Name                                                                                          | Action
-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------|-------
 Scan execution policy                                                                         | Enforce security scans, either as part of the pipeline or on a specified schedule
 Merge request approval policy                                                                 | Enforce project-level settings and approval rules based on scan results
 Pipeline execution policy                                                                     | Enforce CI/CD jobs as part of project pipelines

@@ -15,4 +15,4 @@ Registry                                                                        
 
 ### Azure
 
-* [Announcing Terraform AzureAD Provider 2.0](https://www.hashicorp.com/blog/announcing-terraform-azuread-provider-2-0) - August 26, 2021
+- [Announcing Terraform AzureAD Provider 2.0](https://www.hashicorp.com/blog/announcing-terraform-azuread-provider-2-0) - August 26, 2021

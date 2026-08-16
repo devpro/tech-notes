@@ -5,7 +5,7 @@
 Spin up a local Kubernetes cluster for hands-on drills.
 
 ## Troubleshooting scenarios
-  
+
 Break things intentionally by killing pods or spiking CPU usage to simulate failures.
 
 Fix quickly:

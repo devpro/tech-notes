@@ -4,4 +4,4 @@
 
 ## Learn
 
-* [CNCF On-Demand Webinar: Kong Ingress Controller - Kubernetes Ingress On Steroids](https://community.cncf.io/events/details/cncf-cncf-online-programs-presents-cncf-on-demand-webinar-kong-ingress-controller-kubernetes-ingress-on-steroids/) - September 23, 2021
+- [CNCF On-Demand Webinar: Kong Ingress Controller - Kubernetes Ingress On Steroids](https://community.cncf.io/events/details/cncf-cncf-online-programs-presents-cncf-on-demand-webinar-kong-ingress-controller-kubernetes-ingress-on-steroids/) - September 23, 2021

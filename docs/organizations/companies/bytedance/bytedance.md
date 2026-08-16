@@ -8,4 +8,4 @@
 
 ### Open Source projects
 
-* [Rspack](rspack.md)
+- [Rspack](rspack.md)

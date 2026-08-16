@@ -6,8 +6,8 @@
 
 ## Samples
 
-* [yhatt/marp-basic-example](https://speakerdeck.com/yhatt/marp-basic-example)
+- [yhatt/marp-basic-example](https://speakerdeck.com/yhatt/marp-basic-example)
 
 ## Recipes
 
-* Center images: [Issue#141](https://github.com/marp-team/marpit/issues/141#issuecomment-473204518)
+- Center images: [Issue#141](https://github.com/marp-team/marpit/issues/141#issuecomment-473204518)

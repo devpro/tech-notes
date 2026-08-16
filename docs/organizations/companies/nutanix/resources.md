@@ -5,7 +5,7 @@
 ## Content
 
 Name             | Link
------------------|---------------------------------------------------------------------------------
+-----------------|-----
 Blog             | [nutanix.com/blog](https://www.nutanix.com/blog)
 Community        | [next.nutanix.com](https://next.nutanix.com/)
 Developer Portal | [nutanix.dev](https://www.nutanix.dev/)
@@ -16,15 +16,15 @@ Videos           | [youtube.com/@Nutanix](https://www.youtube.com/@Nutanix)
 
 ## Social networking
 
-* [LinkedIn](https://www.linkedin.com/company/nutanix/)
-* [X](https://x.com/nutanix)
-  * [Life At Nutanix](https://x.com/LifeAtNutanix)
-  * [Nutanix Community](https://x.com/NutanixNation)
-  * [Nutanix EMEA](https://x.com/Nutanix_EMEA)
-  * [Nutanix Partners](https://x.com/NutanixPartners)
-* [YouTube](https://www.youtube.com/@Nutanix)
-  * [Nutanix University](https://www.youtube.com/@NutanixUniversity)
+- [LinkedIn](https://www.linkedin.com/company/nutanix/)
+- [X](https://x.com/nutanix)
+  - [Life At Nutanix](https://x.com/LifeAtNutanix)
+  - [Nutanix Community](https://x.com/NutanixNation)
+  - [Nutanix EMEA](https://x.com/Nutanix_EMEA)
+  - [Nutanix Partners](https://x.com/NutanixPartners)
+- [YouTube](https://www.youtube.com/@Nutanix)
+  - [Nutanix University](https://www.youtube.com/@NutanixUniversity)
 
 ## Others
 
-* [Spotify podcasts](https://open.spotify.com/show/7IToyxxs2HITEvurNFY21e?si=ce1d213715f64d96)
+- [Spotify podcasts](https://open.spotify.com/show/7IToyxxs2HITEvurNFY21e?si=ce1d213715f64d96)

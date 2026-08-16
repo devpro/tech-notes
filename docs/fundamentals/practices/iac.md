@@ -4,12 +4,12 @@ Infrastructure-as-Code (IaC)
 
 ## Definitions
 
-* [Microsoft - What is Infrastructure as Code?](https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code)
+- [Microsoft - What is Infrastructure as Code?](https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code)
 
 ### Tools
 
 Name                   | Type                     | Technology | Archi        | Cloud? | Components
------------------------|--------------------------|------------|--------------|--------|-------------------
+-----------------------|--------------------------|------------|--------------|--------|-----------
 Ansible                | Configuration Management | Yaml       | Agentless    | All    | Modules, Playbooks
 Bicep                  |                          | Bicep      |              | Azure  | -
 Azure Resource Manager |                          | Json       |              | Azure  | -
@@ -21,7 +21,7 @@ Terraform              | Orchestration            | HCL, Go    |              | 
 ## Technologies
 
 Key Element                   | Terraform                                                                                                 | Ansible                                                             | Puppet
-------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------
+------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------
 **Purpose**                   | Infrastructure provisioning                                                                               | Configuration management and task automation                        | Configuration management and server automation
 **Architecture**              | Client-only, interacts directly with provider APIs                                                        | Agentless, uses SSH (or WinRM for Windows) for push-based execution | Client-server model with Puppet Server and agents (pull-based)
 **Language**                  | HCL (HashiCorp Configuration Language) or JSON                                                            | YAML (playbooks)                                                    | Puppet DSL (Ruby-based)

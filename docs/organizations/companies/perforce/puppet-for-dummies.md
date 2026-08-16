@@ -291,7 +291,8 @@ In order to assess proper end-to-end connectivity between the Puppet Server and 
 
 To figure out what shall be done one which server Puppet reads the site's manifest.
 
-The site.pp is located in the manifests folder. Each environment has the same layout.
+The site.pp is located in the manifests folder.
+Each environment has the same layout.
 
 Because we told the agent it belongs to the **production** environment, we'll be amending the manifest as follows on the puppet server box:
 

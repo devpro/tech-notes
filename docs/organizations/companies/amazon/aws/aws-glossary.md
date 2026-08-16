@@ -5,7 +5,7 @@
 ## General
 
 Name | Meaning
------|------------------------------------
+-----|--------
 ACE  | APN Customer Engagements
 APN  | AWS Partner Network
 GSI  | Global System Integrator
@@ -18,7 +18,7 @@ SBI  | Situation, Behavior, Impact
 ## Practices
 
 Name | Meaning
------|--------------------------------
+-----|--------
 CAF  | Cloud Adoption Framework
 EBA  | Experience-Based Acceleration
 MAP  | Migration Acceleration Program
@@ -38,7 +38,7 @@ Links:
 ## Technologies
 
 Name | Meaning
------|-------------------------------
+-----|--------
 AWS  | Amazon Web Services
 CDK  | Cloud Development Kit
 CLI  | Command Line Interface

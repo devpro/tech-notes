@@ -3,7 +3,7 @@
 ## File systems
 
 Types            | Description
------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------|------------
 FAT, VFAT, FAT32 | Older types, compatible with most operating systems (limited capabilities)
 EXFAT            | The latest in the FAT (File Allocation Table) family
 ext2, ext3       | These are older versions of the ext (extended) filesystem family. This used to be a native filesystem in Linux. It is still supported
@@ -15,7 +15,7 @@ btrfs            | This is a modern filesystem for Linux, aiming to implement ad
 ## Main directories
 
 Directory | Purpose
-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------|--------
 /         | Primary directory of the entire filesystem hierarchy
 /bin      | Essential executable programs to start and run the system. This directory is linked (shortcut) to /usr/bin
 /boot     | Files required to boot the system. The kernel and support files live here

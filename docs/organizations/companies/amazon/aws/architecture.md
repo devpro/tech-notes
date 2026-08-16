@@ -6,8 +6,8 @@
 
 Content:
 
-* [Cloud Foundations](https://aws.amazon.com/architecture/cloud-foundations/)
-* [Reference Architecture Diagrams](https://aws.amazon.com/architecture/reference-architecture-diagrams/)
+- [Cloud Foundations](https://aws.amazon.com/architecture/cloud-foundations/)
+- [Reference Architecture Diagrams](https://aws.amazon.com/architecture/reference-architecture-diagrams/)
 
 ## AWS Well-Architected
 
@@ -19,7 +19,7 @@ Content:
 ### Six Pillars
 
 Pillar                 | Links
------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------|------
 Operational Excellence | [docs](https://docs.aws.amazon.com/wellarchitected/latest/operational-excellence-pillar/welcome.html)
 Security               | [docs](https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/welcome.html)
 Reliability            | [docs](https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/welcome.html), [workshop](https://catalog.workshops.aws/well-architected-reliability/en-US)

@@ -6,22 +6,22 @@
 
 ### First installation
 
-* Follow the procedure given in the [Downloads](https://www.terraform.io/downloads.html) page (will depend on the operating system)
+- Follow the procedure given in the [Downloads](https://www.terraform.io/downloads.html) page (will depend on the operating system)
 
 ### Upgrade
 
-* Read the information given in the [Upgrade Guides](https://www.terraform.io/upgrade-guides/index.html) page (will depend on the version numbers)
+- Read the information given in the [Upgrade Guides](https://www.terraform.io/upgrade-guides/index.html) page (will depend on the version numbers)
 
 ## Getting started
 
-* [Use the Command Line Interface by HashiCorp](https://learn.hashicorp.com/collections/terraform/cli)
+- [Use the Command Line Interface by HashiCorp](https://learn.hashicorp.com/collections/terraform/cli)
 
 ## commands
 
 ### Generic commands
 
 Command                      | Action
------------------------------|--------------------------------------------------------
+-----------------------------|-------
 `terraform --version`        | Prints the Terraform version
 `terraform [command] --help` | Prints help message (general or specific to a command)
 `terraform apply`            | Builds or changes infrastructure

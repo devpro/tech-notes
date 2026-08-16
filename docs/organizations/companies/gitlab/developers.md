@@ -10,11 +10,11 @@
 
 ### IDE
 
-* [GitLab Workflow extension for Visual Studio Code](https://docs.gitlab.com/editor_extensions/visual_studio_code/) ([gitlab-org/gitlab-vscode-extension](https://gitlab.com/gitlab-org/gitlab-vscode-extension))
+- [GitLab Workflow extension for Visual Studio Code](https://docs.gitlab.com/editor_extensions/visual_studio_code/) ([gitlab-org/gitlab-vscode-extension](https://gitlab.com/gitlab-org/gitlab-vscode-extension))
 
 ### SDK
 
-* [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)
+- [GitLab Development Kit (GDK)](https://gitlab.com/gitlab-org/gitlab-development-kit)
 
 ### Rest API
 
@@ -36,8 +36,8 @@
 
 ### Remote development
 
-* [Web IDE](https://docs.gitlab.com/user/project/web_ide/)
-* [Workspaces](https://docs.gitlab.com/user/workspace/)
+- [Web IDE](https://docs.gitlab.com/user/project/web_ide/)
+- [Workspaces](https://docs.gitlab.com/user/workspace/)
 
 ### Data Seeder
 
@@ -54,7 +54,7 @@
 ### Software programming principles
 
 Acronym | Meaning
---------|-----------------------------------------------------------------------------------------------------
+--------|--------
 DRY     | Don't repeat yourself
 KISS    | Keep it simple stupid
 SOLID   | Single responsibility, open–closed, Liskov substitution, interface segregation, dependency inversion

@@ -6,8 +6,8 @@
 
 ## Design
 
-* [Architecture](https://elemental.docs.rancher.com/architecture/)
+- [Architecture](https://elemental.docs.rancher.com/architecture/)
 
 ## Presentations
 
-* [Global Online Meetup: Elemental](https://www.youtube.com/watch?v=-uenjgsxI5U) - July 19, 2023
+- [Global Online Meetup: Elemental](https://www.youtube.com/watch?v=-uenjgsxI5U) - July 19, 2023

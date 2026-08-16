@@ -1,3 +1,3 @@
 # Procedures
 
-* [Migrate git repositories](migrate-git-repos.md)
+- [Migrate git repositories](migrate-git-repos.md)

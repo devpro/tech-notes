@@ -6,7 +6,7 @@
 
 ## Learn
 
-- [meritis - Comment fonctionne Splunk ? [FR]](https://meritis.fr/comment-fonctionne-splunk/)
+- [meritis - Comment fonctionne Splunk [FR]](https://meritis.fr/comment-fonctionne-splunk/)
 
 ## Getting started
 

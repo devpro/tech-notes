@@ -6,21 +6,21 @@
 
 ## Executors
 
-* [Docker](https://docs.gitlab.com/runner/executors/docker/)
-* [Docker Machine](https://docs.gitlab.com/runner/executors/docker_machine/)
-* [Docker Autoscaler](https://docs.gitlab.com/runner/executors/docker_autoscaler/)
-* [Instance](https://docs.gitlab.com/runner/executors/instance/)
-* [Kubernetes](https://docs.gitlab.com/runner/executors/kubernetes/index/)
-* [Shell](https://docs.gitlab.com/runner/executors/shell/)
-* [SSH](https://docs.gitlab.com/runner/executors/ssh/)
-* [VirtualBox](https://docs.gitlab.com/runner/executors/virtualbox/)
+- [Docker](https://docs.gitlab.com/runner/executors/docker/)
+- [Docker Machine](https://docs.gitlab.com/runner/executors/docker_machine/)
+- [Docker Autoscaler](https://docs.gitlab.com/runner/executors/docker_autoscaler/)
+- [Instance](https://docs.gitlab.com/runner/executors/instance/)
+- [Kubernetes](https://docs.gitlab.com/runner/executors/kubernetes/index/)
+- [Shell](https://docs.gitlab.com/runner/executors/shell/)
+- [SSH](https://docs.gitlab.com/runner/executors/ssh/)
+- [VirtualBox](https://docs.gitlab.com/runner/executors/virtualbox/)
 
 ## Hosted runners
 
-* [Linux](https://docs.gitlab.com/ci/runners/hosted_runners/linux/)
-* [GPU-enabled (Linux)](https://docs.gitlab.com/ci/runners/hosted_runners/gpu_enabled/)
-* [macOS](https://docs.gitlab.com/ci/runners/hosted_runners/macos/)
-* [Windows](https://docs.gitlab.com/ci/runners/hosted_runners/windows/)
+- [Linux](https://docs.gitlab.com/ci/runners/hosted_runners/linux/)
+- [GPU-enabled (Linux)](https://docs.gitlab.com/ci/runners/hosted_runners/gpu_enabled/)
+- [macOS](https://docs.gitlab.com/ci/runners/hosted_runners/macos/)
+- [Windows](https://docs.gitlab.com/ci/runners/hosted_runners/windows/)
 
 ## Installation & maintenance
 
@@ -42,5 +42,5 @@
 
 ### Windows runner
 
-* [blog](https://about.gitlab.com/blog/2020/01/21/windows-shared-runner-beta/)
-* [Windows version support](https://docs.gitlab.com/runner/install/support-policy/#windows-version-support)
+- [blog](https://about.gitlab.com/blog/2020/01/21/windows-shared-runner-beta/)
+- [Windows version support](https://docs.gitlab.com/runner/install/support-policy/#windows-version-support)

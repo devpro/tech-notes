@@ -8,10 +8,10 @@ Travis CI build config processing: [GitHub](https://github.com/travis-ci/travis-
 
 ## Follow
 
-* [Blog](https://blog.travis-ci.com)
+- [Blog](https://blog.travis-ci.com)
 
 ## Experiment
 
 ### .NET code
 
-* [Documentation - Building a C# Project](https://docs.travis-ci.com/user/languages/csharp/)
+- [Documentation - Building a C# Project](https://docs.travis-ci.com/user/languages/csharp/)

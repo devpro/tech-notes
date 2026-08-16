@@ -11,7 +11,7 @@
 ## Commands
 
 Command                                  | Action
------------------------------------------|---------------------------------------------------------
+-----------------------------------------|-------
 `gcloud init`                            | Initialize, authorize, and configure the gcloud tool
 `gcloud cheat-sheet`                     | See a roster of go-to `gcloud` commands
 `gcloud config list`                     | Display all the properties for the current configuration

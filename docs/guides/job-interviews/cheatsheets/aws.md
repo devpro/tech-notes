@@ -27,7 +27,8 @@ aws cloudwatch put-metric-alarm --alarm-name HighCPU --metric-name CPUUtilizatio
 
 ## IAM and Security
 
-Fix misconfigured IAM roles. Check status and roles:
+Fix misconfigured IAM roles.
+Check status and roles:
 
 ```bash
 aws ec2 describe-instances

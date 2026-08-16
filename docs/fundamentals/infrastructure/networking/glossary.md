@@ -3,19 +3,19 @@
 ## Certifications
 
 Name | Meaning
------|----------------------------------
+-----|--------
 CCNA | Cisco Certified Network Associate
 
 ## Models
 
 Name | Meaning
------|-----------------------------
+-----|--------
 OSI  | Open Systems Interconnection
 
 ## Protocols
 
 Name     | Meaning                                    | Used In
----------|--------------------------------------------|------------------------
+---------|--------------------------------------------|--------
 802.1Q   | VLAN Tagging Standard                      | VLAN configuration
 BGP      | Border Gateway Protocol                    | Internet routing
 DHCP     | Dynamic Host Configuration Protocol        | IP address assignment

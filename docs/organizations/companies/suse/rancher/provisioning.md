@@ -2,8 +2,8 @@
 
 ## General features
 
-* [Launching Kubernetes with Rancher](https://docs.ranchermanager.rancher.io/pages-for-subheaders/launch-kubernetes-with-rancher)
-* [Cluster Management Resources](https://rancher.github.io/dashboard/code-base-works/cluster-management-resources)
+- [Launching Kubernetes with Rancher](https://docs.ranchermanager.rancher.io/pages-for-subheaders/launch-kubernetes-with-rancher)
+- [Cluster Management Resources](https://rancher.github.io/dashboard/code-base-works/cluster-management-resources)
 
 ## Provisioning logic
 
@@ -21,7 +21,8 @@ See also: [Kontainer Engine Example Driver](https://github.com/rancher-plugins/k
 
 #### Node drivers
 
-Drivers are [docker-machine](https://github.com/docker/machine) implementations for each provider, whether for RKE or RKE2/K3s. It is an API to create and delete VMs.
+Drivers are [docker-machine](https://github.com/docker/machine) implementations for each provider, whether for RKE or RKE2/K3s.
+It is an API to create and delete VMs.
 
 Built-in node drivers are defined in [rancher/machine](https://github.com/rancher/machine/tree/master/drivers).
 
@@ -66,7 +67,8 @@ RKE1 cluster template exist but doesn't allow node pool configuration or RBAC.
 
 RKE2/K3s cluster creation uses [Povisioning V2](https://github.com/rancher/rancher/tree/release/v2.7/pkg/controllers/provisioningv2)
 
-Rancher uses the Cluster API controllers and CRDs internally. But it wraps its own Cluster and other CRDs around it to make it "easier to use" and maybe add additional features necessary for Rancher.
+Rancher uses the Cluster API controllers and CRDs internally.
+But it wraps its own Cluster and other CRDs around it to make it "easier to use" and maybe add additional features necessary for Rancher.
 Rancher then bundles its own RKE2 Cluster API provider, which uses the same docker machine drivers to create and delete VMs.
 
 When a Cluster (provisioning.cattle.io/v1) is created, various CAPI objects are generated: RKECluster, RKEControlPlane, Cluster, RKEBootstrapTemplate, MachineDeployment and infra specific kinds like Amazonec2MachineTemplate.

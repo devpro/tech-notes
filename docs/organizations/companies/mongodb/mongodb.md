@@ -1,6 +1,7 @@
 ﻿# MongoDB
 
-> MongoDB empowers innovators with our modern database platform and integrated services. Our mission is to unleash the power of software and data, enabling development teams to meet the diverse needs of modern applications.
+> MongoDB empowers innovators with our modern database platform and integrated services.
+> Our mission is to unleash the power of software and data, enabling development teams to meet the diverse needs of modern applications.
 
 🌐 [mongodb.com](https://www.mongodb.com/), [Github](https://github.com/mongodb), [docs](https://www.mongodb.com/docs/)
 

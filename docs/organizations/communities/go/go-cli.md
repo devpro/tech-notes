@@ -5,7 +5,7 @@
 ## Usual commands
 
 Command                      | Action
------------------------------|-----------------------------------------------------------------------------------------------------------
+-----------------------------|-------
 `go version`                 | Displays version
 `go run .`                   | Executes the code
 `go build`                   | Compiles a code (creates an executable binary)

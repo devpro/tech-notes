@@ -6,4 +6,4 @@
 
 ## Tips
 
-* Enable admin account to use an Azure Container Registry in an Azure (DevOps) Pipeline: [Authenticate with an Azure container registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication#admin-account)
+- Enable admin account to use an Azure Container Registry in an Azure (DevOps) Pipeline: [Authenticate with an Azure container registry](https://docs.microsoft.com/en-us/azure/container-registry/container-registry-authentication#admin-account)

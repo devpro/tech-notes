@@ -4,4 +4,4 @@
 
 ## Open-source projects
 
-* [Calico](calico.md)
+- [Calico](calico.md)

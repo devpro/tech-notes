@@ -1,6 +1,7 @@
 # Concourse
 
-> Concourse is an open-source continuous thing-doer. Built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD.
+> Concourse is an open-source continuous thing-doer.
+> Built on the simple mechanics of resources, tasks, and jobs, Concourse presents a general approach to automation that makes it great for CI/CD.
 
 🌐 [concourse-ci.org](https://concourse-ci.org/), [GitHub](https://github.com/concourse/concourse), [docs](https://concourse-ci.org/docs.html)
 
@@ -47,7 +48,8 @@ docker-compose down --volumes
 
 - [A Pivotal Introduction to Concourse CI](https://www.youtube.com/watch?v=0bi_EWzhPvs&amp=&feature=youtu.be) - October 2, 2019
 - [Concourse CI 102 - Taylor Silva & Scott Foerster, Pivotal](https://www.youtube.com/watch?v=H-4pvC7t2AI) - Sep 19, 2019
-- [Concourse, Spinnaker, Cloud Foundry, Oh My! Creating Sophisticated Deployment Workflows - Cameron Stewart](https://www.slideshare.net/Pivotal/concourse-spinnaker-cloud-foundry-oh-my-creating-sophisticated-deployment-workflows-cameron-stewart) - Jun 17, 2019
+- [Concourse, Spinnaker, Cloud Foundry, Oh My!
+  Creating Sophisticated Deployment Workflows - Cameron Stewart](https://www.slideshare.net/Pivotal/concourse-spinnaker-cloud-foundry-oh-my-creating-sophisticated-deployment-workflows-cameron-stewart) - Jun 17, 2019
 - [Concourse ❤ Container Runtime - Topher Bullock, Pivotal](https://www.youtube.com/watch?v=NrYIt2cQZkg) - Apr 27, 2018
 - Introduction (French): [CD meetup](https://www.youtube.com/watch?v=IytJAamVdCs), [Devoxx](https://www.youtube.com/watch?v=moiSC3gmCew), [Paris Container Day](https://www.youtube.com/watch?v=Qv9FsIlyN-U) ([GitHub](https://github.com/Kehrlann/concourse-demo)) - March 22, 2018
 

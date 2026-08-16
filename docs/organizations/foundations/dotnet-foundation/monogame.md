@@ -1,6 +1,7 @@
 # MonoGame
 
-> MonoGame is an Open Source implementation of the Microsoft XNA 4 Framework. The goal is to allow people to make great games using a simple API.
+> MonoGame is an Open Source implementation of the Microsoft XNA 4 Framework.
+> The goal is to allow people to make great games using a simple API.
 
 🌐 [monogame.net](https://www.monogame.net/), [GitHub](https://github.com/MonoGame/MonoGame), [docs](https://docs.monogame.net/)
 
@@ -45,4 +46,5 @@
 
 - Open Pipeline program to edit `Content.mgcb` file (add existing items for instance).
 - Convert old fbx files:
-  - Download `fbx20133_converter_mac.pkg.tgz` from [fbx-sdk-2019-5m](https://www.autodesk.com/developer-network/platform-technologies/fbx-sdk-2019-5) (given by [fbx-converter-archives](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives), [doc](https://download.autodesk.com/us/fbx/2013/FBXconverter/index.html?url=files/GUID-4EACEBC7-E3C5-491C-B516-54AEEEF08B7A.htm,topicNumber=d30e369))
+  - Download `fbx20133_converter_mac.pkg.tgz` from [fbx-sdk-2019-5m](https://www.autodesk.com/developer-network/platform-technologies/fbx-sdk-2019-5) (given by [fbx-converter-archives](https://www.autodesk.com/developer-network/platform-technologies/fbx-converter-archives),
+    [doc](https://download.autodesk.com/us/fbx/2013/FBXconverter/index.html?url=files/GUID-4EACEBC7-E3C5-491C-B516-54AEEEF08B7A.htm,topicNumber=d30e369))

@@ -9,8 +9,8 @@
 
 ## Design
 
-* [Reference architectures](https://docs.gitlab.com/administration/reference_architectures/)
-* [Installation requirements](https://docs.gitlab.com/install/requirements/)
+- [Reference architectures](https://docs.gitlab.com/administration/reference_architectures/)
+- [Installation requirements](https://docs.gitlab.com/install/requirements/)
 
 ## Install
 
@@ -26,8 +26,8 @@ Omnibus GitLab is a customized fork of the Omnibus project from Chef.
 
 Images (on Docker Hub):
 
-* [gitlab/gitlab-ee](https://hub.docker.com/r/gitlab/gitlab-ee/)
-* [gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce/)
+- [gitlab/gitlab-ee](https://hub.docker.com/r/gitlab/gitlab-ee/)
+- [gitlab/gitlab-ce](https://hub.docker.com/r/gitlab/gitlab-ce/)
 
 ### Kubernetes
 
@@ -71,8 +71,8 @@ Images (on Docker Hub):
 
 Tools:
 
-* `gitlab-backup` for Linux package and Docker installation methods
-* `backup-utility` for Kubernetes installations
+- `gitlab-backup` for Linux package and Docker installation methods
+- `backup-utility` for Kubernetes installations
 
 ## Monitor
 

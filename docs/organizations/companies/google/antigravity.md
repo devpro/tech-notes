@@ -5,7 +5,7 @@
 ## Products
 
 Name            | Description
-----------------|---------------------------------------------------------------------------
+----------------|------------
 Antigravity 2.0 | Command center to manage multiple local agents in parallel
 Antigravity CLI | Lightweight, fast, terminal-first surface to work with Antigravity agents
 Antigravity IDE | Fully-featured, agentic IDE

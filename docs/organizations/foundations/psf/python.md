@@ -8,19 +8,19 @@
 
 ### Getting started
 
-* [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
-* [The Python Tutorial](https://docs.python.org/tutorial/index.html)
+- [Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide)
+- [The Python Tutorial](https://docs.python.org/tutorial/index.html)
 
 ### Training
 
-* [Python-Mini-Projects](https://github.com/Python-World/python-mini-projects)
+- [Python-Mini-Projects](https://github.com/Python-World/python-mini-projects)
 
 ## Step
 
 ### Installation
 
-* [Downloads](https://www.python.org/downloads/)
-* [How To Install Python 3 and Set Up a Programming Environment on an Ubuntu 20.04 Server](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server) (DigitalOcean) - October 29, 2021
+- [Downloads](https://www.python.org/downloads/)
+- [How To Install Python 3 and Set Up a Programming Environment on an Ubuntu 20.04 Server](https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-an-ubuntu-20-04-server) (DigitalOcean) - October 29, 2021
 
 ## Practice
 

@@ -6,17 +6,17 @@
 
 ## Content
 
-* [Git CLI](git-cli.md)
-* [Git Recipes](git-recipes.md)
+- [Git CLI](git-cli.md)
+- [Git Recipes](git-recipes.md)
 
 ## Education
 
-* [GitKraken > Learn Git](https://www.gitkraken.com/learn/git)
-* [Learn Git Branching](https://learngitbranching.js.org/)
+- [GitKraken > Learn Git](https://www.gitkraken.com/learn/git)
+- [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Branch management
 
-* [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy) by GitKraken
+- [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy) by GitKraken
 
 ### GitHub flow
 
@@ -25,6 +25,6 @@
 ## Tools
 
 Name                                    | Description
-----------------------------------------|-------------------------------------------------------------------------
+----------------------------------------|------------
 [GitKraken](https://www.gitkraken.com/) | Legendary Git GUI client for Windows, Mac & Linux
 [pre-commit](https://pre-commit.com/)   | A framework for managing and maintaining multi-language pre-commit hooks

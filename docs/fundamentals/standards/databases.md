@@ -7,10 +7,10 @@
 These use structured tables with fixed schemas, rows, and columns, queried via SQL.
 They excel in applications requiring complex joins and strong consistency.
 
-* MySQL / MariaDB
-* PostgreSQL
-* Oracle
-* Microsoft SQL Server
+- MySQL / MariaDB
+- PostgreSQL
+- Oracle
+- Microsoft SQL Server
 
 ### NoSQL Databases
 
@@ -22,33 +22,33 @@ They are subdivided into several types / subcategories.
 
 Stores data as semi-structured documents (e.g., JSON, BSON), ideal for hierarchical data in content management or real-time apps.
 
-* MongoDB
-* CouchDB
-* RavenDB
+- MongoDB
+- CouchDB
+- RavenDB
 
 #### Key-Value Stores
 
 Simple databases mapping keys to values, optimized for high-speed lookups like caching or session storage.
 
-* Redis
-* Amazon DynamoDB
-* Riak
+- Redis
+- Amazon DynamoDB
+- Riak
 
 #### Wide-Column Stores (Column-Family)
 
 Organize data in flexible columns within rows, optimized for read/write on massive datasets, suited for large-scale analytics.
 
-* Apache Cassandra
-* HBase
-* ScyllaDB
+- Apache Cassandra
+- HBase
+- ScyllaDB
 
 #### Graph Databases
 
 Model data as nodes and edges for relationship-heavy use cases like social networks or fraud detection.
 
-* Neo4j
-* ArangoDB
-* JanusGraph
+- Neo4j
+- ArangoDB
+- JanusGraph
 
 ## Design principles
 

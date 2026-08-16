@@ -10,6 +10,6 @@
 
 ## Projects
 
-* [Jenkins](jenkins.md)
-* [Spinnaker](spinnaker.md)
-* [Tekton](tekton.md)
+- [Jenkins](jenkins.md)
+- [Spinnaker](spinnaker.md)
+- [Tekton](tekton.md)

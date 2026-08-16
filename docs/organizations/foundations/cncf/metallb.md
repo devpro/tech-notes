@@ -6,4 +6,4 @@
 
 ## Examples
 
-* [Ingresses and Load Balancers in Kubernetes with MetalLB and nginx-ingress](https://www.adaltas.com/en/2022/09/08/kubernetes-metallb-nginx/) by Adatlas - September 8, 2022
+- [Ingresses and Load Balancers in Kubernetes with MetalLB and nginx-ingress](https://www.adaltas.com/en/2022/09/08/kubernetes-metallb-nginx/) by Adatlas - September 8, 2022

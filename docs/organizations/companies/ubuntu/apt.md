@@ -3,7 +3,7 @@
 ## apt vs apt-get
 
 CLI       | Motivation
-----------|-----------------------------------------------------------------
+----------|-----------
 `apt`     | For daily package management (easier, better UX)
 `apt-get` | For scripts and automation (more stable, no interactive prompts)
 

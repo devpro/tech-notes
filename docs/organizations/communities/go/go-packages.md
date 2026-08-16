@@ -6,6 +6,6 @@
 
 🌐 [pkg.go.dev/std](https://pkg.go.dev/std)
 
-* [net](https://pkg.go.dev/net)
-  * [http](https://pkg.go.dev/net/http)
-* [runtime](https://pkg.go.dev/runtime)
+- [net](https://pkg.go.dev/net)
+  - [http](https://pkg.go.dev/net/http)
+- [runtime](https://pkg.go.dev/runtime)

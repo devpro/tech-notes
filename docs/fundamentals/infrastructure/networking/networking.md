@@ -4,60 +4,60 @@
 
 ### Readings
 
-* [Microsoft Docs > Windows Server > Networking documentation](https://docs.microsoft.com/en-us/windows-server/networking/)
-* [Azure Networking](https://azure.microsoft.com/en-us/product-categories/networking/)
-* [IBM Cloud Learn Hub The Fundamentals of Networking > Networking](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
-* [Software Testing Help > Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
-* [Blog Stéphane Bortzmeyer](https://www.bortzmeyer.org/)
+- [Microsoft Docs > Windows Server > Networking documentation](https://docs.microsoft.com/en-us/windows-server/networking/)
+- [Azure Networking](https://azure.microsoft.com/en-us/product-categories/networking/)
+- [IBM Cloud Learn Hub The Fundamentals of Networking > Networking](https://www.ibm.com/cloud/learn/networking-a-complete-guide)
+- [Software Testing Help > Computer Networking Tutorial: The Ultimate Guide](https://www.softwaretestinghelp.com/computer-networking-basics/)
+- [Blog Stéphane Bortzmeyer](https://www.bortzmeyer.org/)
 
 ### Key elements
 
-* Computer network types
-  * Local Area Network (LAN)
-  * Storage Area Network (SAN)
-  * Virtual Private Network (VPN)
-  * Wide Area Network (WAN)
-  * Wireless Local Area Network (WLAN)
+- Computer network types
+  - Local Area Network (LAN)
+  - Storage Area Network (SAN)
+  - Virtual Private Network (VPN)
+  - Wide Area Network (WAN)
+  - Wireless Local Area Network (WLAN)
 
-* Classless Inter-Domain Routing (CIDR)
+- Classless Inter-Domain Routing (CIDR)
 
-* Content Delivery Network (CDN)
+- Content Delivery Network (CDN)
 
-* Distributed Denial of Service (DDoS)
+- Distributed Denial of Service (DDoS)
 
-* Domain Name System (DNS)
+- Domain Name System (DNS)
 
-* Gateway
+- Gateway
 
-* Firewall
+- Firewall
 
-* Quality of Service (QoS)
+- Quality of Service (QoS)
 
-* Load balancers
+- Load balancers
 
-* Network Address Translation (NAT)
+- Network Address Translation (NAT)
 
-* Network topologies
-  * Bus
-  * Ring
-  * Star
-  * Mesh
-  * Tree
+- Network topologies
+  - Bus
+  - Ring
+  - Star
+  - Mesh
+  - Tree
 
-* Open Systems Interconnection (OSI) model
-  * (1) Physical Layer
-  * (2) Data Link Layer
-  * (3) Network Layer
-  * (4) Transport Layer
-  * (5) Session Layer
-  * (6) Presentation Layer
-  * (7) Application Layer
+- Open Systems Interconnection (OSI) model
+  - (1) Physical Layer
+  - (2) Data Link Layer
+  - (3) Network Layer
+  - (4) Transport Layer
+  - (5) Session Layer
+  - (6) Presentation Layer
+  - (7) Application Layer
 
   → [7 layers diagram](https://cdn-images-1.medium.com/max/1200/1*17Zz6v0HWIzgiOzQYmO6lA.jpeg)
 
-* TCP/IP
-  * Internet Protocol (IP) addresses
-  * Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) ports
+- TCP/IP
+  - Internet Protocol (IP) addresses
+  - Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) ports
 
   ![DNS in TCP/IP](https://docs.microsoft.com/en-us/windows-server/networking/media/domain-name-system--dns-/dns_in_tcpip.jpg)
 
@@ -119,13 +119,13 @@
 
 #### LF Networking Projects
 
-* [pnda](http://pnda.io/)
+- [pnda](http://pnda.io/)
 
 ## Social media
 
-* [Cisco](https://twitter.com/Cisco)
-* [David Bombal](https://twitter.com/davidbombal)
-* [Jeremy McDowell](https://twitter.com/JeremysITLab)
-* [Keith Barker](https://twitter.com/KeithBarkerCCIE)
-* [The Art of Network Engineering](https://twitter.com/artofneteng)
-* [NetworkChuck](https://twitter.com/NetworkChuck)
+- [Cisco](https://twitter.com/Cisco)
+- [David Bombal](https://twitter.com/davidbombal)
+- [Jeremy McDowell](https://twitter.com/JeremysITLab)
+- [Keith Barker](https://twitter.com/KeithBarkerCCIE)
+- [The Art of Network Engineering](https://twitter.com/artofneteng)
+- [NetworkChuck](https://twitter.com/NetworkChuck)

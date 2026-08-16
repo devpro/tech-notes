@@ -6,13 +6,13 @@
 
 ## Sections
 
-* [Architecture](architecture.md)
-* [Events](events.md)
-* [Glossary](aws-glossary.md)
-* Localization: [EN](local-en.md), [FR](local-fr.md)
-* [Partners](partners.md)
-* [Products](products.md)
-* [Training](training.md)
+- [Architecture](architecture.md)
+- [Events](events.md)
+- [Glossary](aws-glossary.md)
+- Localization: [EN](local-en.md), [FR](local-fr.md)
+- [Partners](partners.md)
+- [Products](products.md)
+- [Training](training.md)
 
 ## About
 
@@ -39,63 +39,63 @@ Service Categories: compute, storage, networking, databases, IAM, containers, de
 
 ### Organizations
 
-* [Professional Services (ProServe)](https://aws.amazon.com/professional-services/)
+- [Professional Services (ProServe)](https://aws.amazon.com/professional-services/)
 
 ## Open-source projects
 
-* [Karpenter](karpenter.md)
+- [Karpenter](karpenter.md)
 
 ## Learning
 
 ### Quickstart
 
-* [Getting Started Resource Center](https://aws.amazon.com/getting-started)
+- [Getting Started Resource Center](https://aws.amazon.com/getting-started)
 
 ### Hands-on exercises
 
-* [Developer Center](https://aws.amazon.com/developer/)
-* [Tutorials](https://aws.amazon.com/getting-started/hands-on/)
-* [Workshops](https://workshops.aws/)
-  * [Workshop Studio](https://catalog.workshops.aws/)
+- [Developer Center](https://aws.amazon.com/developer/)
+- [Tutorials](https://aws.amazon.com/getting-started/hands-on/)
+- [Workshops](https://workshops.aws/)
+  - [Workshop Studio](https://catalog.workshops.aws/)
 
 ### Publications
 
-* [Blogs](https://aws.amazon.com/blogs/)
-  * [News Blog](https://aws.amazon.com/blogs/aws/)
-  * [Developer Tools Blog](https://aws.amazon.com/blogs/developer/)
-* [Builders' Library](https://aws.amazon.com/builders-library/)
-* [Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
-* [Cloud Financial Management](https://aws.amazon.com/aws-cost-management/)
-* [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
-  * [Performance engineering](https://docs.aws.amazon.com/prescriptive-guidance/latest/performance-engineering-aws/introduction.html)
-  * [Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
-* [Solutions Library](https://aws.amazon.com/solutions/)
-  * [Guidance for Sustainability Insights Framework](https://aws.amazon.com/solutions/guidance/sustainability-insights-framework-on-aws/?did=fs_card&trk=fs_card)
-* [Whitepapers](https://aws.amazon.com/whitepapers/)
-  * [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
-  * [Public Sector Cloud Transformation](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/public-sector-cloud-transformation.html)
+- [Blogs](https://aws.amazon.com/blogs/)
+  - [News Blog](https://aws.amazon.com/blogs/aws/)
+  - [Developer Tools Blog](https://aws.amazon.com/blogs/developer/)
+- [Builders' Library](https://aws.amazon.com/builders-library/)
+- [Cloud Adoption Framework](https://aws.amazon.com/cloud-adoption-framework/)
+- [Cloud Financial Management](https://aws.amazon.com/aws-cost-management/)
+- [Prescriptive Guidance](https://aws.amazon.com/prescriptive-guidance/)
+  - [Performance engineering](https://docs.aws.amazon.com/prescriptive-guidance/latest/performance-engineering-aws/introduction.html)
+  - [Cloud design patterns, architectures, and implementations](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/introduction.html)
+- [Solutions Library](https://aws.amazon.com/solutions/)
+  - [Guidance for Sustainability Insights Framework](https://aws.amazon.com/solutions/guidance/sustainability-insights-framework-on-aws/?did=fs_card&trk=fs_card)
+- [Whitepapers](https://aws.amazon.com/whitepapers/)
+  - [Overview of Amazon Web Services](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/introduction.html)
+  - [Public Sector Cloud Transformation](https://docs.aws.amazon.com/whitepapers/latest/public-sector-cloud-transformation/public-sector-cloud-transformation.html)
 
 ### Community
 
-* [re:Post](https://repost.aws/)
-* [User Groups](https://aws.amazon.com/developer/community/usergroups/)
+- [re:Post](https://repost.aws/)
+- [User Groups](https://aws.amazon.com/developer/community/usergroups/)
 
 ### Video content
 
-* [Conferences (Youtube)](https://www.youtube.com/@AWSEventsChannel)
-* [Streaming (Twitch)](https://www.twitch.tv/aws)
+- [Conferences (Youtube)](https://www.youtube.com/@AWSEventsChannel)
+- [Streaming (Twitch)](https://www.twitch.tv/aws)
 
 ## Programs
 
 ### Partners
 
-* [Managed Service Provider (MSP)](https://aws.amazon.com/partners/programs/msp/)
+- [Managed Service Provider (MSP)](https://aws.amazon.com/partners/programs/msp/)
 
 ### Startups
 
-* [Activate Startup Program](https://aws.amazon.com/activate/activate-landing/)
-* [Global Startup Program (GSP)](https://aws.amazon.com/partners/programs/global-startup/) ([blog](https://aws.amazon.com/blogs/apn/how-to-build-a-startup-go-to-market-motion-with-the-aws-global-startup-program/))
+- [Activate Startup Program](https://aws.amazon.com/activate/activate-landing/)
+- [Global Startup Program (GSP)](https://aws.amazon.com/partners/programs/global-startup/) ([blog](https://aws.amazon.com/blogs/apn/how-to-build-a-startup-go-to-market-motion-with-the-aws-global-startup-program/))
 
 ### Individuals
 
-* [AWS re/Start](https://aws.amazon.com/training/restart/)
+- [AWS re/Start](https://aws.amazon.com/training/restart/)

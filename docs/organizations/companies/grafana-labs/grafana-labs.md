@@ -4,10 +4,10 @@
 
 ## Components
 
-* [Grafana](grafana.md)
-* [Loki](loki.md)
-* [Tempo](tempo.md)
+- [Grafana](grafana.md)
+- [Loki](loki.md)
+- [Tempo](tempo.md)
 
 ## Learn
 
-* [Grafana University](https://university.grafana.com/learn)
+- [Grafana University](https://university.grafana.com/learn)

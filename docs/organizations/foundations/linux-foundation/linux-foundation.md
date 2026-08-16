@@ -6,7 +6,7 @@
 
 ## Certifications
 
-* [Linux Foundation Training Portal](https://trainingportal.linuxfoundation.org/learn/dashboard)
-  * [Certified Kubernetes Security Specialist (CKS)](cks.md)
-  * [Kubernetes and Cloud Native Associate (KCNA)](kcna.md)
-  * Linux Foundation Certified IT Associate (LFCA)
+- [Linux Foundation Training Portal](https://trainingportal.linuxfoundation.org/learn/dashboard)
+  - [Certified Kubernetes Security Specialist (CKS)](cks.md)
+  - [Kubernetes and Cloud Native Associate (KCNA)](kcna.md)
+  - Linux Foundation Certified IT Associate (LFCA)

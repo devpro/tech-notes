@@ -1,3 +1,3 @@
 # Regulations
 
-* [DORA (Digital Operational Resilience Act)](dora.md)
+- [DORA (Digital Operational Resilience Act)](dora.md)

@@ -15,7 +15,7 @@ Migrating from Legacy mongo Shell: [Compatibility Changes with Legacy mongo Shel
 ## Commands
 
 Command                               | Action
---------------------------------------|------------------------------------
+--------------------------------------|-------
 `db`                                  | Display the database currently used
 `use <database>`                      | Switch database
 `db.myCollection.insertOne({ x: 1 })` | Create an entry in a collection

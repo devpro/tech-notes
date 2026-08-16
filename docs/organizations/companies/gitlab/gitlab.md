@@ -15,31 +15,31 @@ GitLab is a company that provides an [Application Lifecycle Management (ALM)](al
 
 ## Offering
 
-* [GitLab Duo](duo.md)
-* 🌟 [GitLab Platform](platform.md)
-* [GitLab Professional Services](professional-services.md)
+- [GitLab Duo](duo.md)
+- 🌟 [GitLab Platform](platform.md)
+- [GitLab Professional Services](professional-services.md)
 
 ## Standards
 
-* [GitLab Flow](flow.md)
+- [GitLab Flow](flow.md)
 
 ## Learning
 
-* 🌟 [GitLab Blog](https://about.gitlab.com/blog/)
-* [GitLab Certifications](https://university.gitlab.com/pages/certifications)
-* 🌟 [GitLab Documentation](https://docs.gitlab.com/)
-* [GitLab Glossary](gitlab-glossary.md)
-* 🌟 [GitLab Handbook](handbook.md)
-* [GitLab Resources](resources.md)
-* [GitLab University](university.md)
-* [GitLab Webinars](https://university.gitlab.com/pages/gitlab-user-webinars)
+- 🌟 [GitLab Blog](https://about.gitlab.com/blog/)
+- [GitLab Certifications](https://university.gitlab.com/pages/certifications)
+- 🌟 [GitLab Documentation](https://docs.gitlab.com/)
+- [GitLab Glossary](gitlab-glossary.md)
+- 🌟 [GitLab Handbook](handbook.md)
+- [GitLab Resources](resources.md)
+- [GitLab University](university.md)
+- [GitLab Webinars](https://university.gitlab.com/pages/gitlab-user-webinars)
 
 ## Community
 
-* [Discord](https://discord.gg/gitlab)
-* [Events](https://about.gitlab.com/events/)
-* [Forum](https://forum.gitlab.com/)
-* [Meetups](https://about.gitlab.com/community/meetups/)
+- [Discord](https://discord.gg/gitlab)
+- [Events](https://about.gitlab.com/events/)
+- [Forum](https://forum.gitlab.com/)
+- [Meetups](https://about.gitlab.com/community/meetups/)
 
 ## Fun facts
 

@@ -4,15 +4,15 @@ This is an example on how to retrieve NGINX log files into Splunk thanks to Open
 
 ## Run locally
 
-* 2 options
+- 2 options
 
-  * With Docker Compose
+  - With Docker Compose
 
   ```bash
   docker compose up
   ```
 
-  * With Docker
+  - With Docker
 
   ```bash
   # start NGINX
@@ -33,8 +33,8 @@ This is an example on how to retrieve NGINX log files into Splunk thanks to Open
     --config=/etc/otel-collector-config.yml
   ```
 
-* Open [NGINX](http://localhost:8180/)
+- Open [NGINX](http://localhost:8180/)
 
-* Open [Splunk](http://localhost:8000), login with admin/opentelemetry
+- Open [Splunk](http://localhost:8000), login with admin/opentelemetry
 
-  * Search with `source="otel"` and make sure you see entries
+  - Search with `source="otel"` and make sure you see entries

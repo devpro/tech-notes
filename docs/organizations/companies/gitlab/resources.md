@@ -14,5 +14,5 @@
 
 Channels:
 
-* [GitLab](https://www.youtube.com/gitlab)
-* [GitLab Unfiltered](https://www.youtube.com/@GitLabUnfiltered)
+- [GitLab](https://www.youtube.com/gitlab)
+- [GitLab Unfiltered](https://www.youtube.com/@GitLabUnfiltered)

@@ -22,21 +22,21 @@
 
 ## Administration
 
-* [Architecture](platform-architecture.md)
-* [Installation](installation.md)
-* [Management](management.md)
-* [Migration](migration.md)
-* [Operations](operations.md)
-* [Runner](runner.md)
+- [Architecture](platform-architecture.md)
+- [Installation](installation.md)
+- [Management](management.md)
+- [Migration](migration.md)
+- [Operations](operations.md)
+- [Runner](runner.md)
 
 ## User experience
 
-* [CLI](cli.md)
-* [Developers](developers.md)
-* [Migration](migration.md)
-* [Observability](observability.md)
-* [Org](org.md)
-* [Pages](pages.md)
-* [Pipelines](pipelines.md)
-* [Security](security.md)
-* [Testing](testing.md)
+- [CLI](cli.md)
+- [Developers](developers.md)
+- [Migration](migration.md)
+- [Observability](observability.md)
+- [Org](org.md)
+- [Pages](pages.md)
+- [Pipelines](pipelines.md)
+- [Security](security.md)
+- [Testing](testing.md)

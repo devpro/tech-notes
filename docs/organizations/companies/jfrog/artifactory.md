@@ -7,6 +7,6 @@
 
 ## Hosting solutions
 
-* Cloud Service
-  * [Start for free](https://jfrog.com/start-free/)
-* Self-Hosted
+- Cloud Service
+  - [Start for free](https://jfrog.com/start-free/)
+- Self-Hosted

@@ -22,6 +22,7 @@
 
 > An Amazon Cognito user pool is a user directory for web and mobile app authentication and authorization.
 >
-> From the perspective of your app, an Amazon Cognito user pool is an OpenID Connect (OIDC) identity provider (IdP). A user pool adds layers of additional features for security, identity federation, app integration, and customization of the user experience.
+> From the perspective of your app, an Amazon Cognito user pool is an OpenID Connect (OIDC) identity provider (IdP).
+> A user pool adds layers of additional features for security, identity federation, app integration, and customization of the user experience.
 
 🌐 [docs](https://docs.aws.amazon.com/cognito/latest/developerguide/cognito-user-identity-pools.html)

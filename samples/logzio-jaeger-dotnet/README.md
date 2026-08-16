@@ -11,7 +11,7 @@
 ![logz.io tracing architecture](https://dytvr9ot2sszz.cloudfront.net/logz-docs/distributed-tracing/tracing_architecture.png)
 
 Component               | Kubernetes resource | Kubernetes Service | Dependencies
-------------------------|---------------------|--------------------|-------------------------------
+------------------------|---------------------|--------------------|-------------
 Logz.io Platform (SaaS) | -                   | -                  | -
 Jaeger Collector        | Deployment          | ClusterIP          | Logz.io Platform
 Jaeger Agent            | DaemonSet           | ClusterIP          | Jaeger Collector
@@ -21,7 +21,7 @@ ASP.NET Business API    | Deployment          | LoadBalancer       | ASP.NET Dat
 ### OpenTelemetry terminology
 
 Class name     | Namespace          | OpenTelemetry representation                                                                                          | Comment
----------------|--------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------|--------------------|-----------------------------------------------------------------------------------------------------------------------|--------
 ActivitySource | System.Diagnostics | [Tracer](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/trace/api.md#tracer) | The tracer is responsible for creating Spans
 Activity       | System.Diagnostics | [Span](https://github.com/open-telemetry/opentelemetry-specification/blob/master/specification/trace/api.md#span)     | A Span represents a single operation within a trace. Spans can be nested to form a trace tree. Each trace contains a root span, which typically describes the entire operation and, optionally, one or more sub-spans for its sub-operations
 

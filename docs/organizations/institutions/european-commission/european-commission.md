@@ -7,4 +7,4 @@
 
 ## Projects
 
-* [COSMOS (DevOps)](cosmos-devops.md)
+- [COSMOS (DevOps)](cosmos-devops.md)

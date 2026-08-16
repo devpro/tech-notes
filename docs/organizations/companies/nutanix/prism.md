@@ -8,4 +8,4 @@
 
 Examples:
 
-* [nutanix.dev/playbooks](https://www.nutanix.dev/playbooks/)
+- [nutanix.dev/playbooks](https://www.nutanix.dev/playbooks/)

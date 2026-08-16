@@ -1,3 +1,3 @@
 # Operating Systems
 
-* [Linux](linux.md)
+- [Linux](linux.md)

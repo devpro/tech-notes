@@ -4,11 +4,11 @@
 
 ## Products
 
-* [Packer](packer.md)
-* [Terraform](terraform.md)
-* [Vagrant](vagrant.md)
+- [Packer](packer.md)
+- [Terraform](terraform.md)
+- [Vagrant](vagrant.md)
 
 ## Resources
 
-* [Brand](https://www.hashicorp.com/brand)
-* [Learn](https://learn.hashicorp.com/)
+- [Brand](https://www.hashicorp.com/brand)
+- [Learn](https://learn.hashicorp.com/)

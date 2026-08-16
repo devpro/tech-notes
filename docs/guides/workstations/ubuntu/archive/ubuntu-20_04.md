@@ -307,7 +307,8 @@ source ~/.profile
 
 #### kubectx & kubens
 
-> **kubectx** is a tool to switch between contexts (clusters) on kubectl faster. **kubens** is a tool to switch between Kubernetes namespaces (and configure them for kubectl) easily.
+> **kubectx** is a tool to switch between contexts (clusters) on kubectl faster.
+> **kubens** is a tool to switch between Kubernetes namespaces (and configure them for kubectl) easily.
 
 → [ahmetb/kubectx](https://github.com/ahmetb/kubectx)
 

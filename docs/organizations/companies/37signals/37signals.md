@@ -6,4 +6,4 @@
 
 ## Open source
 
-* [Kamal](kamal.md)
+- [Kamal](kamal.md)

@@ -4,9 +4,9 @@
 
 ## Use cases
 
-* [How to monitor Redis with Prometheus by sysdig](https://sysdig.com/blog/redis-prometheus/) - September 23, 2021
-* [Challenges maintaining Prometheus LTS](https://sysdig.com/blog/challenges-prometheus-lts/) - November 18, 2021
+- [How to monitor Redis with Prometheus by sysdig](https://sysdig.com/blog/redis-prometheus/) - September 23, 2021
+- [Challenges maintaining Prometheus LTS](https://sysdig.com/blog/challenges-prometheus-lts/) - November 18, 2021
 
 ## Articles
 
-* [Prometheus Cheat Sheet - Basics (Metrics, Labels, Time Series, Scraping)](https://iximiuz.com/en/posts/prometheus-metrics-labels-time-series/) - Ivan Velichko (2021)
+- [Prometheus Cheat Sheet - Basics (Metrics, Labels, Time Series, Scraping)](https://iximiuz.com/en/posts/prometheus-metrics-labels-time-series/) - Ivan Velichko (2021)

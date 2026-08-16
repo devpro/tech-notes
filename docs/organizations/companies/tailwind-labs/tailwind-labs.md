@@ -4,4 +4,4 @@
 
 ## Open-source components
 
-* [Tailwind CSS](tailwind-css.md)
+- [Tailwind CSS](tailwind-css.md)

@@ -16,6 +16,6 @@ Rocky Linux   | Red Hat  | dnf
 
 ## Components
 
-* [Commands](linux-commands.md)
-* [Filesystem](linux-filesystem.md)
-* [Kernel](linux-kernel.md)
+- [Commands](linux-commands.md)
+- [Filesystem](linux-filesystem.md)
+- [Kernel](linux-kernel.md)

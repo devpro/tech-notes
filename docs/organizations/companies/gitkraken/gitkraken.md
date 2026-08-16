@@ -8,4 +8,4 @@
 
 ## Products
 
-* [Gitkraken Desktop](gitkraken-desktop.md)
+- [Gitkraken Desktop](gitkraken-desktop.md)

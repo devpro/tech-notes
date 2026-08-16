@@ -6,9 +6,13 @@ Focus on structured approaches: check basics first, then deepen.
 
 - **Initial Checks**: Resources (CPU, memory, disk), service status, logs, network connectivity.
 - **Tools**: Use `top` or `htop` for real-time monitoring; `df -h` for disk space; `systemctl status <service>` for services.
-- **Logs**: `tail -f /var/log/syslog` or `journalctl -u <service>` for errors. Grep: `grep error /var/log/nginx/error.log`.
-- **Log Management**: Use `logrotate` to compress/rotate logs. Config in `/etc/logrotate.d/nginx`; force with `sudo logrotate -f /etc/logrotate.d/nginx`.
-- **Network**: Test outbound: `ping 8.8.8.8`. Local access: `curl localhost` or `curl -I <url>`. Ports: `ss -tuln`.
+- **Logs**: `tail -f /var/log/syslog` or `journalctl -u <service>` for errors.
+  Grep: `grep error /var/log/nginx/error.log`.
+- **Log Management**: Use `logrotate` to compress/rotate logs.
+  Config in `/etc/logrotate.d/nginx`; force with `sudo logrotate -f /etc/logrotate.d/nginx`.
+- **Network**: Test outbound: `ping 8.8.8.8`.
+  Local access: `curl localhost` or `curl -I <url>`.
+  Ports: `ss -tuln`.
 
 ## Scenario 1: Nginx Server Down (Traffic Dead)
 
@@ -48,6 +52,8 @@ Focus on structured approaches: check basics first, then deepen.
 
 ## Preparation Tips
 
-- **Simulate**: Use free tier EC2 or local VM. Practice under time (20-min sessions).
-- **Mindset**: Verbalize steps aloud. Avoid quick reboots—focus on root cause.
+- **Simulate**: Use free tier EC2 or local VM.
+  Practice under time (20-min sessions).
+- **Mindset**: Verbalize steps aloud.
+  Avoid quick reboots—focus on root cause.
 - **Common Traps**: Misconfigured security groups, private subnets without NAT, missing IAM permissions.

@@ -8,15 +8,15 @@ Ref. [Basics > Overview](https://docs.neuvector.com/basics/overview)
 
 ## Kubernetes objects
 
-* Controller
-  * Manage policies REST API
+- Controller
+  - Manage policies REST API
 
-* Scanner
+- Scanner
 
-* Web UI
-  * Manager User Interface
-  * CLI tool
+- Web UI
+  - Manager User Interface
+  - CLI tool
 
-* Enforcer (DaemonSet)
-  * Enforce Securities Policies
-  * Inspect Network Traffic
+- Enforcer (DaemonSet)
+  - Enforce Securities Policies
+  - Inspect Network Traffic

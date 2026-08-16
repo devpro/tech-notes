@@ -13,7 +13,7 @@ curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
 ## Basic commands
 
 Command                                 | Action
-----------------------------------------|---------------------------------------------------------------------------
+----------------------------------------|-------
 `az --version`                          | Check the CLI version
 `az --help`                             | Display help information
 `az login`                              | Login to a specific Azure user account (will open a web page in a browser)
@@ -24,7 +24,7 @@ Command                                 | Action
 ## AKS commands
 
 Command                                                                   | Action
---------------------------------------------------------------------------|--------------------------------------------------
+--------------------------------------------------------------------------|-------
 `az aks get-credentials --resource-group rg-xxx --name aks-xxx [--admin]` | Get Kubernetes credentials for a specific cluster
 `az aks browse --resource-group rg-xxx --name aks-xxx`                    | Open Kubernetes dashboard (will open a browser)
 

@@ -11,5 +11,5 @@
 ### Basic commands
 
 Command                     | Description
-----------------------------|------------------------
+----------------------------|------------
 `$PSVersionTable.PSVersion` | Display current version

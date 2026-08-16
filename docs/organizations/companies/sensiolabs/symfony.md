@@ -4,5 +4,5 @@
 
 ## Content
 
-* [CLI](symfony-cli.md)
-* Local run: [Windows](symfony-windows-howto.md)
+- [CLI](symfony-cli.md)
+- Local run: [Windows](symfony-windows-howto.md)

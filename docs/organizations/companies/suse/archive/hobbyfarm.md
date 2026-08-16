@@ -19,7 +19,7 @@
 ### Code repositories
 
 Name                                                                    | Content
-------------------------------------------------------------------------|-----------------------------------------------------------------
+------------------------------------------------------------------------|--------
 [admin-ui](https://github.com/hobbyfarm/admin-ui)                       | HobbyFarm administration UI (web application)
 [ec2-operator](https://github.com/hobbyfarm/ec2-operator)               | Amazon EC2 operator for HobbyFarm
 [gargantua](https://github.com/hobbyfarm/gargantua)                     | HobbyFarm back-end (monolith application)
@@ -48,7 +48,8 @@ Name                                                                    | Conten
 
 ### Code logic
 
-The application processing starts with `main.go` file at the root of the source files. All the other go code is located in `pkg` folder.
+The application processing starts with `main.go` file at the root of the source files.
+All the other go code is located in `pkg` folder.
 
 How it works:
 

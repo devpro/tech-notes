@@ -6,14 +6,14 @@
 
 ## Pricing categories
 
-* Host Monitoring
-* Container Monitoring
-* Application Security
-* Digital Experience Monitoring
-* Metrics powered by Grail
-* Logs powered by Grail
-* Traces powered by Grail
-* Events powered by Grail
-* Automation
-* AppEngine Functions
-* Platform Extensions
+- Host Monitoring
+- Container Monitoring
+- Application Security
+- Digital Experience Monitoring
+- Metrics powered by Grail
+- Logs powered by Grail
+- Traces powered by Grail
+- Events powered by Grail
+- Automation
+- AppEngine Functions
+- Platform Extensions

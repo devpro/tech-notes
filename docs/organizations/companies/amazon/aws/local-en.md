@@ -4,7 +4,7 @@
 
 ### US
 
-* Adobe
-* Lonely Planet
-* moderna
-* Netflix
+- Adobe
+- Lonely Planet
+- moderna
+- Netflix

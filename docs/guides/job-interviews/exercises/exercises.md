@@ -1,3 +1,3 @@
 # Exercises
 
-* [Troubleshooting](troubleshooting.md)
+- [Troubleshooting](troubleshooting.md)

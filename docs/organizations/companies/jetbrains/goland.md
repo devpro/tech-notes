@@ -9,7 +9,7 @@ Key mapping & behavior can be changed from `Settings` | `Keymap`.
 ## Shortcuts
 
 Key combination          | Action
--------------------------|-----------------------------------------------------------------------
+-------------------------|-------
 `Ctrl` `Shift` `F10`     | Runs the project
 `Alt` `5`                | Opens/closes the **Debug** tool window
 `Ctrl` `Space`           | Shows completion items

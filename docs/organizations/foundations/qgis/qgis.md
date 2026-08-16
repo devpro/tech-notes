@@ -14,7 +14,7 @@
 Visit [QGIS plugins web portal](https://plugins.qgis.org/).
 
 Name             | Details
------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------|--------
 OGR2Layers       | [github](https://github.com/lucadelu/OGR2Layers/)
 QuickMapServices | [github](http://nextgis.com/blog/quickmapservices/)
 Qgis2threejs     | [qgis2threejs.readthedocs.io](http://qgis2threejs.readthedocs.io/en/docs-release/), [examples](http://qgis2threejs.readthedocs.io/en/docs-release/Examples.html)

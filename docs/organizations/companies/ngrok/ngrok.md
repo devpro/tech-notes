@@ -10,23 +10,23 @@
 
 ## Usage
 
-* [ngrok Kubernetes Operator](https://kwt.devpro.fr/application-guides/networking/ngrok.html)
+- [ngrok Kubernetes Operator](https://kwt.devpro.fr/application-guides/networking/ngrok.html)
 
 ## Administration
 
 ### Infrastructure automation
 
-* [Puppet module](https://forge.puppet.com/modules/gabe/ngrok/readme)
-* [Terraform provider](https://registry.terraform.io/providers/ngrok/ngrok) ([code](https://github.com/ngrok/terraform-provider-ngrok))
+- [Puppet module](https://forge.puppet.com/modules/gabe/ngrok/readme)
+- [Terraform provider](https://registry.terraform.io/providers/ngrok/ngrok) ([code](https://github.com/ngrok/terraform-provider-ngrok))
 
 ### SDK
 
-* [.NET API client](https://www.nuget.org/packages/NgrokApi) ([code](https://github.com/ngrok/ngrok-api-dotnet))
+- [.NET API client](https://www.nuget.org/packages/NgrokApi) ([code](https://github.com/ngrok/ngrok-api-dotnet))
 
 ## Partners
 
 ### SUSE
 
-* [SUSE Rancher](https://ngrok.com/partners/suse-rancher)
-  * [SUSE: Overcoming Kubernetes Complexity and Improving Collaboration](https://www.suse.com/c/overcoming-kubernetes-complexity-and-improving-collaboration/) - October 18, 2023
-  * [Ingress to applications managed by Rancher in Kubernetes](https://ngrok.com/docs/integrations/rancher/k8s/)
+- [SUSE Rancher](https://ngrok.com/partners/suse-rancher)
+  - [SUSE: Overcoming Kubernetes Complexity and Improving Collaboration](https://www.suse.com/c/overcoming-kubernetes-complexity-and-improving-collaboration/) - October 18, 2023
+  - [Ingress to applications managed by Rancher in Kubernetes](https://ngrok.com/docs/integrations/rancher/k8s/)

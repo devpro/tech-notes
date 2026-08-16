@@ -6,13 +6,13 @@
 
 ## Offering
 
-* **TeamCity Cloud**: "for cloud-native teams and newcomers to CI/CD"
-* **TeamCity Professional**: "for pros who need to control everything"
+- **TeamCity Cloud**: "for cloud-native teams and newcomers to CI/CD"
+- **TeamCity Professional**: "for pros who need to control everything"
 
 ## Learning
 
-* [TeamCity documentation](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
+- [TeamCity documentation](https://www.jetbrains.com/help/teamcity/teamcity-documentation.html)
 
 ## Installation
 
-* [JetBrains/teamcity-docker-images](https://github.com/JetBrains/teamcity-docker-images)
+- [JetBrains/teamcity-docker-images](https://github.com/JetBrains/teamcity-docker-images)

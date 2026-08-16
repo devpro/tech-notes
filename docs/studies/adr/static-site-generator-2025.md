@@ -7,7 +7,7 @@ Selection of Static Site Generator (SSG) for publishing technical notes.
 ## General information
 
 Status   | Date       | Author
----------|------------|----------------
+---------|------------|-------
 Proposed | 2025-09-24 | Bertrand Thomas
 
 ## Context

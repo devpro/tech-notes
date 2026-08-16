@@ -6,35 +6,35 @@ _This tutorial has been made on December 2021 on a MSI gaming laptop with Ubuntu
 
 ### Hard drive
 
-* Make sure there is a FAT partition created or a complete hard drive available
+- Make sure there is a FAT partition created or a complete hard drive available
 
 ### Windows settings
 
-* If Windows is installed on the laptop, make sure fast startup is turned off (see [How To Disable Fast Startup in Windows 10](https://help.uaudio.com/hc/en-us/articles/213195423-How-To-Disable-Fast-Startup-in-Windows-10))
+- If Windows is installed on the laptop, make sure fast startup is turned off (see [How To Disable Fast Startup in Windows 10](https://help.uaudio.com/hc/en-us/articles/213195423-How-To-Disable-Fast-Startup-in-Windows-10))
 
 ### BIOS settings
 
-* Review boot order to ensure the bootable drive will run first (USB for instance)
+- Review boot order to ensure the bootable drive will run first (USB for instance)
 
 ## Installation steps
 
 ### Download required files
 
-* Download Rufus portable
-* Download Ubuntu Server LTS ISO
+- Download Rufus portable
+- Download Ubuntu Server LTS ISO
 
 ### Create bootable drive
 
-* Use Rufus to create a bootable drive
+- Use Rufus to create a bootable drive
 
 ### Plug the drive and boot the machine
 
-* Do not configure network (may cause the installation to fail after a long time)
-* Define machine name, username and password
+- Do not configure network (may cause the installation to fail after a long time)
+- Define machine name, username and password
 
 ### Reboot and login
 
-* Configure Wifi network
+- Configure Wifi network
 
 ```bash
 # lists the available networks (copy the wl one that you want)
@@ -78,7 +78,7 @@ sudo netplan apply
 ip a
 ```
 
-* Updates packages and reboot
+- Updates packages and reboot
 
 ```bash
 sudo apt update
@@ -88,7 +88,7 @@ sudo reboot
 
 ### Additional configuration
 
-* Disable action when lid is closing
+- Disable action when lid is closing
 
 ```bash
 sudo vi /etc/systemd/logind.conf
@@ -99,20 +99,20 @@ sudo vi /etc/systemd/logind.conf
 systemctl restart systemd-logind.service
 ```
 
-* Update hostname
+- Update hostname
 
 ```bash
 hostnamectl set-hostname 'new-hostname'
 ```
 
-* Setup file sharing with Samba: [linuxconfig.org](https://linuxconfig.org/how-to-configure-samba-server-share-on-ubuntu-22-04-jammy-jellyfish-linux), [makeuseof.com](https://www.makeuseof.com/set-up-network-shared-folder-ubuntu-with-samba/),
+- Setup file sharing with Samba: [linuxconfig.org](https://linuxconfig.org/how-to-configure-samba-server-share-on-ubuntu-22-04-jammy-jellyfish-linux), [makeuseof.com](https://www.makeuseof.com/set-up-network-shared-folder-ubuntu-with-samba/),
 [techrepublic.com](https://www.techrepublic.com/article/how-to-create-a-samba-share-on-ubuntu-server-20-04/)
 
-* Remote access: [linuxconfig.org](https://linuxconfig.org/ubuntu-22-04-remote-desktop-access-from-windows-10)
+- Remote access: [linuxconfig.org](https://linuxconfig.org/ubuntu-22-04-remote-desktop-access-from-windows-10)
 
 ### Enable remote access through SSH from the remote computer
 
-* Copy the SSH public key from the remote computer to be able to login without password
+- Copy the SSH public key from the remote computer to be able to login without password
 
 ```bash
 # creates SSH key (if not already done)

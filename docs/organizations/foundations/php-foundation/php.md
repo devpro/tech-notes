@@ -6,9 +6,12 @@
 
 ### PHP binaries
 
-Download the version that you want from the [download page](https://php.net/downloads.php). You may consider reading a little about thread safe (for Apache) and not thread safe versions (for IIS, nginx or command line).
+Download the version that you want from the [download page](https://php.net/downloads.php).
+You may consider reading a little about thread safe (for Apache) and not thread safe versions (for IIS, nginx or command line).
 
-On Windows, you'll download a zip file, you just have to extract it somewhere (more in a program folder). You can add the direetory in the environment PATH but it's not mandatory. For example, you can add the following line in a command window:
+On Windows, you'll download a zip file, you just have to extract it somewhere (more in a program folder).
+You can add the direetory in the environment PATH but it's not mandatory.
+For example, you can add the following line in a command window:
 
 ```bash
 # Windows
@@ -50,7 +53,8 @@ composer -V
 # Composer version 1.6.3 2018-01-31 16:28:17
 ```
 
-You can install packages system or project wide. Here are some tools that are good to have system wide:
+You can install packages system or project wide.
+Here are some tools that are good to have system wide:
 
 ```bash
 # this will install phpcs
@@ -86,7 +90,8 @@ xdebug.remote_autostart = 1
 
 #### VS Code
 
-Visual Studio Code is an indredible tool provided by Microsoft. You can review [PHP Programming in VS Code](https://code.visualstudio.com/docs/languages/php) for more information.
+Visual Studio Code is an indredible tool provided by Microsoft.
+You can review [PHP Programming in VS Code](https://code.visualstudio.com/docs/languages/php) for more information.
 
 If you want to see a preview or get up to speed quickly, you can watch [laracasts.com series](https://laracasts.com/series/visual-studio-code-for-php-developers).
 
@@ -189,7 +194,9 @@ Reference: [Using the PHP Library for MongoDB (PHPLIB)](http://php.net/manual/en
 
 ### PHPUnit
 
-[PHPUnit](https://phpunit.de/) is a testing framework for PHP. It is open source: [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit). It is available on [packagist](https://packagist.org/packages/phpunit/phpunit).
+[PHPUnit](https://phpunit.de/) is a testing framework for PHP.
+It is open source: [sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit).
+It is available on [packagist](https://packagist.org/packages/phpunit/phpunit).
 
 #### Getting started with PHPUnit
 

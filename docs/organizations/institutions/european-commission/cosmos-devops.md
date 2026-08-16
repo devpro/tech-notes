@@ -14,10 +14,10 @@
 
 Slides:
 
-* 2023
-  * [Presentation at Workshop on Adaptive CPSoS](https://www.slideshare.net/slideshow/cosmos-devops-for-complex-cyberphysical-systems/267192050)
-  * [Automated Identification and Qualitative Characterization of Safety Concerns Reported in UAV Software Platforms](https://www.slideshare.net/slideshow/automated-identification-and-qualitative-characterization-of-safety-concerns-reported-in-uav-software-platforms-4012/267185072)
+- 2023
+  - [Presentation at Workshop on Adaptive CPSoS](https://www.slideshare.net/slideshow/cosmos-devops-for-complex-cyberphysical-systems/267192050)
+  - [Automated Identification and Qualitative Characterization of Safety Concerns Reported in UAV Software Platforms](https://www.slideshare.net/slideshow/automated-identification-and-qualitative-characterization-of-safety-concerns-reported-in-uav-software-platforms-4012/267185072)
 
 Authors:
 
-* Sebastiano Panichella: [GitHub](https://github.com/spanichella), [website](https://spanichella.github.io/), [Twitter](https://x.com/spanichella), [SlideShare](https://www.slideshare.net/sebastianopanichella)
+- Sebastiano Panichella: [GitHub](https://github.com/spanichella), [website](https://spanichella.github.io/), [Twitter](https://x.com/spanichella), [SlideShare](https://www.slideshare.net/sebastianopanichella)

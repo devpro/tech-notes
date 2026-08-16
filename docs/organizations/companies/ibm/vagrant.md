@@ -12,7 +12,8 @@
 
 ### Boxes
 
-> Boxes are the package format for Vagrant environments. A box can be used by anyone on any platform that Vagrant
+> Boxes are the package format for Vagrant environments.
+> A box can be used by anyone on any platform that Vagrant
 supports to bring up an identical working environment.  
 > HashiCorp (the makers of Vagrant) publish a basic Ubuntu 18.04 64-bit box that is available for minimal use cases.
 It is highly optimized, small in size, and includes support for VirtualBox, Hyper-V, and VMware.

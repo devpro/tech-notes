@@ -4,23 +4,24 @@
 
 ## Quick links
 
-* [Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/)
+- [Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/)
 
 ## Learn
 
 ### Latest features
 
-* [Caching and faster artifacts in Azure Pipelines](https://devblogs.microsoft.com/devops/caching-and-faster-artifacts-in-azure-pipelines/) - July 24, 2019
-* [New IP firewall rules for Azure DevOps Services](https://devblogs.microsoft.com/devops/new-ip-firewall-rules-for-azure-devops/) - May 31, 2019
+- [Caching and faster artifacts in Azure Pipelines](https://devblogs.microsoft.com/devops/caching-and-faster-artifacts-in-azure-pipelines/) - July 24, 2019
+- [New IP firewall rules for Azure DevOps Services](https://devblogs.microsoft.com/devops/new-ip-firewall-rules-for-azure-devops/) - May 31, 2019
 
 ### Agents
 
-* [Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml) (public IP ranges)
+- [Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml) (public IP ranges)
 
 ### Definition
 
-* [YAML schema reference](https://docs.microsoft.com/fr-fr/azure/devops/pipelines/yaml-schema)
-* [Classic Editor VS. YAML](https://www.marcusfelling.com/blog/2020/azure-pipelines-classic-editor-vs-yaml/)
+- [YAML schema reference](https://docs.microsoft.com/fr-fr/azure/devops/pipelines/yaml-schema)
+- [Classic Editor VS.
+  YAML](https://www.marcusfelling.com/blog/2020/azure-pipelines-classic-editor-vs-yaml/)
 
 ### Templates
 
@@ -38,14 +39,14 @@ Example of pipelines in [MicrosoftDocs](https://github.com/MicrosoftDocs) GitHub
 
 ### Tutorials
 
-* [Tutorial: Immutable infrastructure for Azure, using VSTS, Terraform, Packer and Ansible](https://cloudblogs.microsoft.com/opensource/2018/05/23/immutable-infrastructure-azure-vsts-terraform-packer-ansible/) May 23, 2018
+- [Tutorial: Immutable infrastructure for Azure, using VSTS, Terraform, Packer and Ansible](https://cloudblogs.microsoft.com/opensource/2018/05/23/immutable-infrastructure-azure-vsts-terraform-packer-ansible/) May 23, 2018
 
 ## Recipes
 
 ### Code coverage
 
-* [Generate Code Coverage Reports with ReportGenerator in Azure DevOps](https://ardalis.com/generate-code-coverage-reports-with-reportgenerator-in-azure-devops) - July 17, 2019
-* [Uploading to Codecov just got easier](https://devblogs.microsoft.com/devops/uploading-to-codecov-just-got-easier/) - November 13, 2019
+- [Generate Code Coverage Reports with ReportGenerator in Azure DevOps](https://ardalis.com/generate-code-coverage-reports-with-reportgenerator-in-azure-devops) - July 17, 2019
+- [Uploading to Codecov just got easier](https://devblogs.microsoft.com/devops/uploading-to-codecov-just-got-easier/) - November 13, 2019
 
 ### Permissions
 

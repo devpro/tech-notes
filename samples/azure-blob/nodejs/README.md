@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Code example taken from [Quickstart: Use .NET to create a blob in object storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows) -> [Azure-Samples/azure-storage-js-v10-quickstart](https://github.com/Azure-Samples/azure-storage-js-v10-quickstart) and fixed with [Azure/azure-storage-js](https://github.com/Azure/azure-storage-js/blob/master/README.md).
+Code example taken from [Quickstart: Use .NET to create a blob in object storage](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet?tabs=windows) -> [Azure-Samples/azure-storage-js-v10-quickstart](https://github.com/Azure-Samples/azure-storage-js-v10-quickstart) and fixed with
+[Azure/azure-storage-js](https://github.com/Azure/azure-storage-js/blob/master/README.md).
 
 ## Getting started
 

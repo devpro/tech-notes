@@ -3,7 +3,7 @@
 ## Usual commands
 
 Action                                        | Command line
-----------------------------------------------|------------------------------------
+----------------------------------------------|-------------
 `php bin/console make:controller`             | Create a controller
 `php bin/console doctrine:database:create`    | Create the database (with Doctrine)
 `php bin/console make:entity`                 | Create an entity

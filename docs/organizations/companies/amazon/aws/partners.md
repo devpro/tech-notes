@@ -4,11 +4,11 @@
 
 ## Programs
 
-* [APN Customer Engagements](https://aws.amazon.com/partners/programs/ace/)
-* [Competency](https://aws.amazon.com/partners/programs/competencies/)
-* [ISV Accelerate](https://aws.amazon.com/partners/programs/isv-accelerate/)
-* [ProServe Ready for Public Sector Partners](https://aws.amazon.com/partners/programs/proserve-ready/)
-* [Service Delivery](https://aws.amazon.com/partners/programs/service-delivery/)
+- [APN Customer Engagements](https://aws.amazon.com/partners/programs/ace/)
+- [Competency](https://aws.amazon.com/partners/programs/competencies/)
+- [ISV Accelerate](https://aws.amazon.com/partners/programs/isv-accelerate/)
+- [ProServe Ready for Public Sector Partners](https://aws.amazon.com/partners/programs/proserve-ready/)
+- [Service Delivery](https://aws.amazon.com/partners/programs/service-delivery/)
 
 ## Europe
 

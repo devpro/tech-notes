@@ -15,7 +15,7 @@ Model: Continuous delivery (no point releases)
 ## Key facts
 
 Topic              | Fact
--------------------|-------------------------------------------------
+-------------------|-----
 Status             | Active (CentOS Stream 9 & 10)
 Support            | ~1–2 years per version (tied to RHEL minor)
 Updates            | Daily/weekly packages
@@ -27,7 +27,8 @@ EOL                | Stream 9 → May 2027 / Stream 10 → active
 
 Fedora → CentOS Stream → RHEL (next minor)
 
-Not a beta - production-ready. Used in production by: AWS, Azure, GCP, Facebook, Verizon.
+Not a beta - production-ready.
+Used in production by: AWS, Azure, GCP, Facebook, Verizon.
 
 ## Quick start
 

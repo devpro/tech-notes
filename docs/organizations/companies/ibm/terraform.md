@@ -39,7 +39,7 @@
 ## Releases
 
 Version | Release date   | Links
---------|----------------|------------------------------------------------------------------------------------------------
+--------|----------------|------
 1.0     | June 08, 2021  | [Blog](https://www.hashicorp.com/blog/announcing-hashicorp-terraform-1-0-general-availability)
 0.15    | April 14, 2021 | [Blog](https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability)
 

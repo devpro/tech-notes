@@ -6,7 +6,7 @@
 
 ## Comparison
 
-* [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy) by GitKraken
+- [What is the best Git branch strategy?](https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy) by GitKraken
 
 ## Best practices
 

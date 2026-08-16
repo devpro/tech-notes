@@ -16,10 +16,10 @@
 ### AWS Certifications
 
 Name                                                                                                                           | Training
--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------|---------
 [AWS Certified Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)                         | [LinkedIn Learning](https://www.linkedin.com/learning/aws-certified-cloud-practitioner-clf-c01-cert-prep-1-cloud-concepts)
 [AWS Certified Solutions Architect - Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) | [A Cloud Guru](https://learn.acloud.guru/course/certified-solutions-architect-associate/overview)
 
 ### Trainers
 
-* [DataCumulus](https://courses.datacumulus.com/)
+- [DataCumulus](https://courses.datacumulus.com/)

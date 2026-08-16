@@ -6,9 +6,9 @@ This is a set of resources and documentation about Windows (Operating System).
 
 ### ipconfig with `Tunnel adapter Local Area Connection* XX`
 
-* Open `Device Manager` > Open `View` menu from the top > Check `Show Hidden Devices`
-* Expand `Network Adapters` and search for the component that could create this tunnel
-* Right click on the component and select `Disable device`
+- Open `Device Manager` > Open `View` menu from the top > Check `Show Hidden Devices`
+- Expand `Network Adapters` and search for the component that could create this tunnel
+- Right click on the component and select `Disable device`
 
 ### Group email conversation in Outlook
 
@@ -18,18 +18,18 @@ In `View` page, check `Show as Conversations` (more documentation on [support.of
 
 Can be interesting for example to review OneNote credentials.
 
-* Open "Control Panel"
-* Click on "User Accounts"
-* Manage "Windows Credentials"
+- Open "Control Panel"
+- Click on "User Accounts"
+- Manage "Windows Credentials"
 
 ### Investigate a problem
 
-* [Record steps to reproduce a problem](https://support.microsoft.com/en-us/windows/record-steps-to-reproduce-a-problem-46582a9b-620f-2e36-00c9-04e25d784e47)
+- [Record steps to reproduce a problem](https://support.microsoft.com/en-us/windows/record-steps-to-reproduce-a-problem-46582a9b-620f-2e36-00c9-04e25d784e47)
 
 ## Commands
 
 Command                      | Action
------------------------------|----------------------------------------------------------------
+-----------------------------|-------
 `winver`                     | Get general information on the Windows version and build number
 `wmic os get caption`        | Get OS caption
 `wmic os get osarchitecture` | Get OS architecture
@@ -48,25 +48,25 @@ Can be also available on MacOS with "brew install cask font-cascadia"
 
 ## Recipes
 
-* [Disable Windows 10 On Screen Keyboard](https://appuals.com/fix-disable-windows-10-screen-keyboard/)
+- [Disable Windows 10 On Screen Keyboard](https://appuals.com/fix-disable-windows-10-screen-keyboard/)
 
-* Review what is scheduled to be launched at startup
-  * Open the registory editor: `regedit`
-    * Look at "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run key"
+- Review what is scheduled to be launched at startup
+  - Open the registory editor: `regedit`
+    - Look at "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run key"
 
-* [Temporarily prevent a driver update from reinstalling in Windows 10](https://support.microsoft.com/en-us/kb/3073930)
+- [Temporarily prevent a driver update from reinstalling in Windows 10](https://support.microsoft.com/en-us/kb/3073930)
 
-* [Have bash in Windows 10](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+- [Have bash in Windows 10](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
-* Activate/Reenable Windows lock
-  * Open the registory editor: `regedit`
-    * Remove "DisableLockWorkStation"
-  * Open Local Group Policy Editor: `gpedit.msc`
-    * Disable "Remove Lock Computer" (in "Administrative Templates/System/Ctrl+Alt+Del Options")
+- Activate/Reenable Windows lock
+  - Open the registory editor: `regedit`
+    - Remove "DisableLockWorkStation"
+  - Open Local Group Policy Editor: `gpedit.msc`
+    - Disable "Remove Lock Computer" (in "Administrative Templates/System/Ctrl+Alt+Del Options")
 
-* [How to turn your Windows 10 computer into a DLNA streaming server](https://www.thewindowsclub.com/turn-windows-10-computer-dlna-streaming-server)
+- [How to turn your Windows 10 computer into a DLNA streaming server](https://www.thewindowsclub.com/turn-windows-10-computer-dlna-streaming-server)
 
-* Troubleshoot memory usage
-  * [Top 10 Ways to Fix High CPU/RAM/Memory Usage after Windows 10 Update](https://www.drivethelife.com/windows-10/fix-high-ram-cpu-memory-usage-after-windows-10-update.html)
-  * [High Memory Usage on Windows 10](https://www.drivereasy.com/knowledge/high-memory-usage-windows-10-solved/)
-  * [How to Fix High CPU/Memory Usage in Windows 10](https://beebom.com/how-fix-high-cpu-memory-usage-windows-10/)
+- Troubleshoot memory usage
+  - [Top 10 Ways to Fix High CPU/RAM/Memory Usage after Windows 10 Update](https://www.drivethelife.com/windows-10/fix-high-ram-cpu-memory-usage-after-windows-10-update.html)
+  - [High Memory Usage on Windows 10](https://www.drivereasy.com/knowledge/high-memory-usage-windows-10-solved/)
+  - [How to Fix High CPU/Memory Usage in Windows 10](https://beebom.com/how-fix-high-cpu-memory-usage-windows-10/)

@@ -35,7 +35,8 @@ where Federal Information Processing Standards (FIPS) and Special Publications (
 
 {/*
 
-A constraint template is used to create a Custom Resource Definition (CRD) which extends the OPA policy library. This CRD defines the object which will then be called via the constraint.
+A constraint template is used to create a Custom Resource Definition (CRD) which extends the OPA policy library.
+This CRD defines the object which will then be called via the constraint.
 
 ```yaml
 apiVersion: templates.gatekeeper.sh/v1
@@ -73,11 +74,14 @@ targets:
     }
 ```
 
-The second half of the constraint template declares the target which will be responsible for passing along the API information. Note that the package name must match the CRD spec name.
+The second half of the constraint template declares the target which will be responsible for passing along the API information.
+Note that the package name must match the CRD spec name.
 The violation stanza describes the message to be returned, the inbound spec to be evaluated, what is required in that code and what to do if the requirement is not met, and finally another message is provided to indicate what is missing.
 
 Constraint
-With the template creating the CRD, we can now use it; you can see the kind: is set to the name of the CRD. The parameters: declares the expected value. In this example, the parameter to be examined is labels, which will return a violation if it is not set to gk-ns.
+With the template creating the CRD, we can now use it; you can see the kind: is set to the name of the CRD.
+The parameters: declares the expected value.
+In this example, the parameter to be examined is labels, which will return a violation if it is not set to gk-ns.
 
 ```yaml
 apiVersion: constraints.gatekeeper.sh/v1
@@ -116,9 +120,11 @@ rules:
   - "RequestReceived" 
 ```
 
-While there could be a single rule affecting all events, there also could be many rules in a policy file. In the example above, metadata of events concerning log and status information of pods would be sent to the backend.
+While there could be a single rule affecting all events, there also could be many rules in a policy file.
+In the example above, metadata of events concerning log and status information of pods would be sent to the backend.
 
-The second rule would match all other events and send all information, but would not send RequestReceived to the backend. As a result, watch events would not appear in the log.
+The second rule would match all other events and send all information, but would not send RequestReceived to the backend.
+As a result, watch events would not appear in the log.
 
 */}
 

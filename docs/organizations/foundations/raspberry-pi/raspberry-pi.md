@@ -15,9 +15,9 @@
 [Installing operating system images](https://www.raspberrypi.org/documentation/installation/installing-images/README.md)
 
 #### Validated configurations
-  
+
 Type                                                                                            | CPU                                              | RAM              | OS
-------------------------------------------------------------------------------------------------|--------------------------------------------------|------------------|---------------------------------------------------------------
+------------------------------------------------------------------------------------------------|--------------------------------------------------|------------------|---
 **Pi Model B Rev 2**                                                                            | BCM2835 ARMv6 1176JZF-S 700 MHz                  | 512 Mo           | Raspberry Pi OS Lite (32-bit)
 **Pi Model 2 B**                                                                                | BCM2836 ARMv7 Cortex-A7 Quad Core 900MHz         | 1 Go             | Ubuntu Server 18.04 (32-bit), Ubuntu Server 20.04 LTS (32-bit)
 **[Pi Model 4 B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/specifications/)** | BCM2711 ARMv8 Quad core Cortex-A72 64-bit 1.5GHz | 4 Go LPDDR4-3200 | Ubuntu Server 18.04 (64-bit), Ubuntu Server 20.04 LTS (64-bit)
@@ -46,7 +46,8 @@ Insert the SD card in the board, plug a keyboard (USB), a monitor (HDMI) then pl
 
 #### Hardware check
 
-_Note_: @since Kernel 4.9, BCM2835 will be displayed for the processor, even for BCM2836, BCM2837 and BCM2711. You should look instead at the [revision code](https://www.raspberrypi.org/documentation/hardware/raspberrypi/revision-codes/README.md), which is unique.
+_Note_: @since Kernel 4.9, BCM2835 will be displayed for the processor, even for BCM2836, BCM2837 and BCM2711.
+You should look instead at the [revision code](https://www.raspberrypi.org/documentation/hardware/raspberrypi/revision-codes/README.md), which is unique.
 
 ```bash
 cat /proc/cpuinfo
@@ -257,9 +258,9 @@ Configuration:
   - Make sure you have a keyboard and a mouse :)
 - `/boot/config.txt` file
   - Values
-  
+
   Key          | value | Detail                                                                                        | Comment
-  -------------|-------|-----------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------
+  -------------|-------|-----------------------------------------------------------------------------------------------|--------
   `hdmi_group` | 1     | CEA (Consumer Electronics Association) is the display standard that is typically used on a TV | -
   `hdmi_group` | 2     | DMT (Display Monitor Timings) is the standard that is typically used by monitors              | -
   `hdmi_mode`  | 16    | CEA 1920×1080 16:9 60hz                                                                       | -

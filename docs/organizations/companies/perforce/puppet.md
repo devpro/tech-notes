@@ -28,7 +28,8 @@
 
 ## Learn
 
-Puppet is a solution to automate the management of an infrastructure, it is an open source product with an important community. Current version is 6.3 (February 2019).
+Puppet is a solution to automate the management of an infrastructure, it is an open source product with an important community.
+Current version is 6.3 (February 2019).
 An enterprise edition is available with additional features that ease the use of the solution.
 
 Entry points:
@@ -51,7 +52,8 @@ The Puppet master is also known as the `puppetserver`.
 
 #### Puppet Forge
 
-Puppet is modular by design, first step is to look at existing modules for your needs (NB: don't reinvent the wheel and keep you code on added value). Module repository is Puppet forge at [forge.puppet.com](https://forge.puppet.com/).
+Puppet is modular by design, first step is to look at existing modules for your needs (NB: don't reinvent the wheel and keep you code on added value).
+Module repository is Puppet forge at [forge.puppet.com](https://forge.puppet.com/).
 
 Interesting modules:
 
@@ -63,7 +65,8 @@ Interesting modules:
 - `puppet-windows_env`
 - `puppetlabs-powershell`
 - `puppetlabs-registry`
-- [`puppetlabs-iis`](https://forge.puppet.com/puppetlabs/iis): Manage IIS for Windows Server 2008R2, 2012 and 2012R2. Maintain application sites, pools, installation, and many other IIS settings
+- [`puppetlabs-iis`](https://forge.puppet.com/puppetlabs/iis): Manage IIS for Windows Server 2008R2, 2012 and 2012R2.
+  Maintain application sites, pools, installation, and many other IIS settings
 
 #### Module creation
 
@@ -188,7 +191,7 @@ sc stop "puppet"
 #### Configuration files (Windows)
 
 File path                                          | Details
----------------------------------------------------|--------------------------------
+---------------------------------------------------|--------
 `C:\Windows\System32\drivers\etc\hosts`            | Host file
 `C:\Users\xxxxxxx\.gitconfig`                      | Git configuration file
 `C:\ProgramData\PuppetLabs\puppet\etc\puppet.conf` | Puppet agent configuration file
@@ -278,7 +281,7 @@ tail -f /var/log/puppetlabs/puppetserver/puppetserver-access.log
 ### Configuration files ([doc](https://puppet.com/docs/puppetserver/5.1/configuration.html))
 
 File path                                       | Details
-------------------------------------------------|---------------------------------------------------------------------------------------------------------------
+------------------------------------------------|--------
 `/etc/sysconfig/puppetserver`                   | Puppet server configuration file
 `/etc/puppetlabs/puppetserver/conf.d/auth.conf` | Puppet serveur auth configuration file ([doc](https://puppet.com/docs/puppetserver/5.1/config_file_auth.html))
 `/etc/puppetlabs/puppet/puppet.conf`            | Puppet agent configuration file

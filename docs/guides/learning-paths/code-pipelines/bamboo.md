@@ -81,7 +81,7 @@ _Limitation 2021-02-28_: Unfortunately it is not possible to automate it through
 You have to manually go to this page ["Bamboo administration > Server capabilities"](http://localhost:8085/admin/agent/configureSharedLocalCapabilities.action) and set the server capabilities (if not present), it must be done only once/
 
 Category   | Executable / Label | Path              | Bamboo key
------------|--------------------|-------------------|--------------------------------
+-----------|--------------------|-------------------|-----------
 Executable | dotnet             | `/usr/bin/dotnet` | `system.builder.command.dotnet`
 Docker     | Docker             | `/usr/bin/docker` | `system.docker.executable`
 
