@@ -5,13 +5,14 @@ end_of_line = lf
 indent_size = 2
 indent_style = space
 insert_final_newline = true
+
+[*.{js,json,tf*,yml,yaml}]
+max_line_length = 180
 trim_trailing_whitespace = true
 
 [*.md]
+max_line_length = 350
 trim_trailing_whitespace = false
-
-[*.{md,yaml,yml}]
-charset = utf-8-bom
 
 [*.{env,sh,tf,tfpl}]
 charset = utf-8
