@@ -16,7 +16,7 @@ lint-markdown:
 
 lint-yaml:
   stage: build
-  image: python:3.13
+  image: python:3.14
   script:
     - pip install yamllint
     - yamllint .
