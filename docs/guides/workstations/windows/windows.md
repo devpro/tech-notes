@@ -43,25 +43,32 @@ Enable:
 ### Utilities
 
 1. Windows Terminal
-2. 1Password, or KeePass (with [KeeTheme](https://github.com/xatupal/KeeTheme)), or another password manager
 
-    ```batch
-    winget install -e --id AgileBits.1Password
-    ```
+2. 7-zip
 
-3. [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+   ```batch
+   winget install -e --id 7zip.7zip
+   ```
+  
+3. 1Password, or KeePass (with [KeeTheme](https://github.com/xatupal/KeeTheme)), or another password manager
 
-    ```dos
-    winget install -e --id Microsoft.Sysinternals.Suite
-    ```
+   ```batch
+   winget install -e --id AgileBits.1Password
+   ```
 
-4. WinDirStat
+4. [Sysinternals Suite](https://learn.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
 
-    ```dos
-    winget install WinDirStat.WinDirStat
-    ```
+   ```dos
+   winget install -e --id Microsoft.Sysinternals.Suite
+   ```
 
-5. [WinMerge](https://winmerge.org/downloads/)
+5. WinDirStat
+
+   ```dos
+   winget install WinDirStat.WinDirStat
+   ```
+
+6. [WinMerge](https://winmerge.org/downloads/)
 
 ## Drivers
 
@@ -155,6 +162,7 @@ Download in a directory added to the PATH environment variable:
 2. [draw.io Diagrams](https://apps.microsoft.com/detail/9mvvszk43qqw)
 3. [PDF24 Creator](https://apps.microsoft.com/detail/xpfd51h3vqzfm0)
 4. [Inkscape](https://inkscape.org/)
+5. [LossLessCut](https://github.com/mifi/lossless-cut)
 
 ## Upgrade
 
