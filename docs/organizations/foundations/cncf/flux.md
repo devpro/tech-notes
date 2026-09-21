@@ -4,6 +4,13 @@
 
 🌐 [fluxcd.io](https://fluxcd.io/)
 
+## Installation
+
+```bash
+curl -s https://fluxcd.io/install.sh | sudo bash
+. <(flux completion bash)flux
+```
+
 ## News
 
 - [November 2021 update](https://fluxcd.io/blog/2021/11/november-2021-update/) - October 29, 2021
