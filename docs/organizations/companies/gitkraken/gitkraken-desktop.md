@@ -47,5 +47,5 @@ Know issues:
 - GitKraken Desktop window may disappear and the only solution is to kill and restart the application
 
     ```bash
-    kill -TERM -- -$(pgrep -o gitkraken)
+    kill -9 -- -$(pgrep -o gitkraken)
     ```

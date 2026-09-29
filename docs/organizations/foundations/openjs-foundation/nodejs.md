@@ -16,8 +16,17 @@ Install with NVM:
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash
 \. "$HOME/.nvm/nvm.sh"
 nvm install 24
+nvm ls
 node -v
 npm -v
+```
+
+Update with:
+
+```bash
+nvm install 24
+nvm alias default 24
+nvm use 24
 ```
 
 ### Windows
