@@ -29,4 +29,4 @@ See also:
 4. Execute with excellence
 5. Act confident, stay humble
 
-[//]: <> ([cloudsecuritychampionship.com](https://cloudsecuritychampionship.com/))
+[//]: <> (https://cloudsecuritychampionship.com/)

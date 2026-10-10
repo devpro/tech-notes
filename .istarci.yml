@@ -1,15 +1,10 @@
-# IstarCI configuration, read from the root of the repository.
-
 runner:
-  # Every job runs Node, which the plain ubuntu image does not carry.
   image: ghcr.io/devpro/debian-node:latest
 
 workflow:
-  # GitHub's own actions, and the composite replacements for every other one kept in github-workflow-parts.
   allowedActions:
     - actions/*
     - github/*
     - devpro/github-workflow-parts/*
-  # Delivery publishes on a push to the default branch, which a local run must never reach.
   exclude:
     - deploy.yml

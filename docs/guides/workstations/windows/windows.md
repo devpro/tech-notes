@@ -4,8 +4,6 @@ The following instructions target **Windows 11**.
 
 For previous versions: [Windows 10](archive/windows-10.md).
 
-<!-- https://winstall.app/ -->
-
 ## System configuration
 
 ### Power options
