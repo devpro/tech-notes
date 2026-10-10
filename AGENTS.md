@@ -20,7 +20,9 @@ Applies to Markdown, code comments, commit messages and prose in scripts.
 
 - **A comment says why, not what, and the why is timeless.**
 - **One thought per line.**
-  Every sentence starts on its own line, and there is no maximum line length.
+  Every sentence starts on its own line.
+  A sentence that would pass 180 characters is cut where a reader would take a breath,
+  at a comma or before a "so", an "and" or a "which", and never inside a phrase.
 - **No em dash, no en dash.**
   A colon, a comma, or a full stop.
 - **No second person.**
