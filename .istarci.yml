@@ -2,6 +2,7 @@ runner:
   image: ghcr.io/devpro/debian-node:latest
 
 workflow:
+  onDisallowedAction: fail
   allowedActions:
     - actions/*
     - github/*

@@ -6,11 +6,7 @@
 
 Launched in April, 2008.
 
-## Content
-
-- [CLI](gcloud-cli.md)
-
-### Quick start
+## Quick start
 
 Go to [console.cloud.google.com](https://console.cloud.google.com/) to reach the web console (portal) and start your experience with GCP.
 
@@ -21,7 +17,7 @@ Build your learning path from official resources:
 
 Keep up-to-date with [Google Cloud Podcast](https://cloud.google.com/podcasts/gcp-podcast)
 
-### Concepts
+## Concepts
 
 - [Marketplace](https://console.cloud.google.com/marketplace) lets you quickly deploy software on Google Cloud
 - [Virtual Private Cloud (VPC)](https://cloud.google.com/vpc) is a global virtual network that spans all regions.
@@ -39,7 +35,7 @@ Navigate the product offering with [interactive cheat sheet](https://googlecloud
 - [Cloud Deploy](https://cloud.google.com/deploy)
   - [Skaffold](skaffold.md)
 
-## Google Kubernetes Engine (GKE)
+### Google Kubernetes Engine (GKE)
 
 > The most scalable and fully automated Kubernetes service.
 

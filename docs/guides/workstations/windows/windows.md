@@ -120,7 +120,7 @@ Download in a directory added to the PATH environment variable:
 5. GitKraken
 6. [Node.js](../../../organizations/foundations/openjs-foundation/nodejs.md)
 7. .NET SDK
-8. [JetBrains Toolbox](../../../organizations/companies/jetbrains/toolbox.md)
+8. JetBrains Toolbox
     - [Rider](../../../organizations/companies/jetbrains/rider.md)
 
     ```dos
