@@ -46,6 +46,12 @@ Know issues:
 
 - GitKraken Desktop window may disappear and the only solution is to kill and restart the application
 
-    ```bash
-    kill -9 -- -$(pgrep -o gitkraken)
-    ```
+  ```bash
+  kill -9 -- -$(pgrep -o gitkraken)
+  ```
+
+- Reset the WSLg Display Server
+
+  ```bash
+  wsl.exe --system /bin/bash -c "pgrep weston | xargs kill -9"
+  ```
