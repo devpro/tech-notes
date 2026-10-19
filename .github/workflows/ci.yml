@@ -19,15 +19,16 @@ concurrency:
 jobs:
   markup-lint:
     name: Markup
-    uses: devpro/github-workflow-parts/.github/workflows/reusable-markup-lint.yml@35750e9d1a21724d3a7e028ee9bc6da02dcb5afb
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-markup-lint.yml@c6d06a61a377a41dc192ce58f08a0b5100d9a2bc
 
   code-quality:
     name: Code / Quality
-    runs-on: ubuntu-latest
-    steps:
-      - name: Clone repository
-        uses: actions/checkout@v7
-      - name: Install JavaScript dependencies
-        run: npm install
-      - name: Build website
-        run: npm run build
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@c6d06a61a377a41dc192ce58f08a0b5100d9a2bc
+    with:
+      build-command: |
+        npm ci
+        npm run build
+      deploy: false
+      node-version: "22"
+      site-path: build
+      workflow-parts-version: c6d06a61a377a41dc192ce58f08a0b5100d9a2bc
