@@ -146,14 +146,6 @@ Download in a directory added to the PATH environment variable:
     winget install -e --id Anthropic.ClaudeCode
     ```
 
-12. [Antigravity](../../../organizations/companies/google/antigravity.md)
-13. [Antigravity IDE](../../../organizations/companies/google/antigravity.md)
-14. [Antigravity CLI](../../../organizations/companies/google/antigravity.md)
-
-    ```dos
-    winget install -e --id Google.AntigravityCLI
-    ```
-
 ### Office
 
 1. Greenshot
