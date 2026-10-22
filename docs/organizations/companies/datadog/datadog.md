@@ -1,4 +1,4 @@
-﻿# Datadog
+# Datadog
 
 > Observability and security platform for cloud applications
 

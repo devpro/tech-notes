@@ -1,4 +1,4 @@
-﻿# Epinio samples
+# Epinio samples
 
 Samples of usage of [Epinio](epinio.md) to deploy workload with a command.
 

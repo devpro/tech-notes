@@ -1,4 +1,4 @@
-﻿# Puppet
+# Puppet
 
 🌐 [puppet.com](https://puppet.com/)
 

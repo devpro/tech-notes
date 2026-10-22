@@ -1,4 +1,4 @@
-﻿# Anthropic
+# Anthropic
 
 🌐 [anthropic.com](https://www.anthropic.com/)
 

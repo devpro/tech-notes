@@ -1,4 +1,4 @@
-﻿# Cloud Security vendors
+# Cloud Security vendors
 
 - Aqua
 - Armis

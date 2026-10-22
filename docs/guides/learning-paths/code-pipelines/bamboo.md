@@ -1,4 +1,4 @@
-﻿# Bamboo Data Center
+# Bamboo Data Center
 
 ## Introduction
 

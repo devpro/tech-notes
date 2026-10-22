@@ -1,4 +1,4 @@
-﻿# Microsoft Azure
+# Microsoft Azure
 
 ## Getting started
 

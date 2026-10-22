@@ -1,4 +1,4 @@
-﻿using System.Net.Http.Headers;
+using System.Net.Http.Headers;
 using LogzioJaegerSample.Lib.DistributedTracing.Configuration;
 using LogzioJaegerSample.Lib.DistributedTracing.DependencyInjection;
 using Microsoft.AspNetCore.Builder;

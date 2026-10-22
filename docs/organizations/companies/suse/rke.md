@@ -1,4 +1,4 @@
-﻿# Rancher Kubernetes Engine (RKE)
+# Rancher Kubernetes Engine (RKE)
 
 > RKE is a CNCF-certified Kubernetes distribution that solves common installation complexities of Kubernetes by removing most host dependencies, presenting a stable path for deployment, upgrades & rollbacks.
 

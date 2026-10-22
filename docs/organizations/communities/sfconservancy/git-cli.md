@@ -1,4 +1,4 @@
-﻿# Git CLI (Command Line Interface)
+# Git CLI (Command Line Interface)
 
 ## Usual commands
 

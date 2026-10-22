@@ -1,4 +1,4 @@
-﻿# Installation of Go
+# Installation of Go
 
 🌐 [Download and install](https://go.dev/doc/install)
 

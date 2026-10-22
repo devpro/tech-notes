@@ -1,4 +1,4 @@
-﻿using LogzioJaegerSample.Lib.DistributedTracing.Configuration;
+using LogzioJaegerSample.Lib.DistributedTracing.Configuration;
 using LogzioJaegerSample.Lib.DistributedTracing.Middleware;
 using Microsoft.AspNetCore.Builder;
 

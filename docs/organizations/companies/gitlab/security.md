@@ -1,4 +1,4 @@
-﻿# Security
+# Security
 
 🌐 [docs/user/application_security/secure_your_application](https://docs.gitlab.com/user/application_security/secure_your_application/)
 

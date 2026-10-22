@@ -1,4 +1,4 @@
-﻿# DevPro Technical Notes
+# DevPro Technical Notes
 
 [![GitHub Action CI status](https://github.com/devpro/tech-notes/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/devpro/tech-notes/actions/workflows/ci.yml)
 [![GitHub Action Deploy status](https://github.com/devpro/tech-notes/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/devpro/tech-notes/actions/workflows/deploy.yml)

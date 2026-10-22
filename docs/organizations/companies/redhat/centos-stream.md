@@ -1,4 +1,4 @@
-﻿# CentOS Stream
+# CentOS Stream
 
 > Continuously delivered distro that tracks just ahead of Red Hat Enterprise Linux (RHEL) development, positioned as a midstream between Fedora Linux and RHEL.
 

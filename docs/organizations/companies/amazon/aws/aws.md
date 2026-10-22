@@ -1,4 +1,4 @@
-﻿# AWS
+# AWS
 
 > Amazon Web Services is the world's most comprehensive and broadly adopted cloud, enabling customers to build anything they can imagine
 

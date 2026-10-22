@@ -1,4 +1,4 @@
-﻿# Antigravity
+# Antigravity
 
 🌐 [antigravity.google](https://antigravity.google/)
 

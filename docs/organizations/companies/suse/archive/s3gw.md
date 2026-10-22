@@ -1,4 +1,4 @@
-﻿# s3gw
+# s3gw
 
 > The s3gw project is a lightweight, open source S3 service for small deployments, and easy to deploy in a cloud native environment such as Kubernetes
 

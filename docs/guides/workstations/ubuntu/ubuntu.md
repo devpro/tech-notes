@@ -1,4 +1,4 @@
-﻿# Ubuntu
+# Ubuntu
 
 The following instructions target **Ubuntu 24.04**.
 

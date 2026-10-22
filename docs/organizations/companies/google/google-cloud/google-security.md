@@ -1,4 +1,4 @@
-﻿# Google Security
+# Google Security
 
 ## Agentic SOC
 

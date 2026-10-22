@@ -1,4 +1,4 @@
-﻿# OpenJDK
+# OpenJDK
 
 ## Installation
 

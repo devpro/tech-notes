@@ -1,4 +1,4 @@
-﻿# Data Theorem
+# Data Theorem
 
 🌐 [datatheorem.com](https://www.datatheorem.com/)
 

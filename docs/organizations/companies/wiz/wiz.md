@@ -1,4 +1,4 @@
-﻿# Wiz
+# Wiz
 
 > Led by an experienced and visionary team, we are on a mission to help organizations create secure cloud environments that accelerate their businesses.
 > By creating a normalizing layer between cloud environments, our platform enables organizations to rapidly identify and remove critical risks.

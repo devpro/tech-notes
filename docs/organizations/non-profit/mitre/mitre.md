@@ -1,4 +1,4 @@
-﻿# MITRE
+# MITRE
 
 > MITRE was established to advance national security in new ways and serve the public interest as an independent adviser.
 > We continue to deliver on that promise every day, applying our systems-thinking approach to provide solutions that enhance our national security and way of life.

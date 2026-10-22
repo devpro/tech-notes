@@ -1,4 +1,4 @@
-﻿# Nutanix
+# Nutanix
 
 > Nutanix is a global leader in cloud software, offering a unified platform to run applications and manage data across on-premises datacenters, public clouds, and edge locations.
 > Our software-defined architecture combines compute, storage, virtualization, and networking, and adapts to various hardware and cloud options.

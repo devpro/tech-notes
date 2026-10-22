@@ -1,4 +1,4 @@
-﻿# Symfony on Windows
+# Symfony on Windows
 
 ## Problem with response time
 

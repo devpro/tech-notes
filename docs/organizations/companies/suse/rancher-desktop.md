@@ -1,4 +1,4 @@
-﻿# Rancher Desktop
+# Rancher Desktop
 
 > An open-source desktop application for Mac, Windows and Linux.
 Rancher Desktop runs Kubernetes and container management on your desktop.

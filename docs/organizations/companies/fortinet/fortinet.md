@@ -1,4 +1,4 @@
-﻿# Fortinet
+# Fortinet
 
 🌐 [fortinet.com](https://www.fortinet.com/)
 

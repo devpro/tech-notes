@@ -1,4 +1,4 @@
-﻿# People
+# People
 
 Poeple working at Nutanix are called Nutants.
 

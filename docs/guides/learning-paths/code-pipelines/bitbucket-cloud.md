@@ -1,4 +1,4 @@
-﻿# Bitbucket (Cloud)
+# Bitbucket (Cloud)
 
 ## Introduction
 

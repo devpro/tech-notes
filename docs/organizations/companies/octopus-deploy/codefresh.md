@@ -1,4 +1,4 @@
-﻿# Codefresh
+# Codefresh
 
 🌐 [codefresh.io](https://codefresh.io/)
 

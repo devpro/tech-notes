@@ -1,4 +1,4 @@
-﻿# Security Threats
+# Security Threats
 
 ## News
 

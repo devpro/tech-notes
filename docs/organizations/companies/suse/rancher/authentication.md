@@ -1,4 +1,4 @@
-﻿# Authentication
+# Authentication
 
 ## Key features
 

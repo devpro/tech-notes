@@ -1,4 +1,4 @@
-﻿# Offering
+# Offering
 
 ## Support
 

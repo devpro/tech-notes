@@ -1,4 +1,4 @@
-﻿# Rancher migrations
+# Rancher migrations
 
 ## Swarm to Kubernetes clusters managed by Rancher
 

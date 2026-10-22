@@ -1,4 +1,4 @@
-﻿# Rancher operations
+# Rancher operations
 
 ## Backup strategy
 

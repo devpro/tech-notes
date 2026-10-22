@@ -1,4 +1,4 @@
-﻿# K3s
+# K3s
 
 > K3s is a CNCF sandbox project that delivers a lightweight yet powerful certified Kubernetes distribution
 

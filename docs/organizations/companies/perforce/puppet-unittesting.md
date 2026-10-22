@@ -1,4 +1,4 @@
-﻿# Unit Testing Puppet code
+# Unit Testing Puppet code
 
 - Resources
   - David Schmitt | Introduction to Testing Puppet Modules

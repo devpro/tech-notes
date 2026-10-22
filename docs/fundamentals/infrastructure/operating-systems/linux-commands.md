@@ -1,4 +1,4 @@
-﻿# Linux terminal
+# Linux terminal
 
 ## Additional packages
 

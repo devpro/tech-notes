@@ -1,4 +1,4 @@
-﻿# TeamCity
+# TeamCity
 
 In this tutorial we'll setup an instance of TeamCity, running on Docker, and configure a CI pipeline on the code samples available in this repository.
 

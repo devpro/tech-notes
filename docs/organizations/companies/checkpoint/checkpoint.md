@@ -1,4 +1,4 @@
-﻿# Check Point
+# Check Point
 
 🌐 [checkpoint.com](https://www.checkpoint.com/)
 

@@ -1,4 +1,4 @@
-﻿# Epinio
+# Epinio
 
 > Tame your developer workflow to go from Code to URL in one push.
 

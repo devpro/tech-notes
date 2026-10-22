@@ -1,4 +1,4 @@
-﻿# Windows
+# Windows
 
 The following instructions target **Windows 11**.
 

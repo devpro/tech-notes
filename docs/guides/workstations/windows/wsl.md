@@ -1,4 +1,4 @@
-﻿# WSL
+# WSL
 
 📝 [organizations/companies/microsoft/wsl](../../../organizations/companies/microsoft/wsl.md)
 

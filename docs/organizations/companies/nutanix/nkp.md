@@ -1,4 +1,4 @@
-﻿# Nutanix Kubernetes Platform
+# Nutanix Kubernetes Platform
 
 > Nutanix Kubernetes Platform (NKP) simplifies platform engineering by reducing operational complexity and establishing consistency across any environment
 

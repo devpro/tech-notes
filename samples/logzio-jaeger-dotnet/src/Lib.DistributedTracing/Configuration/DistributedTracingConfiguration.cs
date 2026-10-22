@@ -1,4 +1,4 @@
-﻿using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration;
 using OpenTelemetry.Exporter.Jaeger;
 
 namespace LogzioJaegerSample.Lib.DistributedTracing.Configuration

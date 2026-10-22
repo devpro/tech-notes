@@ -1,4 +1,4 @@
-﻿# Docker engine
+# Docker engine
 
 > Docker Engine (also known as Docker CE) is an open source containerization technology for building and containerizing your applications
 

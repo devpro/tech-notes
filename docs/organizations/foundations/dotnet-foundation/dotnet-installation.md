@@ -1,4 +1,4 @@
-﻿# .NET installation
+# .NET installation
 
 ## Operating systems
 

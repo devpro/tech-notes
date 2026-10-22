@@ -1,4 +1,4 @@
-﻿# NeuVector Architecture
+# NeuVector Architecture
 
 ## Overview
 

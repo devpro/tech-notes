@@ -1,4 +1,4 @@
-﻿# Code pipelines
+# Code pipelines
 
 Let's explore different tools to implement CI pipelines!
 

@@ -1,4 +1,4 @@
-﻿# Kubewarden
+# Kubewarden
 
 > Kubewarden is a policy engine for Kubernetes.
 > Its mission is to simplify the adoption of policy-as-code.

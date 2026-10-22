@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using LogzioJaegerSample.Lib.DistributedTracing.Configuration;
 using LogzioJaegerSample.Lib.DistributedTracing.Diagnostics;

@@ -1,4 +1,4 @@
-﻿# MongoDB
+# MongoDB
 
 > MongoDB empowers innovators with our modern database platform and integrated services.
 > Our mission is to unleash the power of software and data, enabling development teams to meet the diverse needs of modern applications.

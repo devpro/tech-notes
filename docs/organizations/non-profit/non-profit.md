@@ -1,4 +1,4 @@
-﻿# Non-profit
+# Non-profit
 
 ## Organizations
 

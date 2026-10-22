@@ -1,4 +1,4 @@
-﻿# Contributing
+# Contributing
 
 [![GitLab Pipeline Status](https://gitlab.com/devpro-labs/enablement/tech-notes/badges/main/pipeline.svg)](https://gitlab.com/devpro-labs/enablement/tech-notes/-/pipelines)
 

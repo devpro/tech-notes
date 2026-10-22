@@ -1,4 +1,4 @@
-﻿# GitLab
+# GitLab
 
 > GitLab is the most comprehensive AI-powered DevSecOps Platform
 

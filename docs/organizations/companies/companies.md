@@ -1,4 +1,4 @@
-﻿# Companies
+# Companies
 
 ## Software vendors & services
 

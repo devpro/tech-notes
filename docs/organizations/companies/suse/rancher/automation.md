@@ -1,4 +1,4 @@
-﻿# Automation with Rancher
+# Automation with Rancher
 
 ## Terraform
 

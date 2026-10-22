@@ -1,4 +1,4 @@
-﻿# HobbyFarm
+# HobbyFarm
 
 > Hobbyfarm is an interactive coding platform that runs in the browser
 

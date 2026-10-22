@@ -1,4 +1,4 @@
-﻿# MongoDB Products
+# MongoDB Products
 
 ## Platforms
 

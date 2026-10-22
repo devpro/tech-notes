@@ -1,4 +1,4 @@
-﻿# Glossary for GitLab
+# Glossary for GitLab
 
 Acronym | Meaning
 --------|--------

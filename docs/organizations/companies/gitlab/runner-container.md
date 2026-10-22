@@ -1,4 +1,4 @@
-﻿# GitLab Runner executed in a container
+# GitLab Runner executed in a container
 
 ## Use cases
 

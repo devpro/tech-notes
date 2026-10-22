@@ -1,4 +1,4 @@
-﻿# IBM
+# IBM
 
 🌐 [ibm.com](https://ibm.com)
 

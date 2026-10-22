@@ -1,4 +1,4 @@
-﻿# gcloud
+# gcloud
 
 > Create and manage Google Cloud resources and services directly on the command line or via scripts using `gcloud`, the Google Cloud CLI (Command Line Interface).
 

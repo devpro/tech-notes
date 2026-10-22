@@ -1,4 +1,4 @@
-﻿# Rancher extensions
+# Rancher extensions
 
 💡 Introduced in Rancher 2.7.0
 

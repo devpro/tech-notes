@@ -1,4 +1,4 @@
-﻿# Cloud Foundry
+# Cloud Foundry
 
 > Cloud Foundry is an Open Source Cloud Application Platform.
 

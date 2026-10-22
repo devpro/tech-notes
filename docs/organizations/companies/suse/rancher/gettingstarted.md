@@ -1,4 +1,4 @@
-﻿# Getting started with Rancher
+# Getting started with Rancher
 
 ## Quick start
 

@@ -1,4 +1,4 @@
-﻿# Palo Alto Networks
+# Palo Alto Networks
 
 🌐 [paloaltonetworks.com](https://www.paloaltonetworks.com/)
 

@@ -1,4 +1,4 @@
-﻿# Azure security
+# Azure security
 
 ## Microsoft Defender for Cloud
 

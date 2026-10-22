@@ -1,4 +1,4 @@
-﻿using OpenTelemetry.Exporter.Jaeger;
+using OpenTelemetry.Exporter.Jaeger;
 
 namespace LogzioJaegerSample.Lib.DistributedTracing.Configuration
 {

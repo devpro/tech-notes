@@ -1,4 +1,4 @@
-﻿# SUSE Linux Enterprise Server (SLES)
+# SUSE Linux Enterprise Server (SLES)
 
 ## SUSE Linux Enterprise Desktop
 

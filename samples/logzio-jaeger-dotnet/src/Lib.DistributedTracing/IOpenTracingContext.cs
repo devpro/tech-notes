@@ -1,4 +1,4 @@
-﻿namespace LogzioJaegerSample.Lib.DistributedTracing
+namespace LogzioJaegerSample.Lib.DistributedTracing
 {
     public interface IOpenTracingContext
     {

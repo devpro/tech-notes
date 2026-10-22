@@ -1,4 +1,4 @@
-﻿# Products
+# Products
 
 All this projects are open-source and managed by SUSE.
 

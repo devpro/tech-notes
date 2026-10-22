@@ -1,4 +1,4 @@
-﻿# Market studies
+# Market studies
 
 ## Forrester
 

@@ -1,4 +1,4 @@
-﻿# Rider
+# Rider
 
 > JetBrains Rider is a leading cross-platform IDE for .NET and game developers looking to boost productivity and streamline their development process.
 

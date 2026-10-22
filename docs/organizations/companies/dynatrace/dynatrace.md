@@ -1,4 +1,4 @@
-﻿# Dynatrace
+# Dynatrace
 
 🌐 [dynatrace.com](https://www.dynatrace.com/)
 

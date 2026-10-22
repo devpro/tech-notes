@@ -1,4 +1,4 @@
-﻿# Dynatrace Glossary
+# Dynatrace Glossary
 
 Acronym | Meaning
 --------|--------

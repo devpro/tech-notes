@@ -1,4 +1,4 @@
-﻿# Sessions
+# Sessions
 
 ## Wizdom 2025
 

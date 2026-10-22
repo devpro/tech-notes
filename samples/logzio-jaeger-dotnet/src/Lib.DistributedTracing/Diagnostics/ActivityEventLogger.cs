@@ -1,4 +1,4 @@
-﻿using System.Diagnostics;
+using System.Diagnostics;
 using Microsoft.Extensions.Logging;
 
 namespace LogzioJaegerSample.Lib.DistributedTracing.Diagnostics

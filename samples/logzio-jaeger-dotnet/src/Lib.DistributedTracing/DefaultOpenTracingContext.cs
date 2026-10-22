@@ -1,4 +1,4 @@
-﻿using LogzioJaegerSample.Lib.DistributedTracing.Configuration;
+using LogzioJaegerSample.Lib.DistributedTracing.Configuration;
 using Microsoft.Extensions.Logging;
 
 namespace LogzioJaegerSample.Lib.DistributedTracing

@@ -1,4 +1,4 @@
-﻿# Nutanix Cloud Infrastructure
+# Nutanix Cloud Infrastructure
 
 > Nutanix Cloud Infrastructure (NCI) delivers hyperconverged infrastructure in new ways, with the power of simplicity, and allows IT to manage applications, data, and security across your entire datacenter and multicloud environments
 

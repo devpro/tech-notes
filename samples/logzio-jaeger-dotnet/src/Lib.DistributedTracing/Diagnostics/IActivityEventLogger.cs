@@ -1,4 +1,4 @@
-﻿namespace LogzioJaegerSample.Lib.DistributedTracing.Diagnostics
+namespace LogzioJaegerSample.Lib.DistributedTracing.Diagnostics
 {
     public interface IActivityEventLogger<T>
     {

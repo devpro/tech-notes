@@ -1,4 +1,4 @@
-﻿# Nutanix Cloud Manager
+# Nutanix Cloud Manager
 
 > Nutanix Cloud Manager (NCM) helps organizations easily build and manage multicloud deployments by automating routine tasks and providing tools for orchestration and security compliance
 

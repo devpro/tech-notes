@@ -1,4 +1,4 @@
-﻿# Skaffold
+# Skaffold
 
 > Skaffold handles the workflow for building, pushing and deploying your application, allowing you to focus on what matters most: writing code.
 

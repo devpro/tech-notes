@@ -1,4 +1,4 @@
-﻿# Harvester
+# Harvester
 
 > The open source hyperconverged infrastructure (HCI) solution for a cloud native world
 

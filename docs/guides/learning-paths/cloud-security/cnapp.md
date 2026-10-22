@@ -1,4 +1,4 @@
-﻿# CNAPP
+# CNAPP
 
 Cloud Native Application Protection Platforms (CNAPP) unify multiple cloud security domains into a single solution.
 

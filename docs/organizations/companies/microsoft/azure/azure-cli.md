@@ -1,4 +1,4 @@
-﻿# Azure CLI
+# Azure CLI
 
 🌐 [docs](https://learn.microsoft.com/en-us/cli/azure/)
 

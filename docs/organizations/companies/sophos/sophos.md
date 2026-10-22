@@ -1,4 +1,4 @@
-﻿# Sophos
+# Sophos
 
 [sophos.com](https://www.sophos.com/)
 

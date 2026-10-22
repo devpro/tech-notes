@@ -1,4 +1,4 @@
-﻿namespace SplunkOpenTelemetrySample.WebApi.Builder
+namespace SplunkOpenTelemetrySample.WebApi.Builder
 {
     public static class TransportSecurityBuilderExtensions
     {

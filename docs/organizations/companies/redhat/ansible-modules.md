@@ -1,4 +1,4 @@
-﻿# Ansible Modules
+# Ansible Modules
 
 > Ansible ships with a number of modules (called the 'module library') that can be executed directly on remote hosts or through Playbooks.  
 > Users can also write their own modules.

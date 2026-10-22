@@ -1,4 +1,4 @@
-﻿# Installation of Rancher
+# Installation of Rancher
 
 ## General procedures
 

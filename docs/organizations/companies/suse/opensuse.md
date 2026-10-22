@@ -1,4 +1,4 @@
-﻿# openSUSE
+# openSUSE
 
 > The openSUSE distribution is a stable, easy to use and complete multi-purpose distribution.
 > It is aimed towards users and developers working on the desktop or server.

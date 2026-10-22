@@ -1,4 +1,4 @@
-﻿# Hypper
+# Hypper
 
 > Hypper makes it easy to install and manage cluster level applications while leveraging Helm and charts
 

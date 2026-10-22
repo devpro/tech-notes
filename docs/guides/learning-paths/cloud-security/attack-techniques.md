@@ -1,4 +1,4 @@
-﻿# Attack techniques
+# Attack techniques
 
 Topics to cover:
 

@@ -1,4 +1,4 @@
-﻿# Concourse samples
+# Concourse samples
 
 Comprehensive samples to quickly get up to speed with [Concourse](../../../organizations/communities/concourse/concourse.md).
 

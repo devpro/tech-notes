@@ -1,4 +1,4 @@
-﻿# Container orchestration
+# Container orchestration
 
 ## Solutions
 

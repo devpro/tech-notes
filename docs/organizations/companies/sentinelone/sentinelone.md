@@ -1,4 +1,4 @@
-﻿# SentinelOne
+# SentinelOne
 
 🌐 [sentinelone.com](https://www.sentinelone.com/)
 

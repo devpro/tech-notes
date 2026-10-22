@@ -1,4 +1,4 @@
-﻿# Independent projects
+# Independent projects
 
 ## Content
 

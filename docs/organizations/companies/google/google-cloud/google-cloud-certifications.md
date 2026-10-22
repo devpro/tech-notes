@@ -1,4 +1,4 @@
-﻿# Certifications
+# Certifications
 
 [Associate Cloud Engineer Certification](https://www.skills.google/paths/11)
 

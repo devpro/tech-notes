@@ -1,4 +1,4 @@
-﻿# Nutanix
+# Nutanix
 
 ## Getting started
 

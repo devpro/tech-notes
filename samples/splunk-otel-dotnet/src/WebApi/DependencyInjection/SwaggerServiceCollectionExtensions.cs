@@ -1,4 +1,4 @@
-﻿namespace SplunkOpenTelemetrySample.WebApi.DependencyInjection
+namespace SplunkOpenTelemetrySample.WebApi.DependencyInjection
 {
     public static class SwaggerServiceCollectionExtensions
     {

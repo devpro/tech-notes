@@ -1,4 +1,4 @@
-﻿# 3DS OUTSCALE
+# 3DS OUTSCALE
 
 > Founded in 2010 and a strategic partner of Dassault Systèmes, 3DS OUTSCALE is at the forefront of Cloud Computing infrastructure services (IaaS).
 

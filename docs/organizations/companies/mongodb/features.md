@@ -1,4 +1,4 @@
-﻿# MongoDB Features
+# MongoDB Features
 
 ## Read
 
