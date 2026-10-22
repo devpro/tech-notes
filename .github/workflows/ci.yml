@@ -1,4 +1,4 @@
-﻿name: CI
+name: CI
 
 on:
   push:
@@ -19,16 +19,12 @@ concurrency:
 jobs:
   markup-lint:
     name: Markup
-    uses: devpro/github-workflow-parts/.github/workflows/reusable-markup-lint.yml@c6d06a61a377a41dc192ce58f08a0b5100d9a2bc
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-markup-lint.yml@bbf341ec77510dacdfbb04ca5af7947dd8f6fb47
 
   code-quality:
     name: Code / Quality
-    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@c6d06a61a377a41dc192ce58f08a0b5100d9a2bc
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@bbf341ec77510dacdfbb04ca5af7947dd8f6fb47
     with:
-      build-command: |
-        npm ci
-        npm run build
       deploy: false
-      node-version: "22"
       site-path: build
-      workflow-parts-version: c6d06a61a377a41dc192ce58f08a0b5100d9a2bc
+      workflow-parts-version: bbf341ec77510dacdfbb04ca5af7947dd8f6fb47
