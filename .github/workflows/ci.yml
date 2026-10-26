@@ -19,12 +19,12 @@ concurrency:
 jobs:
   markup-lint:
     name: Markup
-    uses: devpro/github-workflow-parts/.github/workflows/reusable-markup-lint.yml@13ac7ccf4ba593797f8c80a75f2559ce0fc2d09e
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-markup-lint.yml@591b0c7bfba6fbc7b0cab7d896447e0732b819de
 
   code-quality:
     name: Code / Quality
-    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@13ac7ccf4ba593797f8c80a75f2559ce0fc2d09e
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@591b0c7bfba6fbc7b0cab7d896447e0732b819de
     with:
       deploy: false
       site-path: build
-      workflow-parts-version: 13ac7ccf4ba593797f8c80a75f2559ce0fc2d09e
+      workflow-parts-version: 591b0c7bfba6fbc7b0cab7d896447e0732b819de
