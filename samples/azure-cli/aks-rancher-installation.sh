@@ -6,12 +6,12 @@ CERT_MANAGER_VERSION=v1.10.0
 KUBERNETES_VERSION=v1.23.12
 NODE_COUNT=2
 RESOURCE_PREFIX=bthomas-kubemgmt01
-SUBSCRIPTION_ID=***********
+SUBSCRIPTION_ID='***********'
 VM_SIZE=Standard_D2s_v3
 
 # MANUAL: authenticates and sets account
 az login
-az account set --subscription $SUBSCRIPTION_ID
+az account set --subscription "$SUBSCRIPTION_ID"
 
 # creates resource group
 az group create --name rg-${RESOURCE_PREFIX} --location ${AZURE_LOCATION}
@@ -37,7 +37,7 @@ helm upgrade --install ingress-nginx devpro/ingress-nginx --namespace ingress-ng
 # MANUAL: waits until External IP is set
 kubectl get service ingress-nginx-controller --namespace=ingress-nginx
 # saves NGINX Ingress service public IP
-NGINX_PUBLIC_IP=`kubectl get service -n ingress-nginx ingress-nginx-controller --output jsonpath='{.status.loadBalancer.ingress[0].ip}'`
+NGINX_PUBLIC_IP=$(kubectl get service -n ingress-nginx ingress-nginx-controller --output jsonpath='{.status.loadBalancer.ingress[0].ip}')
 
 # installs cert-manager
 kubectl apply -f https://github.com/cert-manager/cert-manager/releases/download/${CERT_MANAGER_VERSION}/cert-manager.crds.yaml
@@ -55,7 +55,7 @@ kubectl get clusterissuer
 # installs Rancher with Helm
 kubectl create namespace cattle-system
 helm upgrade --install rancher devpro/rancher \
-  --set rancher.hostname=rancher.${NGINX_PUBLIC_IP}.sslip.io \
+  --set rancher.hostname="rancher.${NGINX_PUBLIC_IP}.sslip.io" \
   --namespace cattle-system
 # MANUAL: with Rancher < 2.6.7, edit the rancher ingress object to add "ingressClassName: nginx" under "spec"
 # checks everything is ok
@@ -63,7 +63,7 @@ kubectl get svc,deploy,pod,ingress,pv,certificate -n cattle-system
 # MANUAL: retrieves generated password
 kubectl get secret --namespace cattle-system bootstrap-secret -o go-template='{{ .data.bootstrapPassword|base64decode}}{{ "\n" }}'
 # makes sure Rancher UI is available
-curl https://rancher.${NGINX_PUBLIC_IP}.sslip.io
+curl "https://rancher.${NGINX_PUBLIC_IP}.sslip.io"
 # MANUAL: edits Public IP address Azure resource (Configuration) to set a DNS name label, for example rancher-demo(.westeurope.cloudapp.azure.com), update the server-url in Rancher > Global Settings
 kubectl edit ingress rancher -n cattle-system
 # apiVersion: networking.k8s.io/v1

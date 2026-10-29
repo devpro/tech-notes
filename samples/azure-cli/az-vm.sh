@@ -14,7 +14,7 @@ az login
 az account show
 
 # OPTIONAL: creates a resource group
-az group create --name ${RG_NAME} --location ${AZURE_LOCATION}
+az group create --name ${RG_NAME} --location "${AZ_LOCATION}"
 
 # OPTIONAL: creates a virtual network
 az network vnet create \
@@ -47,4 +47,4 @@ az vm auto-shutdown -g ${RG_NAME} -n ${VM_NAME} --time 2030 --email "bertrand.th
 az vm open-port -g ${RG_NAME} -n ${VM_NAME} --name RKE2_ports --port 6443,9345 --priority 100
 
 # OPTIONAL: connects to the VM
-ssh ${VM_ADMINUSER}@${VM_PUBLICIPADDRESS}
+ssh ${VM_ADMINUSER}@"${VM_PUBLICIPADDRESS}"
