@@ -20,9 +20,9 @@ jobs:
       contents: read
       pages: write
       id-token: write
-    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@1711cf6d760e89fe43e3673dbd8986e355876cca
+    uses: devpro/github-workflow-parts/.github/workflows/reusable-pages-deployment.yml@8c856cd16adc8a0ca01c7889a9c7d98ad8593818
     with:
       fetch-depth: 0
       job-name: Build website
       site-path: build
-      workflow-parts-version: 1711cf6d760e89fe43e3673dbd8986e355876cca
+      workflow-parts-version: 8c856cd16adc8a0ca01c7889a9c7d98ad8593818
