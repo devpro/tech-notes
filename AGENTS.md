@@ -12,6 +12,15 @@ Linux or WSL2, Docker and `bash`.
 - Linters for YAML and Markdown are never run by an agent.
 - Commit only when asked, and never push.
   Shell scripts are `snake_case` and committed with the executable bit (`git update-index --chmod=+x`).
+
+## Continuous integration
+
+IstarCI runs the GitHub workflows locally on every commit, so CI is checked without a push.
+
+- `istarci wait` waits for the run of HEAD and exits with its result, printing the log of each failed job.
+- `istarci status` shows the last run, `istarci logs` its logs and `istarci posture` the security findings.
+- `.istarci.yml` sets the runner image and the allowed actions, and leaves out `deploy.yml`.
+- The Pages deploy job is always skipped, as IstarCI does not run `actions/deploy-pages`.
 - Documentation is as short as possible.
 
 ## Writing style
