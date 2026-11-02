@@ -25,7 +25,7 @@ sudo apt -y install ca-certificates curl gnupg lsb-release apt-transport-https s
 
 - [Docker](../../../organizations/companies/docker/docker-engine.md#ubuntu)
 - [Helm](https://helm.sh/docs/intro/install/)
-- [Node.js & NPM](../../../organizations/foundations/openjs-foundation/nodejs.md#nvvm)
+- [Node.js & NPM](../../../organizations/foundations/openjs-foundation/nodejs.md#linux)
 - [Terraform](https://developer.hashicorp.com/terraform/install)
 - [.NET](https://learn.microsoft.com/en-us/dotnet/core/install/linux-ubuntu-install) ([workaround](https://github.com/dotnet/runtime/issues/121829#issuecomment-3614687693))
 - [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu)

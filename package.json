@@ -33,7 +33,8 @@
     "typescript": "6.0.3"
   },
   "overrides": {
-    "serialize-javascript": "7.0.5"
+    "serialize-javascript": "7.1.4",
+    "tinypool": "2.2.0"
   },
   "browserslist": {
     "production": [
