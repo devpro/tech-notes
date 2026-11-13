@@ -1,5 +1,5 @@
 runner:
-  image: ghcr.io/devpro/debian-node:latest
+  image: ghcr.io/devpro/ubuntu-node:latest
 
 workflow:
   onDisallowedAction: fail
