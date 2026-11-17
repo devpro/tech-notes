@@ -9,4 +9,4 @@ stages:
 
 include:
   # pins a commit, as a tag can move
-  - component: $CI_SERVER_FQDN/devpro-labs/compliance/gitlab-components/markup-lint@cbc054412abfda4a914c1243d719480320c3a084
+  - component: $CI_SERVER_FQDN/devpro-labs/compliance/gitlab-components/markup-lint@a9eb6cf930047096d073c54149516b0e6ff4c551
