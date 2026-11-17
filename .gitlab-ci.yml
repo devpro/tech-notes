@@ -1,29 +1,12 @@
+# runs once for a merge request, and once for the default branch
 workflow:
   rules:
     - if: $CI_PIPELINE_SOURCE == "merge_request_event"
     - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
-    - if: $CI_PIPELINE_SOURCE == "web"
 
 stages:
-  - build
+  - test
 
-lint-markdown:
-  stage: build
-  image: node:lts
-  script:
-    - npm install -g markdownlint-cli2
-    - markdownlint-cli2 "**/*.md"
-
-lint-yaml:
-  stage: build
-  image: python:3.14
-  script:
-    - pip install yamllint
-    - yamllint .
-
-build-website:
-  stage: build
-  image: node:lts
-  script:
-    - npm install
-    - npm run build
+include:
+  # pins a commit, as a tag can move
+  - component: $CI_SERVER_FQDN/devpro-labs/compliance/gitlab-components/markup-lint@cbc054412abfda4a914c1243d719480320c3a084

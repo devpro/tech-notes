@@ -2,6 +2,10 @@ runner:
   image: ghcr.io/devpro/ubuntu-node:latest
 
 workflow:
+  # validates the markup-lint component of gitlab-components, read from its local clone
+  provider: gitlab
+  projects:
+    devpro-labs/compliance/gitlab-components: /home/bertrand/repos/gitlab-components
   onDisallowedAction: fail
   allowedActions:
     - actions/*
